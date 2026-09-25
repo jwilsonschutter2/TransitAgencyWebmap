@@ -1,0 +1,1 @@
+body{margin:0;font-family:Arial,sans-serif}#sidebar{position:absolute;left:0;top:0;bottom:0;width:320px;background:#111827;color:#fff;padding:15px;z-index:2;overflow:auto}#map{position:absolute;left:320px;right:0;top:0;bottom:0}input{width:100%;padding:8px;box-sizing:border-box;margin:6px 0}button{width:100%;padding:10px;background:#2563eb;color:#fff;border:none;cursor:pointer}
