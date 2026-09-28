@@ -2,33 +2,99 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Transit Agency GTFS Viewer</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Interactive GTFS and NTD transit agency viewer">
+  <title>Transit Network Explorer</title>
   <link href="https://api.mapbox.com/mapbox-gl-js/v3.15.0/mapbox-gl.css" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <aside class="sidebar">
-    <h1>Transit Agency GTFS Viewer</h1>
-    <p class="intro">Enter a Mapbox public token, then select an agency centroid to load its route geometry.</p>
-    <label for="tokenInput">Mapbox public token</label>
-    <div class="token-row">
-      <input id="tokenInput" type="password" autocomplete="off" placeholder="pk.eyJ1...">
-      <button id="toggleToken" class="secondary" type="button">Show</button>
-    </div>
-    <button id="loadMapBtn" type="button">Load map</button>
-    <p class="privacy">The token is stored only in this browser's local storage.</p>
-    <div id="status" role="status">Waiting for a Mapbox token.</div>
-    <section id="legend" class="legend" hidden><h2>Route legend</h2><div id="legendItems"></div></section>
-    <section id="agencyInfo" class="agency-card" hidden>
-      <h2 id="agencyName"></h2>
-      <p><strong>Routes:</strong> <span id="routeCount">0</span></p>
-      <p><strong>Vertices:</strong> <span id="vertexCount">0</span></p>
-      <p id="sourceFile"></p>
+    <header class="brand">
+      <div class="brand-mark">TN</div>
+      <div><h1>Transit Network Explorer</h1><p>GTFS routes, stops, and NTD agency data</p></div>
+    </header>
+
+    <section id="setupPanel" class="panel setup-panel">
+      <label for="tokenInput">Mapbox public token</label>
+      <div class="token-row">
+        <input id="tokenInput" type="password" autocomplete="off" placeholder="pk.eyJ1...">
+        <button id="toggleToken" class="btn btn-muted" type="button">Show</button>
+      </div>
+      <button id="loadMapBtn" class="btn btn-primary full" type="button">Load map</button>
+      <small>The token is stored only in this browser.</small>
+    </section>
+
+    <section class="panel search-panel">
+      <label for="agencySearch">Find an agency</label>
+      <input id="agencySearch" type="search" placeholder="Agency, state, or NTD ID" disabled>
+      <div id="searchResults" class="search-results" hidden></div>
+    </section>
+
+    <div id="status" class="status" role="status">Enter a Mapbox token to begin.</div>
+
+    <section id="agencyPanel" hidden>
+      <div class="agency-heading">
+        <div><span id="agencyModeBadge" class="mode-badge">Transit</span><h2 id="agencyName"></h2><p id="agencyLocation"></p></div>
+        <button id="clearAgencyBtn" class="icon-btn" title="Return to national view" type="button">×</button>
+      </div>
+
+      <nav class="tabs" aria-label="Agency information">
+        <button class="tab active" data-tab="network" type="button">Network</button>
+        <button class="tab" data-tab="ntd" type="button">NTD data</button>
+        <button class="tab" data-tab="exports" type="button">Exports</button>
+      </nav>
+
+      <div id="networkTab" class="tab-content active">
+        <div class="kpi-grid">
+          <div class="kpi"><span>Routes</span><strong id="routeCount">0</strong></div>
+          <div class="kpi"><span>Stops</span><strong id="stopCount">0</strong></div>
+          <div class="kpi"><span>Trips</span><strong id="tripCount">0</strong></div>
+          <div class="kpi"><span>Shapes</span><strong id="shapeCount">0</strong></div>
+        </div>
+        <div class="layer-controls">
+          <label><input id="routesToggle" type="checkbox" checked> Routes</label>
+          <label><input id="stopsToggle" type="checkbox" checked> Stops</label>
+          <label><input id="labelsToggle" type="checkbox" checked> Route labels</label>
+        </div>
+        <div id="modeLegend" class="mode-legend"></div>
+        <details id="routeLegendDetails"><summary>Individual routes</summary><div id="routeLegend" class="route-legend"></div></details>
+      </div>
+
+      <div id="ntdTab" class="tab-content">
+        <div id="ntdEmpty" class="empty-state">No matched NTD record is available for this feed.</div>
+        <div id="ntdContent" hidden>
+          <div class="data-list">
+            <div><span>NTD ID</span><strong id="ntdId"></strong></div>
+            <div><span>Reporter</span><strong id="ntdReporter"></strong></div>
+            <div><span>Report year</span><strong id="ntdYear"></strong></div>
+            <div><span>Reporter type</span><strong id="ntdReporterType"></strong></div>
+            <div><span>Vehicles at maximum service</span><strong id="ntdVoms"></strong></div>
+            <div><span>Total facilities</span><strong id="ntdFacilities"></strong></div>
+            <div><span>Passenger stations / terminals</span><strong id="ntdStations"></strong></div>
+            <div><span>Maintenance facilities</span><strong id="ntdMaintenance"></strong></div>
+            <div><span>Service area</span><strong id="ntdArea"></strong></div>
+            <div><span>Service-area population</span><strong id="ntdPopulation"></strong></div>
+            <div><span>TAM tier</span><strong id="tamTier"></strong></div>
+          </div>
+        </div>
+      </div>
+
+      <div id="exportsTab" class="tab-content">
+        <p class="section-note">Download the selected agency's source layers or a combined package.</p>
+        <button id="exportRoutesBtn" class="btn btn-export full" type="button">Download routes GeoJSON</button>
+        <button id="exportStopsBtn" class="btn btn-export full" type="button">Download stops GeoJSON</button>
+        <button id="exportMetadataBtn" class="btn btn-export full" type="button">Download agency metadata JSON</button>
+        <button id="exportPackageBtn" class="btn btn-primary full" type="button">Download combined GeoJSON</button>
+      </div>
     </section>
   </aside>
+
   <main id="map" aria-label="Transit agency map"></main>
+  <div id="loadingOverlay" class="loading-overlay" hidden><div class="spinner"></div><span>Loading agency network…</span></div>
+
   <script src="https://api.mapbox.com/mapbox-gl-js/v3.15.0/mapbox-gl.js"></script>
+  <script src="js/config.js"></script>
   <script src="js/app.js"></script>
 </body>
 </html>

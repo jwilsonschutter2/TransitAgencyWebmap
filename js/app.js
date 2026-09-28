@@ -1,165 +1,35 @@
-const CENTROIDS_URL = "https://raw.githubusercontent.com/jwilsonschutter2/Transit-Agency-GTFS/main/agency_geojson/agency_centroids.geojson";
-const AGENCY_BASE_URL = "https://raw.githubusercontent.com/jwilsonschutter2/Transit-Agency-GTFS/main/agency_geojson/";
-
-let map = null;
-const tokenInput = document.getElementById("tokenInput");
-const statusBox = document.getElementById("status");
-const loadButton = document.getElementById("loadMapBtn");
-const toggleButton = document.getElementById("toggleToken");
-const savedToken = localStorage.getItem("transit_mapbox_token");
-if (savedToken) tokenInput.value = savedToken;
-
-toggleButton.addEventListener("click", () => {
-  const showing = tokenInput.type === "text";
-  tokenInput.type = showing ? "password" : "text";
-  toggleButton.textContent = showing ? "Show" : "Hide";
-});
-
-function setStatus(message, isError = false) {
-  statusBox.textContent = message;
-  statusBox.style.background = isError ? "#7f1d1d" : "#1e293b";
-  statusBox.style.color = isError ? "#fee2e2" : "#cbd5e1";
-}
-
-async function fetchJson(url, label) {
-  const response = await fetch(url, { cache: "no-store" });
-  if (!response.ok) throw new Error(`${label} returned HTTP ${response.status}`);
-  return response.json();
-}
-
-function routeFilename(properties) {
-  const exactFile = properties.file || properties.filename || properties.source_file;
-  if (exactFile) return exactFile;
-  const agency = properties.agency;
-  if (!agency) throw new Error("The selected centroid lacks both a file and agency property.");
-  return agency.toString().endsWith(".geojson") ? agency.toString() : `${agency}.geojson`;
-}
-
-function encodedFileUrl(filename) {
-  return AGENCY_BASE_URL + filename.split("/").map(encodeURIComponent).join("/");
-}
-
-function extendBounds(bounds, geometry) {
-  if (!geometry) return;
-  if (geometry.type === "LineString") geometry.coordinates.forEach(c => bounds.extend(c));
-  if (geometry.type === "MultiLineString") geometry.coordinates.forEach(line => line.forEach(c => bounds.extend(c)));
-}
-
-function modeFromRouteType(value) {
-  const n = Number(value);
-  if ([0, 1, 2, 5, 6, 7, 11, 12].includes(n) || (n >= 100 && n < 200)) return "Rail";
-  if ([3, 11].includes(n) || (n >= 700 && n < 800)) return "Bus";
-  if (n === 4 || (n >= 1000 && n < 1100)) return "Ferry";
-  return "Other";
-}
-
-function hashColor(text) {
-  let hash = 0;
-  for (let i = 0; i < text.length; i++) hash = text.charCodeAt(i) + ((hash << 5) - hash);
-  const hue = Math.abs(hash) % 360;
-  return `hsl(${hue},72%,54%)`;
-}
-
-function normalizeHexColor(value) {
-  if (!value) return null;
-  const v = String(value).trim().replace(/^#/, "");
-  return /^[0-9a-fA-F]{6}$/.test(v) ? `#${v}` : null;
-}
-
-function enrichRoutes(routes) {
-  routes.features.forEach((feature, index) => {
-    const p = feature.properties ||= {};
-    const routeKey = String(p.route_id || p.route_short_name || p.route_long_name || p.shape_id || `Route ${index + 1}`);
-    p._route_key = routeKey;
-    p._route_label = String(p.route_short_name || p.route_long_name || p.route_id || p.shape_id || `Route ${index + 1}`);
-    p._mode = modeFromRouteType(p.route_type);
-    p._route_color = normalizeHexColor(p.route_color) || hashColor(routeKey);
-  });
-  return routes;
-}
-
-function renderLegend(routes) {
-  const unique = new Map();
-  routes.features.forEach(f => {
-    const p = f.properties || {};
-    if (!unique.has(p._route_key)) unique.set(p._route_key, p);
-  });
-  const items = [...unique.values()].slice(0, 40);
-  document.getElementById("legend").hidden = items.length === 0;
-  document.getElementById("legendItems").innerHTML = items.map(p =>
-    `<div class="legend-row"><span class="legend-line" style="background:${p._route_color}"></span><span>${escapeHtml(p._route_label)}</span><span class="legend-mode">${escapeHtml(p._mode)}</span></div>`
-  ).join("") + (unique.size > 40 ? `<div class="legend-mode">Showing 40 of ${unique.size} routes</div>` : "");
-}
-
-function escapeHtml(value) {
-  return String(value).replace(/[&<>'"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;",'"':"&quot;"}[c]));
-}
-
-async function loadAgency(feature) {
-  const props = feature.properties || {};
-  const agency = props.agency || "Unnamed agency";
-  const filename = routeFilename(props);
-  setStatus(`Loading ${agency}...`);
-  const routes = enrichRoutes(await fetchJson(encodedFileUrl(filename), filename));
-  if (!Array.isArray(routes.features)) throw new Error(`${filename} is not a GeoJSON FeatureCollection.`);
-
-  ["route-labels", "rail-routes", "bus-routes", "other-routes", "route-casing"].forEach(id => {
-    if (map.getLayer(id)) map.removeLayer(id);
-  });
-  if (map.getSource("agency-routes")) map.removeSource("agency-routes");
-  map.addSource("agency-routes", { type: "geojson", data: routes });
-
-  map.addLayer({ id: "route-casing", type: "line", source: "agency-routes", paint: { "line-color": "#0f172a", "line-width": ["interpolate", ["linear"], ["zoom"], 4, 3.5, 12, 7], "line-opacity": 0.7 } });
-  map.addLayer({ id: "bus-routes", type: "line", source: "agency-routes", filter: ["==", ["get", "_mode"], "Bus"], paint: { "line-color": ["get", "_route_color"], "line-width": ["interpolate", ["linear"], ["zoom"], 4, 1.5, 12, 4], "line-opacity": 0.9 } });
-  map.addLayer({ id: "rail-routes", type: "line", source: "agency-routes", filter: ["==", ["get", "_mode"], "Rail"], paint: { "line-color": ["get", "_route_color"], "line-width": ["interpolate", ["linear"], ["zoom"], 4, 2.5, 12, 6], "line-opacity": 1 } });
-  map.addLayer({ id: "other-routes", type: "line", source: "agency-routes", filter: ["!in", ["get", "_mode"], ["literal", ["Bus", "Rail"]]], paint: { "line-color": ["get", "_route_color"], "line-width": ["interpolate", ["linear"], ["zoom"], 4, 1.8, 12, 4.5], "line-dasharray": [2, 1], "line-opacity": 0.9 } });
-  map.addLayer({ id: "route-labels", type: "symbol", source: "agency-routes", minzoom: 10, layout: { "symbol-placement": "line", "text-field": ["get", "_route_label"], "text-size": 11, "text-allow-overlap": false, "text-ignore-placement": false, "symbol-spacing": 450 }, paint: { "text-color": "#ffffff", "text-halo-color": "#0f172a", "text-halo-width": 1.5 } });
-
-  const bounds = new mapboxgl.LngLatBounds();
-  routes.features.forEach(f => extendBounds(bounds, f.geometry));
-  if (!bounds.isEmpty()) map.fitBounds(bounds, { padding: 60, maxZoom: 13, duration: 900 });
-  renderLegend(routes);
-  document.getElementById("agencyInfo").hidden = false;
-  document.getElementById("agencyName").textContent = agency;
-  document.getElementById("routeCount").textContent = new Set(routes.features.map(f => f.properties?._route_key)).size;
-  document.getElementById("vertexCount").textContent = props.vertex_count || "Not provided";
-  document.getElementById("sourceFile").textContent = filename;
-  setStatus(`Loaded ${agency}. Rail, bus, and individual routes are styled separately where attributes are available.`);
-}
-
-async function initializeMap() {
-  const token = tokenInput.value.trim();
-  if (!token) return setStatus("Enter a Mapbox public token.", true);
-  if (map) return setStatus("The map is already loaded.");
-  localStorage.setItem("transit_mapbox_token", token);
-  mapboxgl.accessToken = token;
-  setStatus("Loading map and agency centroids...");
-  map = new mapboxgl.Map({ container: "map", style: "mapbox://styles/mapbox/dark-v11", center: [-98.5, 39.5], zoom: 3 });
-  map.addControl(new mapboxgl.NavigationControl(), "top-right");
-  map.on("error", event => { if (event.error) setStatus(`Map error: ${event.error.message}`, true); });
-
-  map.on("load", async () => {
-    try {
-      const centroids = await fetchJson(CENTROIDS_URL, "agency_centroids.geojson");
-      map.addSource("agency-centroids", { type: "geojson", data: centroids, cluster: true, clusterMaxZoom: 9, clusterRadius: 45 });
-      map.addLayer({ id: "clusters", type: "circle", source: "agency-centroids", filter: ["has", "point_count"], paint: { "circle-color": "#2563eb", "circle-radius": ["step", ["get", "point_count"], 17, 25, 22, 100, 28], "circle-stroke-color": "#fff", "circle-stroke-width": 1 } });
-      map.addLayer({ id: "cluster-count", type: "symbol", source: "agency-centroids", filter: ["has", "point_count"], layout: { "text-field": ["get", "point_count_abbreviated"], "text-size": 12 }, paint: { "text-color": "#fff" } });
-      map.addLayer({ id: "agency-centroids", type: "circle", source: "agency-centroids", filter: ["!", ["has", "point_count"]], paint: { "circle-radius": 6, "circle-color": "#38bdf8", "circle-stroke-color": "#fff", "circle-stroke-width": 1.5 } });
-      map.addLayer({ id: "agency-labels", type: "symbol", source: "agency-centroids", filter: ["!", ["has", "point_count"]], layout: { "text-field": ["coalesce", ["get", "agency"], "Transit agency"], "text-size": 10, "text-offset": [0, 1.25], "text-anchor": "top", "text-max-width": 14, "text-allow-overlap": false, "text-optional": true }, paint: { "text-color": "#f8fafc", "text-halo-color": "#0f172a", "text-halo-width": 1.2 } });
-
-      map.on("click", "clusters", e => {
-        const feature = map.queryRenderedFeatures(e.point, { layers: ["clusters"] })[0];
-        map.getSource("agency-centroids").getClusterExpansionZoom(feature.properties.cluster_id, (error, zoom) => { if (!error) map.easeTo({ center: feature.geometry.coordinates, zoom }); });
-      });
-      map.on("click", "agency-centroids", async e => { try { await loadAgency(e.features[0]); } catch (error) { console.error(error); setStatus(error.message, true); } });
-      ["clusters", "agency-centroids", "agency-labels"].forEach(layer => {
-        map.on("mouseenter", layer, () => map.getCanvas().style.cursor = "pointer");
-        map.on("mouseleave", layer, () => map.getCanvas().style.cursor = "");
-      });
-      setStatus(`Loaded ${centroids.features?.length || 0} agency centroids. Click a point or label to view routes.`);
-    } catch (error) { console.error(error); setStatus(error.message, true); }
-  });
-}
-
-loadButton.addEventListener("click", initializeMap);
-tokenInput.addEventListener("keydown", event => { if (event.key === "Enter") initializeMap(); });
+const CFG=window.TRANSIT_APP_CONFIG;const BASE=CFG.repositoryRawBase.replace(/\/$/,"");
+let map=null,centroids=null,metadata={},selected=null,currentRoutes=null,currentStops=null,nationalBounds=null;
+const $=id=>document.getElementById(id);const tokenInput=$("tokenInput"),statusBox=$("status"),overlay=$("loadingOverlay");
+const fmt=v=>v===null||v===undefined||v===""?"Not available":Number.isFinite(Number(v))?Number(v).toLocaleString():String(v);
+const esc=v=>String(v??"").replace(/[&<>'"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;",'"':"&quot;"}[c]));
+const url=p=>/^https?:/.test(p)?p:`${BASE}/${String(p).replace(/^\.\//,"")}`;
+function setStatus(m,e=false){statusBox.textContent=m;statusBox.style.borderLeftColor=e?"#c33b36":"#6892c5";statusBox.style.background=e?"#fbeceb":"#eaf0f7"}
+async function getJson(path,label=path){const r=await fetch(url(path),{cache:"no-store"});if(!r.ok)throw new Error(`${label} returned HTTP ${r.status}`);const t=await r.text();try{return JSON.parse(t)}catch{throw new Error(`${label} did not return valid JSON`)}}
+async function firstJson(paths,label){let last;for(const p of paths){try{return await getJson(p,label)}catch(e){last=e}}throw last}
+function shortId(p){return p.short_id||p.source_id||String(p.feed_id||"").match(/(?:mdb|ntd|tld)-[\w-]+/i)?.[0]||""}
+function agencyName(p){return p.agency_name||p.agency||p.metadata_agency_names||p.name||shortId(p)||"Transit agency"}
+function paths(p){const sid=shortId(p),routeName=p.routes_file||`${sid}_routes.geojson`,stopName=p.stops_file||`${sid}_stops.geojson`;return{routes:p.routes_path||`${CFG.routeFolder}/${routeName}`,stops:p.stops_path||`${CFG.stopFolder}/${stopName}`}}
+function metaFor(p){const keys=[p.feed_id,shortId(p),p.metadata_feed_id,p.ntd_id].filter(Boolean);for(const k of keys)if(metadata[k])return metadata[k];return{}}
+function modeName(v){const n=Number(v);if(n===0)return"Tram / light rail";if(n===1)return"Subway / metro";if(n===2)return"Commuter / intercity rail";if(n===3||(n>=700&&n<800))return"Bus";if(n===4||(n>=1000&&n<1100))return"Ferry";if(n===5)return"Cable tram";if(n===6)return"Aerial lift";if(n===7)return"Funicular";if(n===11)return"Trolleybus";if(n===12)return"Monorail";if(n>=100&&n<200)return"Rail";return"Other"}
+function modeGroup(v){const n=Number(v);if([0,1,2,5,6,7,12].includes(n)||(n>=100&&n<200))return"Rail";if(n===3||n===11||(n>=700&&n<800))return"Bus";if(n===4||(n>=1000&&n<1100))return"Ferry";return"Other"}
+function hashColor(s){let h=0;for(const c of String(s))h=c.charCodeAt(0)+((h<<5)-h);return`hsl(${Math.abs(h)%360},68%,47%)`}
+function color(v,fallback){const c=String(v||"").replace(/^#/,"");return /^[0-9a-f]{6}$/i.test(c)?`#${c}`:fallback}
+function enrichRoutes(fc){fc.features.forEach((f,i)=>{const p=f.properties||={};p._key=String(p.route_id||p.route_short_name||p.route_long_name||p.shape_id||i);p._label=String(p.route_short_name||p.route_long_name||p.trip_headsigns||p.route_id||`Route ${i+1}`);p._group=modeGroup(p.route_type);p._mode=modeName(p.route_type);p._color=color(p.route_color,hashColor(p._key));p._text=color(p.route_text_color,"#ffffff")});return fc}
+function extend(b,g){if(!g)return;const walk=a=>typeof a[0]==="number"?b.extend(a):a.forEach(walk);walk(g.coordinates||[])}
+function layerVisible(id,yes){if(map.getLayer(id))map.setLayoutProperty(id,"visibility",yes?"visible":"none")}
+function removeNetwork(){["route-labels","stops","station-halos","rail-routes","bus-routes","ferry-routes","other-routes","route-casing"].forEach(id=>{if(map?.getLayer(id))map.removeLayer(id)});["agency-routes","agency-stops"].forEach(id=>{if(map?.getSource(id))map.removeSource(id)});currentRoutes=currentStops=null}
+function addNetworkLayers(routes,stops){removeNetwork();map.addSource("agency-routes",{type:"geojson",data:routes});map.addLayer({id:"route-casing",type:"line",source:"agency-routes",paint:{"line-color":"#fff","line-width":["interpolate",["linear"],["zoom"],5,3.2,13,8],"line-opacity":.72}});map.addLayer({id:"bus-routes",type:"line",source:"agency-routes",filter:["==",["get","_group"],"Bus"],paint:{"line-color":["get","_color"],"line-width":["interpolate",["linear"],["zoom"],5,1.2,13,3.2],"line-opacity":.78}});map.addLayer({id:"rail-routes",type:"line",source:"agency-routes",filter:["==",["get","_group"],"Rail"],paint:{"line-color":["get","_color"],"line-width":["interpolate",["linear"],["zoom"],5,2.4,13,5.5],"line-opacity":.96}});map.addLayer({id:"ferry-routes",type:"line",source:"agency-routes",filter:["==",["get","_group"],"Ferry"],paint:{"line-color":["get","_color"],"line-width":["interpolate",["linear"],["zoom"],5,1.8,13,4.2],"line-dasharray":[2,1],"line-opacity":.9}});map.addLayer({id:"other-routes",type:"line",source:"agency-routes",filter:["==",["get","_group"],"Other"],paint:{"line-color":["get","_color"],"line-width":2,"line-dasharray":[1,1.5],"line-opacity":.75}});map.addLayer({id:"route-labels",type:"symbol",source:"agency-routes",minzoom:9.5,layout:{"symbol-placement":"line","text-field":["get","_label"],"text-size":11,"symbol-spacing":500,"text-allow-overlap":false},paint:{"text-color":"#18212f","text-halo-color":"#fff","text-halo-width":1.6}});
+if(stops?.features?.length){map.addSource("agency-stops",{type:"geojson",data:stops});map.addLayer({id:"station-halos",type:"circle",source:"agency-stops",filter:["==",["to-number",["coalesce",["get","location_type"],0]],1],minzoom:7,paint:{"circle-radius":["interpolate",["linear"],["zoom"],7,3,14,8],"circle-color":"#fff","circle-stroke-color":"#172033","circle-stroke-width":2}});map.addLayer({id:"stops",type:"circle",source:"agency-stops",filter:["!=",["to-number",["coalesce",["get","location_type"],0]],1],minzoom:10,paint:{"circle-radius":["interpolate",["linear"],["zoom"],10,2,15,4],"circle-color":"#fff","circle-stroke-color":"#37475b","circle-stroke-width":1.2,"circle-opacity":.95}})}
+map.on("click","rail-routes",routePopup);map.on("click","bus-routes",routePopup);map.on("click","ferry-routes",routePopup);if(map.getLayer("stops"))map.on("click","stops",stopPopup);if(map.getLayer("station-halos"))map.on("click","station-halos",stopPopup)}
+function routePopup(e){const p=e.features[0].properties;new mapboxgl.Popup().setLngLat(e.lngLat).setHTML(`<div class="route-popup"><div class="route-popup-head" style="background:${p._color};color:${p._text}">${esc(p._mode)} · ${esc(p.route_short_name||p.route_id||"")}</div><div class="route-popup-body"><strong>${esc(p.route_long_name||p._label)}</strong><br>${esc(p.agency_name||p.metadata_ntd_agency||agencyName(selected.properties))}</div></div>`).addTo(map)}
+function stopPopup(e){const p=e.features[0].properties;new mapboxgl.Popup().setLngLat(e.lngLat).setHTML(`<div class="stop-popup"><h3>${esc(p.stop_name||"Transit stop")}</h3><p>Stop ID: ${esc(p.stop_id||"Not available")}</p><p>Routes: ${esc(p.route_short_names||p.route_ids||"Not available")}</p><p>Accessibility: ${p.wheelchair_boarding==="1"?"Wheelchair boarding available":"Not specified"}</p></div>`).addTo(map)}
+function renderLegend(routes){const unique=new Map(),groups=new Set();routes.features.forEach(f=>{const p=f.properties;groups.add(p._group);if(!unique.has(p._key))unique.set(p._key,p)});const groupColors={Bus:"#2f7d5c",Rail:"#7654c7",Ferry:"#1679a7",Other:"#697586"};$("modeLegend").innerHTML=[...groups].map(g=>`<span class="mode-chip"><i class="mode-swatch" style="background:${groupColors[g]}"></i>${g}</span>`).join("");$("routeLegend").innerHTML=[...unique.values()].sort((a,b)=>a._label.localeCompare(b._label)).slice(0,150).map(p=>`<div class="route-row"><i class="route-line" style="background:${p._color}"></i><span>${esc(p._label)}</span><span>${esc(p._mode)}</span></div>`).join("")}
+function updatePanel(p,m,routes,stops){const ntd=m.ntd_facilities||{},fac=ntd.facilities||{},tam=m.ntd_tam||{},rs=m.gtfs?.route_statistics||{},ss=m.gtfs?.stop_statistics||{};$("agencyPanel").hidden=false;$("agencyName").textContent=agencyName(p);$("agencyLocation").textContent=[ntd.city||tam.city,p.state||p.state_hint||ntd.state||tam.state].filter(Boolean).join(", ")||shortId(p);const groups=new Set(routes.features.map(f=>f.properties._group));$("agencyModeBadge").textContent=[...groups].join(" · ")||"Transit";$("routeCount").textContent=fmt(rs.route_count||new Set(routes.features.map(f=>f.properties._key)).size);$("stopCount").textContent=fmt(ss.unique_stop_count||stops?.features?.length||0);$("tripCount").textContent=fmt(rs.trip_count||0);$("shapeCount").textContent=fmt(rs.shape_count||routes.features.length);const nid=m.ntd_match?.ntd_id||p.ntd_id||p.metadata_ntd_id;$("ntdEmpty").hidden=!!nid;$("ntdContent").hidden=!nid;if(nid){$("ntdId").textContent=nid;$("ntdReporter").textContent=ntd.agency||tam.reporter_name||"Not available";$("ntdYear").textContent=fmt(ntd.report_year);$("ntdReporterType").textContent=ntd.reporter_type||tam.reporter_type||"Not available";$("ntdVoms").textContent=fmt(ntd.agency_voms);$("ntdFacilities").textContent=fmt(fac.total_facilities);$("ntdStations").textContent=fmt(fac.passenger_stations_and_terminals);$("ntdMaintenance").textContent=fmt(fac.maintenance_facilities);$("ntdArea").textContent=tam.service_area_sq_miles?`${fmt(tam.service_area_sq_miles)} sq mi`:"Not available";$("ntdPopulation").textContent=fmt(tam.service_area_population);$("tamTier").textContent=tam.tam_tier||"Not available"}renderLegend(routes)}
+async function loadAgency(feature){selected=feature;const p=feature.properties||{},fp=paths(p),m=metaFor(p);overlay.hidden=false;setStatus(`Loading ${agencyName(p)}…`);try{const routes=enrichRoutes(await getJson(fp.routes,"Routes GeoJSON"));let stops={type:"FeatureCollection",features:[]};try{stops=await getJson(fp.stops,"Stops GeoJSON")}catch(e){console.warn(e)}currentRoutes=routes;currentStops=stops;addNetworkLayers(routes,stops);const b=new mapboxgl.LngLatBounds();routes.features.forEach(f=>extend(b,f.geometry));if(!b.isEmpty())map.fitBounds(b,{padding:{top:55,bottom:55,left:430,right:55},maxZoom:13,duration:900});updatePanel(p,m,routes,stops);setStatus(`Loaded ${agencyName(p)}. Select a route or stop for details.`)}catch(e){console.error(e);setStatus(e.message,true)}finally{overlay.hidden=true}}
+function download(data,name){const blob=data instanceof Blob?data:new Blob([typeof data==="string"?data:JSON.stringify(data,null,2)],{type:"application/json"}),a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000)}
+function bindExports(){$("exportRoutesBtn").onclick=()=>currentRoutes&&download(currentRoutes,`${shortId(selected.properties)}_routes.geojson`);$("exportStopsBtn").onclick=()=>currentStops&&download(currentStops,`${shortId(selected.properties)}_stops.geojson`);$("exportMetadataBtn").onclick=()=>selected&&download(metaFor(selected.properties),`${shortId(selected.properties)}_metadata.json`);$("exportPackageBtn").onclick=()=>selected&&download({type:"TransitAgencyPackage",agency:selected.properties,metadata:metaFor(selected.properties),routes:currentRoutes,stops:currentStops},`${shortId(selected.properties)}_transit_package.json`)}
+function clearAgency(){selected=null;removeNetwork();$("agencyPanel").hidden=true;if(nationalBounds&&!nationalBounds.isEmpty())map.fitBounds(nationalBounds,{padding:40,maxZoom:4});setStatus("National agency view. Select a centroid or search for an agency.")}
+async function init(){const token=tokenInput.value.trim();if(!token)return setStatus("Enter a Mapbox public token.",true);localStorage.setItem("transit_mapbox_token",token);mapboxgl.accessToken=token;if(map)return;map=new mapboxgl.Map({container:"map",style:"mapbox://styles/mapbox/light-v11",center:CFG.initialCenter,zoom:CFG.initialZoom});map.addControl(new mapboxgl.NavigationControl(),"top-right");map.addControl(new mapboxgl.FullscreenControl(),"top-right");map.on("load",async()=>{try{[centroids,metadata]=await Promise.all([firstJson(CFG.fallbackCentroidPaths,"Agency centroids"),firstJson(CFG.metadataPaths,"Agency metadata").catch(()=>({}))]);if(Array.isArray(metadata))metadata=Object.fromEntries(metadata.map(x=>[x.feed_id||x.short_id,x]));nationalBounds=new mapboxgl.LngLatBounds();centroids.features.forEach(f=>nationalBounds.extend(f.geometry.coordinates));map.addSource("agency-centroids",{type:"geojson",data:centroids,cluster:true,clusterMaxZoom:9,clusterRadius:42});map.addLayer({id:"clusters",type:"circle",source:"agency-centroids",filter:["has","point_count"],paint:{"circle-color":["step",["get","point_count"],"#42a7c6",20,"#2378ba",75,"#324d88"],"circle-radius":["step",["get","point_count"],16,20,21,75,27],"circle-stroke-color":"#fff","circle-stroke-width":2}});map.addLayer({id:"cluster-count",type:"symbol",source:"agency-centroids",filter:["has","point_count"],layout:{"text-field":["get","point_count_abbreviated"],"text-size":11},paint:{"text-color":"#fff"}});map.addLayer({id:"agency-centroids",type:"circle",source:"agency-centroids",filter:["!",["has","point_count"]],paint:{"circle-radius":["interpolate",["linear"],["zoom"],3,4,10,7],"circle-color":"#1769e0","circle-stroke-color":"#fff","circle-stroke-width":1.5}});map.addLayer({id:"agency-labels",type:"symbol",source:"agency-centroids",filter:["!",["has","point_count"]],minzoom:5,layout:{"text-field":["coalesce",["get","agency_name"],["get","agency"],"Transit agency"],"text-size":10,"text-offset":[0,1.1],"text-anchor":"top","text-max-width":15,"text-optional":true},paint:{"text-color":"#27364a","text-halo-color":"#fff","text-halo-width":1.5}});map.on("click","clusters",e=>{const f=map.queryRenderedFeatures(e.point,{layers:["clusters"]})[0];map.getSource("agency-centroids").getClusterExpansionZoom(f.properties.cluster_id,(err,z)=>!err&&map.easeTo({center:f.geometry.coordinates,zoom:z}))});map.on("click","agency-centroids",e=>loadAgency(e.features[0]));map.on("click","agency-labels",e=>loadAgency(e.features[0]));["clusters","agency-centroids","agency-labels"].forEach(id=>{map.on("mouseenter",id,()=>map.getCanvas().style.cursor="pointer");map.on("mouseleave",id,()=>map.getCanvas().style.cursor="")});$("agencySearch").disabled=false;setStatus(`Loaded ${centroids.features.length.toLocaleString()} agency networks.`)}catch(e){console.error(e);setStatus(e.message,true)}})}
+function bind(){const saved=localStorage.getItem("transit_mapbox_token");if(saved)tokenInput.value=saved;$("toggleToken").onclick=()=>{const show=tokenInput.type==="password";tokenInput.type=show?"text":"password";$("toggleToken").textContent=show?"Hide":"Show"};$("loadMapBtn").onclick=init;tokenInput.onkeydown=e=>e.key==="Enter"&&init();$("clearAgencyBtn").onclick=clearAgency;document.querySelectorAll(".tab").forEach(t=>t.onclick=()=>{document.querySelectorAll(".tab,.tab-content").forEach(x=>x.classList.remove("active"));t.classList.add("active");$(`${t.dataset.tab}Tab`).classList.add("active")});$("routesToggle").onchange=e=>["route-casing","bus-routes","rail-routes","ferry-routes","other-routes"].forEach(id=>layerVisible(id,e.target.checked));$("stopsToggle").onchange=e=>["stops","station-halos"].forEach(id=>layerVisible(id,e.target.checked));$("labelsToggle").onchange=e=>layerVisible("route-labels",e.target.checked);$("agencySearch").oninput=e=>{const q=e.target.value.trim().toLowerCase(),box=$("searchResults");if(q.length<2||!centroids){box.hidden=true;return}const hits=centroids.features.filter(f=>{const p=f.properties||{};return [agencyName(p),p.state,p.state_hint,p.ntd_id,p.metadata_ntd_id,shortId(p)].some(v=>String(v||"").toLowerCase().includes(q))}).slice(0,20);box.innerHTML=hits.map((f,i)=>`<button class="search-result" data-i="${i}"><strong>${esc(agencyName(f.properties))}</strong><span>${esc(f.properties.state||f.properties.state_hint||"")} · ${esc(shortId(f.properties))}</span></button>`).join("");box.hidden=!hits.length;box.querySelectorAll("button").forEach(b=>b.onclick=()=>{box.hidden=true;$("agencySearch").value=agencyName(hits[+b.dataset.i].properties);loadAgency(hits[+b.dataset.i])})};bindExports()}
+bind();
