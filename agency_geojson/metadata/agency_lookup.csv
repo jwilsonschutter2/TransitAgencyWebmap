@@ -1,0 +1,821 @@
+﻿feed_id,short_id,agency_name,ntd_id,routes_file,stops_file
+Alabama__Huntsville_Shuttle__mdb_mdb-2081,mdb-2081,AL_Huntsville,40071,mdb-2081_routes.geojson,mdb-2081_stops.geojson
+Alabama__Montgomery_Transit__mdb_mdb-338,mdb-338,Montgomery Transit,40044,mdb-338_routes.geojson,mdb-338_stops.geojson
+Alabama__Tuscaloosa_Transit_Authority__mdb_tld-7046,tld-7046,Tuscaloosa Transit Authority,40045,tld-7046_routes.geojson,tld-7046_stops.geojson
+Alaska__Anchorage_People_Mover__mdb_mdb-225,mdb-225,Municipality of Anchorage People Mover,00012,mdb-225_routes.geojson,mdb-225_stops.geojson
+Alaska__Capital_Transit__mdb_mdb-294,mdb-294,Capital Transit,00391,mdb-294_routes.geojson,mdb-294_stops.geojson
+Alaska__Inter-Island_Ferry__mdb_mdb-243,mdb-243,Inter-Island Ferry Authority,00382,mdb-243_routes.geojson,mdb-243_stops.geojson
+Alaska__Ketchikan_Gateway_Borough__mdb_mdb-244,mdb-244,Airport Ferry | The Bus - Ketchikan Gateway Borough,00358,mdb-244_routes.geojson,mdb-244_stops.geojson
+Arizona__Bisbee_Bus__mdb_mdb-2857,mdb-2857,Bisbee Bus,91121,mdb-2857_routes.geojson,mdb-2857_stops.geojson
+Arizona__Bullhead_Area_Transit_System__mdb_mdb-109,mdb-109,Bullhead Area Transit System,91037,mdb-109_routes.geojson,mdb-109_stops.geojson
+Arizona__City_of_Sierra_Vista__mdb_tld-679,tld-679,Vista Transit,90239,tld-679_routes.geojson,tld-679_stops.geojson
+Arizona__Cottonwood_Area_Transit_(CAT)__mdb_mdb-158,mdb-158,Cottonwood Area Transit,91010,mdb-158_routes.geojson,mdb-158_stops.geojson
+Arizona__Grand_Canyon_National_Park__mdb_mdb-1905,mdb-1905,National Park Service,99468,mdb-1905_routes.geojson,mdb-1905_stops.geojson
+Arizona__Maricopa_Express_Transit__mdb_tld-6743,tld-6743,Maricopa Express Transit,91106,tld-6743_routes.geojson,tld-6743_stops.geojson
+Arizona__Mountain_Line_Transit__mdb_mdb-1979,mdb-1979,Mountain Line,90219,mdb-1979_routes.geojson,mdb-1979_stops.geojson
+Arizona__Regional_Transportation_Authority_of_Pima_County__mdb_ntd-91122,ntd-91122,Regional Transportation Authority of Pima County,91122,ntd-91122_routes.geojson,ntd-91122_stops.geojson
+Arizona__Valley_Metro_(VM)__mdb_mdb-147,mdb-147,Valley Metro | Phoenix Sky Harbor International Airport,90209,mdb-147_routes.geojson,mdb-147_stops.geojson
+Arizona__Yuma_County_Intergovernmental_Public_Transportation_Authority_(YCIPTA)__mdb_mdb-17,mdb-17,Yuma County Intergovernmental Public Transportation Authority,90233,mdb-17_routes.geojson,mdb-17_stops.geojson
+Arkansas__City_of_Fort_Smith__mdb_ntd-60086,ntd-60086,City of Fort Smith Transit,60086,ntd-60086_routes.geojson,ntd-60086_stops.geojson
+Arkansas__Eureka_Springs_Transit__mdb_ntd-60161,ntd-60161,Eureka Springs Transit,60257,ntd-60161_routes.geojson,ntd-60161_stops.geojson
+Arkansas__Ozark_Regional_Transit__mdb_tld-4470,tld-4470,Ozark Regional Transit,60072,tld-4470_routes.geojson,tld-4470_stops.geojson
+California__Alameda-Contra_Costa_Transit_District_(AC_Transit)__mdb_mdb-2455,mdb-2455,AC TRANSIT,90014,mdb-2455_routes.geojson,mdb-2455_stops.geojson
+California__Altamont_Corridor_Express__mdb_mdb-2684,mdb-2684,Altamont Corridor Express,90182,mdb-2684_routes.geojson,mdb-2684_stops.geojson
+California__Amador_Transit__mdb_mdb-92,mdb-92,Amador Transit,91000,mdb-92_routes.geojson,mdb-92_stops.geojson
+California__Amtrak__mdb_mdb-11,mdb-11,Temporary Amtrak Chartered Vehicle | Roadrunner Shuttle | Via Rail Canada | Route 66 Express | Alvand Transportation | Amtrak Chartered Vehicle | Arrow Trailways | Vegas Airporter | Executive Transportation | Stagecoach Express | Amtrak Chartered Motorcoach | The Lift | Beeline Express | Coach Usa | Shore Line East | Amtrak | Sunway Charters | MARC | FLIX,99469,mdb-11_routes.geojson,mdb-11_stops.geojson
+California__Amtrak_San_Joaquins__mdb_mdb-2295,mdb-2295,Gold Runner,99470,mdb-2295_routes.geojson,mdb-2295_stops.geojson
+California__Arcadia_Transit__mdb_mdb-2243,mdb-2243,City of Arcadia,90044,mdb-2243_routes.geojson,mdb-2243_stops.geojson
+California__Auburn_Transit__mdb_mdb-2275,mdb-2275,Auburn Transit,91032,mdb-2275_routes.geojson,mdb-2275_stops.geojson
+California__Baldwin_Park_Transit__mdb_mdb-2247,mdb-2247,"Baldwin Park, CA",90251,mdb-2247_routes.geojson,mdb-2247_stops.geojson
+California__Bay_Area_Rapid_Transit_(BART)__mdb_mdb-53,mdb-53,Bay Area Rapid Transit,90003,mdb-53_routes.geojson,mdb-53_stops.geojson
+California__Beach_Cities_Transit__mdb_mdb-1999,mdb-1999,Beach Cities Transit,90214,mdb-1999_routes.geojson,mdb-1999_stops.geojson
+California__Beaumont_Transit__mdb_mdb-106,mdb-106,Beaumont Transit,99478,mdb-106_routes.geojson,mdb-106_stops.geojson
+California__Big_Blue_Bus__mdb_mdb-37,mdb-37,Big Blue Bus,90008,mdb-37_routes.geojson,mdb-37_stops.geojson
+California__Blossom_Express__mdb_mdb-236,mdb-236,Blossom Express,91089,mdb-236_routes.geojson,mdb-236_stops.geojson
+California__BurbankBus__mdb_mdb-2149,mdb-2149,Burbank Bus,99444,mdb-2149_routes.geojson,mdb-2149_stops.geojson
+California__Butte_Regional_Transit_(B-Line)__mdb_ntd-90208,ntd-90208,B-Line,90208,ntd-90208_routes.geojson,ntd-90208_stops.geojson
+California__Calaveras_Transit__mdb_mdb-93,mdb-93,Calaveras Connect,99442,mdb-93_routes.geojson,mdb-93_stops.geojson
+California__Caltrain__mdb_mdb-54,mdb-54,Caltrain,90134,mdb-54_routes.geojson,mdb-54_stops.geojson
+California__Camarillo_Area_Transit__mdb_mdb-2234,mdb-2234,Camarillo Area Transit,90163,mdb-2234_routes.geojson,mdb-2234_stops.geojson
+California__Capitol_Corridor_Joint_Powers_Authority_(Capitol_Corridor)__mdb_mdb-74,mdb-74,Capitol Corridor Joint Powers Authority,90304,mdb-74_routes.geojson,mdb-74_stops.geojson
+California__Catalina_Express__mdb_mdb-299,mdb-299,Catalina Express,91089,mdb-299_routes.geojson,mdb-299_stops.geojson
+California__Cerritos_On_Wheels__mdb_tld-4667,tld-4667,City of Cerritos,90259,tld-4667_routes.geojson,tld-4667_stops.geojson
+California__City_of_Banning_Transit__mdb_mdb-220,mdb-220,City of Banning Transit,91027,mdb-220_routes.geojson,mdb-220_stops.geojson
+California__City_of_Camarillo__mdb_ntd-90163,ntd-90163,Gold Coast Transit District | Thousand Oaks Transit | VCTC Intercity | Kanan Shuttle | Moorpark City Transit | Ojai Trolley | Valley Express Transit Service | Simi Valley Transit | Camarillo Area Transit,90163,ntd-90163_routes.geojson,ntd-90163_stops.geojson
+California__City_of_Irvine__mdb_tld-6724,tld-6724,City of Irvine (LAZ Parking),99470,tld-6724_routes.geojson,tld-6724_stops.geojson
+California__City_of_San_Luis_Obispo_Transit__mdb_mdb-44,mdb-44,City of San Luis Obispo Transit,90156,mdb-44_routes.geojson,mdb-44_stops.geojson
+California__City_of_Santa_Clarita_Transit__mdb_tld-1256,tld-1256,Santa Clarita Transit,90171,tld-1256_routes.geojson,tld-1256_stops.geojson
+California__City_of_Tracy_(TRACER)__mdb_mdb-3099,mdb-3099,TRACER Bus Service,90197,mdb-3099_routes.geojson,mdb-3099_stops.geojson
+California__Clovis_Transit__mdb_mdb-2894,mdb-2894,City of Clovis,90313,mdb-2894_routes.geojson,mdb-2894_stops.geojson
+California__Commerce_Municipal_Bus_Lines__mdb_mdb-994,mdb-994,City Of Commerce Transit,90043,mdb-994_routes.geojson,mdb-994_stops.geojson
+California__Commute.org_San_Mateo_County_Shuttles__mdb_mdb-61,mdb-61,SamTrans | Commute.org Shuttles,99451,mdb-61_routes.geojson,mdb-61_stops.geojson
+California__Corona_Cruiser__mdb_mdb-104,mdb-104,Corona Cruiser,,mdb-104_routes.geojson,mdb-104_stops.geojson
+California__County_Connection_(CCCTA)__mdb_mdb-2421,mdb-2421,County Connection,91005,mdb-2421_routes.geojson,mdb-2421_stops.geojson
+California__Dana_Point_Trolley__mdb_mdb-2361,mdb-2361,Dana Point,90131,mdb-2361_routes.geojson,mdb-2361_stops.geojson
+California__Delano_Area_Rapid_Transit__mdb_mdb-320,mdb-320,Delano Area Rapid Transit,90238,mdb-320_routes.geojson,mdb-320_stops.geojson
+California__Devils_Postpile_National_Monument__mdb_mdb-3206,mdb-3206,Eastern Sierra Transit Authority,91062,mdb-3206_routes.geojson,mdb-3206_stops.geojson
+California__Eastern_Sierra_Transit__mdb_mdb-25,mdb-25,Eastern Sierra Transit Authority,91062,mdb-25_routes.geojson,mdb-25_stops.geojson
+California__El_Dorado_Transit__mdb_mdb-75,mdb-75,El Dorado Transit,90229,mdb-75_routes.geojson,mdb-75_stops.geojson
+California__Emery_Go-Round__mdb_mdb-2224,mdb-2224,Emery Go-Round,88224,mdb-2224_routes.geojson,mdb-2224_stops.geojson
+California__eTrans__mdb_mdb-65,mdb-65,eTrans,91078,mdb-65_routes.geojson,mdb-65_stops.geojson
+California__Foothill_Transit__mdb_mdb-101,mdb-101,Foothill Transit,90146,mdb-101_routes.geojson,mdb-101_stops.geojson
+California__Fresno_Area_Express_(FAX)__mdb_mdb-90,mdb-90,Fresno Area Express,90027,mdb-90_routes.geojson,mdb-90_stops.geojson
+California__Fresno_County_Rural_Transit_Agency_(FCRTA)__mdb_mdb-85,mdb-85,Fresno County Rural Transit Authority,91007,mdb-85_routes.geojson,mdb-85_stops.geojson
+California__Glenn_Transit_Service__mdb_mdb-3094,mdb-3094,Glenn Transit Service,91088,mdb-3094_routes.geojson,mdb-3094_stops.geojson
+California__Golden_Empire_Transit_District_(GET)__mdb_mdb-46,mdb-46,Golden Empire Transit District,90004,mdb-46_routes.geojson,mdb-46_stops.geojson
+California__Golden_Gate_National_Recreation_Area_(Alcatraz_Island)__mdb_mdb-3208,mdb-3208,National Park Service,99468,mdb-3208_routes.geojson,mdb-3208_stops.geojson
+California__Golden_Gate_Transit__mdb_mdb-67,mdb-67,Golden Gate Transit,90016,mdb-67_routes.geojson,mdb-67_stops.geojson
+California__GrapeLine__mdb_mdb-83,mdb-83,City of Lodi GrapeLine,90175,mdb-83_routes.geojson,mdb-83_stops.geojson
+California__GTrans__mdb_mdb-2270,mdb-2270,GTrans,90042,mdb-2270_routes.geojson,mdb-2270_stops.geojson
+California__Humboldt_Transit_Authority__mdb_mdb-3032,mdb-3032,Redwood Transit System | Eureka Transit System | Arcata & Mad River Transit System | North State Express: 101 | North State Express: 299 | Southern Humboldt Line,99476,mdb-3032_routes.geojson,mdb-3032_stops.geojson
+California__Kern_Transit__mdb_mdb-47,mdb-47,Kern Transit,91059,mdb-47_routes.geojson,mdb-47_stops.geojson
+California__Kings_Area_Rural_Transit__mdb_mdb-2204,mdb-2204,Kings Area Rural Transit,90200,mdb-2204_routes.geojson,mdb-2204_stops.geojson
+California__Laguna_Beach_Transit_(LBT)__mdb_mdb-16,mdb-16,Laguna Beach Transit,90119,mdb-16_routes.geojson,mdb-16_stops.geojson
+California__Lake_Transit_Authority_(LTA)__mdb_mdb-68,mdb-68,Lake Transit,99292,mdb-68_routes.geojson,mdb-68_stops.geojson
+California__Lassen_Rural_Bus_(LRB)__mdb_mdb-118,mdb-118,Lassen Rural Bus,99423,mdb-118_routes.geojson,mdb-118_stops.geojson
+California__Lawndale_Beat__mdb_mdb-36,mdb-36,Lawndale Beat,,mdb-36_routes.geojson,mdb-36_stops.geojson
+California__Long_Beach_Transit_(LBT)__mdb_mdb-1198,mdb-1198,Long Beach Transit,90023,mdb-1198_routes.geojson,mdb-1198_stops.geojson
+California__Los_Angeles_County_Department_of_Public_Works_(the_LINK_and_shuttles)__mdb_mdb-28,mdb-28,LA Go Bus,90279,mdb-28_routes.geojson,mdb-28_stops.geojson
+California__Los_Angeles_County_Metropolitan_Transportation_Authority_(LA_Metro)__mdb_mdb-29,mdb-29,Metro - Los Angeles,90279,mdb-29_routes.geojson,mdb-29_stops.geojson
+California__Los_Angeles_County_Metropolitan_Transportation_Authority_(LA_Metro)__mdb_mdb-30,mdb-30,Metro - Los Angeles,90279,mdb-30_routes.geojson,mdb-30_stops.geojson
+California__Los_Angeles_County_Shuttles__mdb_tld-1253,tld-1253,Los Angeles County Shuttles,90279,tld-1253_routes.geojson,tld-1253_stops.geojson
+"California__Los_Angeles_Department_of_Transportation_(LADOT,_DASH,_Commuter_Express)__mdb_mdb-1210",mdb-1210,LADOT,99470,mdb-1210_routes.geojson,mdb-1210_stops.geojson
+California__Madera_County_Transit__mdb_mdb-572,mdb-572,Madera County Connection,91005,mdb-572_routes.geojson,mdb-572_stops.geojson
+California__Marin_Transit__mdb_mdb-2937,mdb-2937,Marin Transit,90299,mdb-2937_routes.geojson,mdb-2937_stops.geojson
+California__Mendocino_Transit_Authority__mdb_mdb-69,mdb-69,Mendocino Transit Authority,99477,mdb-69_routes.geojson,mdb-69_stops.geojson
+California__Merced_County_Transit_(The_Bus)__mdb_mdb-3117,mdb-3117,Merced The Bus,90173,mdb-3117_routes.geojson,mdb-3117_stops.geojson
+California__Mission_Bay_Transportation_Management_Association_(TMA)__mdb_mdb-51,mdb-51,Mission Bay TMA,99358,mdb-51_routes.geojson,mdb-51_stops.geojson
+California__Mission_Viejo__mdb_tld-7930,tld-7930,Mission Viejo,99358,tld-7930_routes.geojson,tld-7930_stops.geojson
+California__Montebello_Bus_Lines__mdb_mdb-2201,mdb-2201,Montebello Bus Lines,90041,mdb-2201_routes.geojson,mdb-2201_stops.geojson
+California__Monterey-Salinas_Transit_(MST)__mdb_mdb-56,mdb-56,Monterey-Salinas Transit,90062,mdb-56_routes.geojson,mdb-56_stops.geojson
+California__Moorpark_City_Transit__mdb_mdb-578,mdb-578,Moorpark City Transit,90227,mdb-578_routes.geojson,mdb-578_stops.geojson
+California__Morongo_Basin_Transit_Authority__mdb_mdb-579,mdb-579,Morongo Basin Transit Authority,91090,mdb-579_routes.geojson,mdb-579_stops.geojson
+California__Mountain_Transit__mdb_mdb-107,mdb-107,Mountain Transit,91012,mdb-107_routes.geojson,mdb-107_stops.geojson
+California__Mountain_View_Community_Shuttle__mdb_mdb-2883,mdb-2883,Mountain View Community Shuttle,99462,mdb-2883_routes.geojson,mdb-2883_stops.geojson
+California__Mountain_View_Transportation_Management_Association_(MVgo)__mdb_mdb-2880,mdb-2880,MVgo,90314,mdb-2880_routes.geojson,mdb-2880_stops.geojson
+California__Needles_Area_Transit__mdb_mdb-583,mdb-583,Needles Area Transit,91020,mdb-583_routes.geojson,mdb-583_stops.geojson
+California__North_Lake_Tahoe_Express__mdb_mdb-2328,mdb-2328,North Lake Tahoe Express - 24 hour advance reservations required,99364,mdb-2328_routes.geojson,mdb-2328_stops.geojson
+California__Norwalk_Transit_System__mdb_tld-881,tld-881,Norwalk Transit System,90022,tld-881_routes.geojson,tld-881_stops.geojson
+California__OmniTrans__mdb_mdb-97,mdb-97,Omnitrans,90029,mdb-97_routes.geojson,mdb-97_stops.geojson
+California__Orange_County_Transportation_Authority_(OCTA)__mdb_mdb-15,mdb-15,Orange County Transportation Authority,90036,mdb-15_routes.geojson,mdb-15_stops.geojson
+California__Palo_Verde_Valley_Transit_Agency__mdb_mdb-2190,mdb-2190,Palo Verde Valley Transit Agency,99454,mdb-2190_routes.geojson,mdb-2190_stops.geojson
+California__Palos_Verdes_Peninsula_Transit_Authority_(PVPTA)__mdb_mdb-35,mdb-35,Palos Verdes Peninsula Transit Authority,90287,mdb-35_routes.geojson,mdb-35_stops.geojson
+California__Pasadena_Transit__mdb_mdb-41,mdb-41,Pasadena Transit,99424,mdb-41_routes.geojson,mdb-41_stops.geojson
+California__Petaluma_Transit__mdb_mdb-2947,mdb-2947,PETALUMA,90213,mdb-2947_routes.geojson,mdb-2947_stops.geojson
+California__Placer_County_Transit__mdb_mdb-77,mdb-77,Placer County Transit,90196,mdb-77_routes.geojson,mdb-77_stops.geojson
+California__Plumas_Transit__mdb_mdb-119,mdb-119,Plumas Transit,99478,mdb-119_routes.geojson,mdb-119_stops.geojson
+California__Redding_Area_Bus_Authority__mdb_mdb-3031,mdb-3031,Redding Area Bus Authority,90093,mdb-3031_routes.geojson,mdb-3031_stops.geojson
+California__Riverside_Transit_Agency__mdb_mdb-98,mdb-98,Riverside Transit Agency,90031,mdb-98_routes.geojson,mdb-98_stops.geojson
+California__Rosemead_Explorer__mdb_mdb-3098,mdb-3098,City of Rosemead,90289,mdb-3098_routes.geojson,mdb-3098_stops.geojson
+California__Roseville_Transit__mdb_mdb-1067,mdb-1067,Roseville Transit,99478,mdb-1067_routes.geojson,mdb-1067_stops.geojson
+California__SamTrans__mdb_mdb-2708,mdb-2708,SamTrans,90009,mdb-2708_routes.geojson,mdb-2708_stops.geojson
+California__San_Benito_County_Express_(SBCE)__mdb_mdb-58,mdb-58,San Benito County Express,91009,mdb-58_routes.geojson,mdb-58_stops.geojson
+California__San_Clemente_Trolley__mdb_mdb-2362,mdb-2362,SC Trolley,99470,mdb-2362_routes.geojson,mdb-2362_stops.geojson
+"California__San_Diego_International_Airport,_Metropolitan_Transit_System_(MTS)__mdb_mdb-13",mdb-13,MTS | San Diego International Airport,90026,mdb-13_routes.geojson,mdb-13_stops.geojson
+California__San_Francisco_Bay_Area_Water_Emergency_Transportation_Authority_(WETA)__mdb_mdb-3143,mdb-3143,San Francisco Bay Ferry,90225,mdb-3143_routes.geojson,mdb-3143_stops.geojson
+California__San_Joaquin_Regional_Transit_District_(RTD)__mdb_mdb-886,mdb-886,San Joaquin Regional Transit District (RTD),90012,mdb-886_routes.geojson,mdb-886_stops.geojson
+California__San_Juan_Capistrano_Free_Weekend_Trolley__mdb_mdb-2235,mdb-2235,San Juan Capistrano,99470,mdb-2235_routes.geojson,mdb-2235_stops.geojson
+California__San_Luis_Obispo_Regional_Transit_Authority_(SLORTA)__mdb_mdb-43,mdb-43,RTA - SCT - Paso,90206,mdb-43_routes.geojson,mdb-43_stops.geojson
+California__Santa_Barbara_Metropolitan_Transit_District_(MTD)__mdb_mdb-1246,mdb-1246,SBMTD,90020,mdb-1246_routes.geojson,mdb-1246_stops.geojson
+California__Santa_Clara_Valley_Transportation_Authority_(VTA)__mdb_mdb-57,mdb-57,VTA,90013,mdb-57_routes.geojson,mdb-57_stops.geojson
+California__Santa_Clarita_Transit__mdb_mdb-812,mdb-812,Santa Clarita Transit,90171,mdb-812_routes.geojson,mdb-812_stops.geojson
+California__Santa_Cruz_Metro_(SCMTD)__mdb_mdb-2425,mdb-2425,Santa Cruz METRO,90006,mdb-2425_routes.geojson,mdb-2425_stops.geojson
+California__Santa_Maria_Area_Transit__mdb_mdb-2272,mdb-2272,Santa Maria Regional Transit (Home),90087,mdb-2272_routes.geojson,mdb-2272_stops.geojson
+California__Santa_Rosa_CityBus__mdb_mdb-2948,mdb-2948,SANTAROSA,90017,mdb-2948_routes.geojson,mdb-2948_stops.geojson
+California__Santa_Ynez_Valley_Transit__mdb_mdb-813,mdb-813,Santa Ynez Valley Transit,91028,mdb-813_routes.geojson,mdb-813_stops.geojson
+California__Santa_Ynez_Valley_Transit__mdb_tld-1301,tld-1301,Santa Ynez Valley Transit,91028,tld-1301_routes.geojson,tld-1301_stops.geojson
+California__Simi_Valley_Transit__mdb_mdb-40,mdb-40,Simi Valley Transit,90050,mdb-40_routes.geojson,mdb-40_stops.geojson
+California__Siskiyou_County__mdb_mdb-117,mdb-117,Siskiyou Transit and General Express,91048,mdb-117_routes.geojson,mdb-117_stops.geojson
+California__SolTrans__mdb_mdb-80,mdb-80,SolTrans,90232,mdb-80_routes.geojson,mdb-80_stops.geojson
+California__Sonoma_County_Transit_(SCT)__mdb_mdb-70,mdb-70,Sonoma County Transit,90089,mdb-70_routes.geojson,mdb-70_stops.geojson
+California__Sonoma_Marin_Area_Rail_Transit_(SMART)__mdb_mdb-3222,mdb-3222,Sonoma-Marin Area Rail Transit,90299,mdb-3222_routes.geojson,mdb-3222_stops.geojson
+California__Spirit_Bus__mdb_mdb-2202,mdb-2202,City of Monterey Park,90286,mdb-2202_routes.geojson,mdb-2202_stops.geojson
+California__Stanford_Marguerite_Shuttle_(SMS)__mdb_mdb-59,mdb-59,Stanford Marguerite Shuttle,90191,mdb-59_routes.geojson,mdb-59_stops.geojson
+California__Stanislaus_Regional_Transit_(StaRT)__mdb_mdb-2273,mdb-2273,The S,90306,mdb-2273_routes.geojson,mdb-2273_stops.geojson
+California__SunLine_Transit_Agency__mdb_tld-461,tld-461,SUNLINE,90079,tld-461_routes.geojson,tld-461_stops.geojson
+California__Taft_Area_Transit__mdb_mdb-2236,mdb-2236,Taft - Maricopa Area Transit,91066,mdb-2236_routes.geojson,mdb-2236_stops.geojson
+"California__Tahoe_Area_Regional_Transit_(TART),_North_Lake_Tahoe_Express__mdb_mdb-94",mdb-94,Tahoe Truckee Area Regional Transit,91101,mdb-94_routes.geojson,mdb-94_stops.geojson
+California__Tahoe_Transportation_District__mdb_mdb-897,mdb-897,Tahoe Transportation District,99478,mdb-897_routes.geojson,mdb-897_stops.geojson
+California__Thousand_Oaks_Transit__mdb_mdb-3100,mdb-3100,Thousand Oaks Transit,90165,mdb-3100_routes.geojson,mdb-3100_stops.geojson
+California__Tri_Delta_Transit__mdb_mdb-1974,mdb-1974,Tri Delta Transit,90162,mdb-1974_routes.geojson,mdb-1974_stops.geojson
+California__Tri_Delta_Transit__mdb_ntd-90162,ntd-90162,Tri Delta Transit,90162,ntd-90162_routes.geojson,ntd-90162_stops.geojson
+California__Trinity_Transit__mdb_mdb-2709,mdb-2709,Trinity Transit,91035,mdb-2709_routes.geojson,mdb-2709_stops.geojson
+California__Tulare_County_Area_Transit_(TCAT)__mdb_mdb-646,mdb-646,Tulare County Regional Transit Agency,91055,mdb-646_routes.geojson,mdb-646_stops.geojson
+California__Turlock_Transit__mdb_mdb-619,mdb-619,Turlock Transit,90201,mdb-619_routes.geojson,mdb-619_stops.geojson
+California__Unitrans__mdb_mdb-82,mdb-82,Unitrans,90142,mdb-82_routes.geojson,mdb-82_stops.geojson
+California__Ventura_County_Transportation_Commission__mdb_mdb-3096,mdb-3096,VCTC Intercity,90164,mdb-3096_routes.geojson,mdb-3096_stops.geojson
+California__VINE_Transit__mdb_mdb-1288,mdb-1288,VINE Transit,91027,mdb-1288_routes.geojson,mdb-1288_stops.geojson
+California__Visalia_Transit__mdb_ntd-90091,ntd-90091,VISALIA TRANSIT,90091,ntd-90091_routes.geojson,ntd-90091_stops.geojson
+California__West_Berkeley_Shuttle__mdb_mdb-2238,mdb-2238,West Berkeley Shuttle,90191,mdb-2238_routes.geojson,mdb-2238_stops.geojson
+California__WestCAT__mdb_mdb-78,mdb-78,WestCat (Western Contra Costa),90159,mdb-78_routes.geojson,mdb-78_stops.geojson
+California__Yosemite_Area_Regional_Transportation_System_(YARTS)__mdb_mdb-2394,mdb-2394,Yosemite Area Regional Transportation System,91070,mdb-2394_routes.geojson,mdb-2394_stops.geojson
+California__Yosemite_National_Park__mdb_tld-6679,tld-6679,National Park Service,99468,tld-6679_routes.geojson,tld-6679_stops.geojson
+California__Yosemite_National_Park__mdb_tld-6681,tld-6681,National Park Service,99468,tld-6681_routes.geojson,tld-6681_stops.geojson
+California__Yuba-Sutter_Transit__mdb_mdb-79,mdb-79,Yuba-Sutter Transit,90061,mdb-79_routes.geojson,mdb-79_stops.geojson
+Colorado__All_Points_Transit__mdb_mdb-2039,mdb-2039,All Points Transit,88215,mdb-2039_routes.geojson,mdb-2039_stops.geojson
+Colorado__All_Points_Transit__mdb_mdb-212,mdb-212,All Points Transit,88215,mdb-212_routes.geojson,mdb-212_stops.geojson
+Colorado__Avon_Transit__mdb_mdb-2433,mdb-2433,Avon Transit,88228,mdb-2433_routes.geojson,mdb-2433_stops.geojson
+Colorado__Baca_Area_Transportation__mdb_mdb-1087,mdb-1087,Baca Area Transportation,80202,mdb-1087_routes.geojson,mdb-1087_stops.geojson
+Colorado__Blackhawk_and_Central_City_Tramway__mdb_mdb-2041,mdb-2041,Blackhawk and Central City Tramway,80119,mdb-2041_routes.geojson,mdb-2041_stops.geojson
+Colorado__Blackhawk_and_Central_City_Tramway__mdb_mdb-234,mdb-234,Blackhawk and Central City Tramway,80119,mdb-234_routes.geojson,mdb-234_stops.geojson
+Colorado__Bustang_Outrider__mdb_mdb-2330,mdb-2330,Bustang Outrider,88300,mdb-2330_routes.geojson,mdb-2330_stops.geojson
+Colorado__City_of_Fountain_Transit__mdb_mdb-309,mdb-309,City of Fountain Transit,88287,mdb-309_routes.geojson,mdb-309_stops.geojson
+Colorado__Clear_Creek_County_Transit__mdb_mdb-313,mdb-313,Clear Creek County Transit,88290,mdb-313_routes.geojson,mdb-313_stops.geojson
+Colorado__Colorado_Mountain_Express__mdb_mdb-172,mdb-172,Epic Mountain Express,80159,mdb-172_routes.geojson,mdb-172_stops.geojson
+Colorado__Colorado_School_Of_Mines__mdb_mdb-2413,mdb-2413,City of Golden,80274,mdb-2413_routes.geojson,mdb-2413_stops.geojson
+Colorado__Cripple_Creek_Transportation__mdb_mdb-2042,mdb-2042,Cripple Creek Transportation,88294,mdb-2042_routes.geojson,mdb-2042_stops.geojson
+Colorado__Cripple_Creek_Transportation__mdb_mdb-317,mdb-317,Cripple Creek Transportation,88294,mdb-317_routes.geojson,mdb-317_stops.geojson
+Colorado__Durango_Transit__mdb_mdb-456,mdb-456,Durango Transit,80206,mdb-456_routes.geojson,mdb-456_stops.geojson
+Colorado__Envida__mdb_mdb-2044,mdb-2044,Envida,88288,mdb-2044_routes.geojson,mdb-2044_stops.geojson
+Colorado__Envida__mdb_mdb-455,mdb-455,Envida,88288,mdb-455_routes.geojson,mdb-455_stops.geojson
+Colorado__Estes_Transit__mdb_mdb-2047,mdb-2047,Estes Transit,88305,mdb-2047_routes.geojson,mdb-2047_stops.geojson
+Colorado__Estes_Transit__mdb_mdb-459,mdb-459,Estes Transit,88305,mdb-459_routes.geojson,mdb-459_stops.geojson
+Colorado__Greeley-Evans_Transit_(GET)__mdb_mdb-2076,mdb-2076,Gallop,80010,mdb-2076_routes.geojson,mdb-2076_stops.geojson
+Colorado__Gunnison_Valley_Transportation_Authority_(RTA)__mdb_mdb-163,mdb-163,Gunnison Valley RTA,80150,mdb-163_routes.geojson,mdb-163_stops.geojson
+Colorado__Home_James__mdb_mdb-607,mdb-607,Home James,80124,mdb-607_routes.geojson,mdb-607_stops.geojson
+Colorado__Kiowa_County_Transit__mdb_mdb-2169,mdb-2169,Kiowa County Transit,88305,mdb-2169_routes.geojson,mdb-2169_stops.geojson
+Colorado__Lake_County_Senior_Center_Transportation_Program__mdb_mdb-2291,mdb-2291,Lake County Senior Center Transportation Program,88213,mdb-2291_routes.geojson,mdb-2291_stops.geojson
+Colorado__Outback_Express__mdb_mdb-2306,mdb-2306,Outback Express,80179,mdb-2306_routes.geojson,mdb-2306_stops.geojson
+Colorado__Parachute_Area_Transit_System__mdb_tld-5746,tld-5746,Parachute Area Transit System,88215,tld-5746_routes.geojson,tld-5746_stops.geojson
+Colorado__Prairie_Express_Transit__mdb_mdb-801,mdb-801,Prairie Express Transit,88230,mdb-801_routes.geojson,mdb-801_stops.geojson
+Colorado__Pueblo_Transit__mdb_mdb-1232,mdb-1232,Pueblo Transit,80007,mdb-1232_routes.geojson,mdb-1232_stops.geojson
+Colorado__Pueblo_Transit__mdb_mdb-2232,mdb-2232,Pueblo Transit,80007,mdb-2232_routes.geojson,mdb-2232_stops.geojson
+Colorado__Regional_Transportation_District_(RTD)__mdb_mdb-178,mdb-178,Regional Transportation District,80006,mdb-178_routes.geojson,mdb-178_stops.geojson
+Colorado__Regional_Transportation_District_(RTD)__mdb_mdb-2280,mdb-2280,Colorado Department of Transportation,80006,mdb-2280_routes.geojson,mdb-2280_stops.geojson
+Colorado__Regional_Transportation_District__mdb_mdb-2054,mdb-2054,Regional Transportation District,80006,mdb-2054_routes.geojson,mdb-2054_stops.geojson
+Colorado__RoadrunnerTransit__mdb_mdb-805,mdb-805,Road Runner Transit,80189,mdb-805_routes.geojson,mdb-805_stops.geojson
+Colorado__Roaring_Fork_Transportation_Authority__mdb_mdb-2278,mdb-2278,RFTA,80289,mdb-2278_routes.geojson,mdb-2278_stops.geojson
+Colorado__Rocky_Mountain_National_Park__mdb_mdb-3211,mdb-3211,Rocky Mountain National Park Shuttles,88286,mdb-3211_routes.geojson,mdb-3211_stops.geojson
+Colorado__Rocky_Mountain_National_Park_Shuttles__mdb_mdb-176,mdb-176,Rocky Mountain National Park Shuttles,88286,mdb-176_routes.geojson,mdb-176_stops.geojson
+Colorado__Routt_County_Council_on_Aging_(RCCOCA)_Transportation__mdb_mdb-2178,mdb-2178,RCCOA Transportation,88292,mdb-2178_routes.geojson,mdb-2178_stops.geojson
+Colorado__San_Miguel_County__mdb_mdb-2195,mdb-2195,Town of Mountain Village | Town of Telluride | SMART,88294,mdb-2195_routes.geojson,mdb-2195_stops.geojson
+Colorado__Snowmass_Village_Transportation__mdb_mdb-164,mdb-164,Snowmass,80263,mdb-164_routes.geojson,mdb-164_stops.geojson
+Colorado__South_Central_Council_of_Governments_(SCCOG)__mdb_mdb-2181,mdb-2181,SCCOG Transit,80227,mdb-2181_routes.geojson,mdb-2181_stops.geojson
+"Colorado__Steamboat_Springs_Transit,_Yellow_Zone__mdb_tld-5757",tld-5757,Steamboat Springs Transit | Yellow Zone,80186,tld-5757_routes.geojson,tld-5757_stops.geojson
+Colorado__Steamboat_Springs_Transit__mdb_mdb-2051,mdb-2051,Steamboat Springs Transit | Yellow Zone,80186,mdb-2051_routes.geojson,mdb-2051_stops.geojson
+Colorado__Summit_Stage__mdb_mdb-820,mdb-820,Summit Stage,80161,mdb-820_routes.geojson,mdb-820_stops.geojson
+Colorado__Teller_Senior_Coalition_Transit_(TSC_Transit)__mdb_mdb-827,mdb-827,TSC Transit,88230,mdb-827_routes.geojson,mdb-827_stops.geojson
+Colorado__Town_of_Estes_Park__mdb_mdb-177,mdb-177,Estes Transit,88281,mdb-177_routes.geojson,mdb-177_stops.geojson
+Colorado__Town_of_Telluride__mdb_mdb-2050,mdb-2050,Town of Mountain Village | Town of Telluride | SMART,88294,mdb-2050_routes.geojson,mdb-2050_stops.geojson
+Colorado__University_of_Colorado_Boulder__mdb_mdb-181,mdb-181,University of Colorado Boulder,88287,mdb-181_routes.geojson,mdb-181_stops.geojson
+Colorado__Upper_Arkansas_Area_Council_of_Governments__mdb_mdb-2188,mdb-2188,Fremont County Transit | Wet Mountain Valley Rotary Van Service,80274,mdb-2188_routes.geojson,mdb-2188_stops.geojson
+Colorado__Vail_Transit__mdb_mdb-174,mdb-174,Vail Transit,88298,mdb-174_routes.geojson,mdb-174_stops.geojson
+Colorado__Via_Mobility__mdb_mdb-2395,mdb-2395,Via Mobility Services,80285,mdb-2395_routes.geojson,mdb-2395_stops.geojson
+Colorado__Winter_Park_Transit__mdb_mdb-175,mdb-175,The Lift,88225,mdb-175_routes.geojson,mdb-175_stops.geojson
+Connecticut__Connecticut_Transit__mdb_mdb-2840,mdb-2840,CONN DOT,10156,mdb-2840_routes.geojson,mdb-2840_stops.geojson
+Connecticut__Connecticut_Transit__mdb_mdb-553,mdb-553,CTtransit | CTTransit - New Britain | CTTransit - Waterbury-Meriden | CTTransit- New Haven | CTTransit- Hartford | CTTransit- Stamford,10156,mdb-553_routes.geojson,mdb-553_stops.geojson
+Connecticut__Greater_Bridgeport_Transit__mdb_mdb-530,mdb-530,Greater Bridgeport Transit,10050,mdb-530_routes.geojson,mdb-530_stops.geojson
+Connecticut__Housatonic_Area_Regional_Transit__mdb_tld-4385,tld-4385,HARTransit,10051,tld-4385_routes.geojson,tld-4385_stops.geojson
+Connecticut__Metro-North_Railroad__mdb_mdb-524,mdb-524,Metro-North Railroad,20078,mdb-524_routes.geojson,mdb-524_stops.geojson
+Connecticut__Middletown_Area_Transit_(MAT)__mdb_mdb-551,mdb-551,River Valley Transit,10140,mdb-551_routes.geojson,mdb-551_stops.geojson
+Connecticut__Milford_Transit_District__mdb_ntd-10107,ntd-10107,Milford Transit District,10107,ntd-10107_routes.geojson,ntd-10107_stops.geojson
+Connecticut__Norwalk_Transit_System_(NTS)__mdb_mdb-2242,mdb-2242,Norwalk Transit District,10057,mdb-2242_routes.geojson,mdb-2242_stops.geojson
+Connecticut__Pioneer_Valley_Transit_Authority_(PVTA)__mdb_mdb-2416,mdb-2416,Pioneer Valley Transit Authority | Link413,10042,mdb-2416_routes.geojson,mdb-2416_stops.geojson
+Connecticut__River_Valley_Transit__mdb_tld-5750,tld-5750,River Valley Transit,10140,tld-5750_routes.geojson,tld-5750_stops.geojson
+Connecticut__Southeast_Area_Transit_District__mdb_mdb-2240,mdb-2240,Southeast Area Transit District,10040,mdb-2240_routes.geojson,mdb-2240_stops.geojson
+Connecticut__University_of_Connecticut_(UCONN___WRTD)__mdb_tld-4473,tld-4473,University of Connecticut (UCONN / WRTD),11217,tld-4473_routes.geojson,tld-4473_stops.geojson
+Delaware__Delaware_Transit_Corporation_(DART_First_State)__mdb_mdb-1235,mdb-1235,Dart First State,30075,mdb-1235_routes.geojson,mdb-1235_stops.geojson
+Delaware__Southeastern_Pennsylvania_Transportation_Authority_(SEPTA)__mdb_mdb-502,mdb-502,SEPTA,30075,mdb-502_routes.geojson,mdb-502_stops.geojson
+Delaware__Southeastern_Pennsylvania_Transportation_Authority_(SEPTA)__mdb_mdb-503,mdb-503,SEPTA,30075,mdb-503_routes.geojson,mdb-503_stops.geojson
+District_of_Columbia__Fairfax_Connector__mdb_mdb-483,mdb-483,Fairfax Connector,30068,mdb-483_routes.geojson,mdb-483_stops.geojson
+District_of_Columbia__Maryland_Transit_Administration__mdb_mdb-467,mdb-467,Maryland Transit Administration,30034,mdb-467_routes.geojson,mdb-467_stops.geojson
+District_of_Columbia__Maryland_Transit_Administration__mdb_mdb-468,mdb-468,Maryland Transit Administration,30034,mdb-468_routes.geojson,mdb-468_stops.geojson
+District_of_Columbia__Virginia_Breeze__mdb_mdb-3506,mdb-3506,"Virginia Breeze, Operated by Academy | Virginia Breeze, Operated by Dillon's",31026,mdb-3506_routes.geojson,mdb-3506_stops.geojson
+District_of_Columbia__Virginia_Railway_Express__mdb_tld-61,tld-61,Virginia Railway Express,30073,tld-61_routes.geojson,tld-61_stops.geojson
+District_of_Columbia__Washington_Metropolitan_Area_Transit_Authority_(WMATA)__mdb_mdb-1846,mdb-1846,WMATA,30030,mdb-1846_routes.geojson,mdb-1846_stops.geojson
+District_of_Columbia__Washington_Metropolitan_Area_Transit_Authority_(WMATA)__mdb_mdb-1847,mdb-1847,WMATA,30030,mdb-1847_routes.geojson,mdb-1847_stops.geojson
+Florida__Brightline_Trains_LLC__mdb_mdb-1126,mdb-1126,Brightline | Event Train,41095,mdb-1126_routes.geojson,mdb-1126_stops.geojson
+Florida__Broward_County_Transit__mdb_mdb-330,mdb-330,Broward County Transit,40029,mdb-330_routes.geojson,mdb-330_stops.geojson
+Florida__Central_Florida_Regional_Transit_Authority_(LYNX)__mdb_mdb-347,mdb-347,Central Florida Regional Transit Authority,40035,mdb-347_routes.geojson,mdb-347_stops.geojson
+Florida__City_of_Miami_Beach__mdb_mdb-2322,mdb-2322,City of Miami Beach,41199,mdb-2322_routes.geojson,mdb-2322_stops.geojson
+Florida__City_of_Miami_Gardens__mdb_mdb-2323,mdb-2323,City of Miami Gardens,41199,mdb-2323_routes.geojson,mdb-2323_stops.geojson
+Florida__Collier_Area_Transit_(CAT)__mdb_mdb-2259,mdb-2259,CAT,40140,mdb-2259_routes.geojson,mdb-2259_stops.geojson
+Florida__Dry_Tortugas_National_Park__mdb_mdb-3207,mdb-3207,National Park Service,40261,mdb-3207_routes.geojson,mdb-3207_stops.geojson
+Florida__Florida_Department_of_Transportation_(SunRail)__mdb_mdb-626,mdb-626,Florida Department of Transportation,41095,mdb-626_routes.geojson,mdb-626_stops.geojson
+Florida__Fort_Matanzas_National_Monument__mdb_tld-6905,tld-6905,National Park Service,40261,tld-6905_routes.geojson,tld-6905_stops.geojson
+Florida__Gulf_Islands_National_Seashore__mdb_mdb-3209,mdb-3209,National Park Service,40261,mdb-3209_routes.geojson,mdb-3209_stops.geojson
+Florida__Hendry_County_Transit_System__mdb_tld-7914,tld-7914,Hendry County Transit System,41199,tld-7914_routes.geojson,tld-7914_stops.geojson
+Florida__Hillsborough_Area_Regional_Transit_(HART)__mdb_mdb-325,mdb-325,Hillsborough Area Regional Transit | Tampa International Airport,40041,mdb-325_routes.geojson,mdb-325_stops.geojson
+Florida__I-RIDE_Trolley_(I-RIDE)__mdb_mdb-1143,mdb-1143,I-Ride Trolley,40920,mdb-1143_routes.geojson,mdb-1143_stops.geojson
+Florida__Indian_River_Transit__mdb_ntd-40104,ntd-40104,Indian River Transit,41199,ntd-40104_routes.geojson,ntd-40104_stops.geojson
+Florida__Jacksonville_Transportation_Authority__mdb_tld-764,tld-764,Jacksonville Transportation Authority,40040,tld-764_routes.geojson,tld-764_stops.geojson
+Florida__Lake_County_Connection__mdb_mdb-2255,mdb-2255,LakeXpress,40158,mdb-2255_routes.geojson,mdb-2255_stops.geojson
+Florida__Lakeland_Area_Mass_Transit_District__mdb_tld-5899,tld-5899,Citrus Connection,40031,tld-5899_routes.geojson,tld-5899_stops.geojson
+Florida__LauderGO!_Water_Trolley__mdb_ntd-44929,ntd-44929,LauderGO! Water Trolley,90225,ntd-44929_routes.geojson,ntd-44929_stops.geojson
+Florida__LeeTran__mdb_mdb-324,mdb-324,LeeTran,40028,mdb-324_routes.geojson,mdb-324_stops.geojson
+Florida__Manatee_County_Area_Transit__mdb_mdb-2258,mdb-2258,Manatee County Area Transit,40026,mdb-2258_routes.geojson,mdb-2258_stops.geojson
+Florida__Martin_County_Public_Transit__mdb_tld-4506,tld-4506,Martin County,40192,tld-4506_routes.geojson,tld-4506_stops.geojson
+Florida__Miami-Dade_Transit__mdb_mdb-331,mdb-331,Miami-Dade Transit,41199,mdb-331_routes.geojson,mdb-331_stops.geojson
+Florida__National_Park_Service__mdb_tld-6676,tld-6676,National Park Service,40261,tld-6676_routes.geojson,tld-6676_stops.geojson
+Florida__Palm_Tran__mdb_mdb-332,mdb-332,Palm Tran,40037,mdb-332_routes.geojson,mdb-332_stops.geojson
+Florida__Sarasota_County_Area_Transit_(SCAT)__mdb_mdb-348,mdb-348,Space Coast Area Transit,40063,mdb-348_routes.geojson,mdb-348_stops.geojson
+Florida__South_Florida_Regional_Transportation_Authority_(Tri-Rail)__mdb_mdb-333,mdb-333,Tri-Rail,40077,mdb-333_routes.geojson,mdb-333_stops.geojson
+Florida__South_Florida_Regional_Transportation_Authority__mdb_tld-492,tld-492,Tri-Rail,40077,tld-492_routes.geojson,tld-492_stops.geojson
+Florida__Space_Coast_Area_Transit__mdb_ntd-40063,ntd-40063,Space Coast Area Transit,40063,ntd-40063_routes.geojson,ntd-40063_stops.geojson
+Florida__USF_Bull_Runner__mdb_mdb-329,mdb-329,USF Bull Runner,80189,mdb-329_routes.geojson,mdb-329_stops.geojson
+Georgia__Athens_Clarke_County_Transit__mdb_tld-4777,tld-4777,Athens Clarke County Transit,40047,tld-4777_routes.geojson,tld-4777_stops.geojson
+"Georgia__City_of_Hinesville,_Georgia__mdb_ntd-40193",ntd-40193,Liberty Transit,40193,ntd-40193_routes.geojson,ntd-40193_stops.geojson
+Georgia__CobbLinc__mdb_mdb-3193,mdb-3193,CobbLinc,40078,mdb-3193_routes.geojson,mdb-3193_stops.geojson
+Georgia__Concho_Valley_Transit_District__mdb_tld-5864,tld-5864,Concho Valley Transit,44945,tld-5864_routes.geojson,tld-5864_stops.geojson
+Georgia__Connect_Douglas__mdb_tld-5551,tld-5551,Connect Douglas,40082,tld-5551_routes.geojson,tld-5551_stops.geojson
+Georgia__Georgia_Tech_Stinger_Bus__mdb_tld-478_1,tld-478,Georgia Institute of Technology,44982,tld-478_routes.geojson,tld-478_stops.geojson
+Georgia__Gwinnett_County_Transit__mdb_mdb-2241,mdb-2241,Ride Gwinnett,40138,mdb-2241_routes.geojson,mdb-2241_stops.geojson
+Georgia__METRA__mdb_ntd-40024,ntd-40024,METRA,50118,ntd-40024_routes.geojson,ntd-40024_stops.geojson
+Georgia__Rochester_Institute_of_Technology__mdb_tld-5863,tld-5863,Rochester Institute of Technology (RIT),41149,tld-5863_routes.geojson,tld-5863_stops.geojson
+Georgia__University_of_Georgia__mdb_tld-2276,tld-2276,University of Georgia (UGA),40180,tld-2276_routes.geojson,tld-2276_stops.geojson
+Hawaii__Maui_County_Transit__mdb_ntd-90241,ntd-90241,Maui County Transit,90241,ntd-90241_routes.geojson,ntd-90241_stops.geojson
+Hawaii__The_Kauai_Bus__mdb_ntd-90237,ntd-90237,The Kauai Bus,90237,ntd-90237_routes.geojson,ntd-90237_stops.geojson
+Hawaii__TheBus__mdb_mdb-2350,mdb-2350,TheBus | Skyline,90002,mdb-2350_routes.geojson,mdb-2350_stops.geojson
+Idaho__Citylink_North_(Kootenai_County)__mdb_tld-4791,tld-4791,Citylink North (Kootenai County),00055,tld-4791_routes.geojson,tld-4791_stops.geojson
+Idaho__Citylink_South_(Kootenai_County)__mdb_tld-4792,tld-4792,Citylink South (Kootenai County),00055,tld-4792_routes.geojson,tld-4792_stops.geojson
+Idaho__Lewiston_Transit_System_and_Asotin_County_Public_Transportation_Benefit_Area_(PTBA)__mdb_mdb-2298,mdb-2298,Lewiston Transit System | Asotin County PTBA,00048,mdb-2298_routes.geojson,mdb-2298_stops.geojson
+Idaho__Mountain_Rides_Transportation_Authority_(MRTA)__mdb_mdb-2282,mdb-2282,Mountain Rides Transportation Authority,00311,mdb-2282_routes.geojson,mdb-2282_stops.geojson
+Idaho__Pocatello_Regional_Transit__mdb_mdb-171,mdb-171,Pocatello Regional Transit,00022,mdb-171_routes.geojson,mdb-171_stops.geojson
+Idaho__Valley_Regional_Transit__mdb_mdb-142,mdb-142,Valley Regional Transit,00011,mdb-142_routes.geojson,mdb-142_stops.geojson
+Illinois__Champaign-Urbana_Mass_Transit_District__mdb_ntd-50060,ntd-50060,Champaign Urbana Mass Transit District,50060,ntd-50060_routes.geojson,ntd-50060_stops.geojson
+Illinois__Chicago_Transit_Authority_(CTA)__mdb_mdb-389,mdb-389,Chicago Transit Authority,50066,mdb-389_routes.geojson,mdb-389_stops.geojson
+Illinois__Chicago_Water_Taxi__mdb_mdb-306,mdb-306,Chicago Water Taxi,50521,mdb-306_routes.geojson,mdb-306_stops.geojson
+Illinois__City_of_Galesburg__mdb_ntd-50502,ntd-50502,Galesburg Public Transportation,50502,ntd-50502_routes.geojson,ntd-50502_stops.geojson
+Illinois__Connect_Transit__mdb_mdb-2267,mdb-2267,Connect Transit,50047,mdb-2267_routes.geojson,mdb-2267_stops.geojson
+Illinois__Decatur_Public_Transit_System__mdb_tld-7036,tld-7036,Decatur Public Transit System,50061,tld-7036_routes.geojson,tld-7036_stops.geojson
+Illinois__DeKalb_Public_Transit__mdb_mdb-308,mdb-308,DeKalb Public Transit,50176,mdb-308_routes.geojson,mdb-308_stops.geojson
+Illinois__Greater_Peoria_Mass_Transit_(CityLink)__mdb_mdb-2208,mdb-2208,CityLink,50056,mdb-2208_routes.geojson,mdb-2208_stops.geojson
+Illinois__JAX_Mass_Transit_District__mdb_mdb-3408,mdb-3408,JAX Mass Transit,50414,mdb-3408_routes.geojson,mdb-3408_stops.geojson
+Illinois__Metra__mdb_mdb-2854,mdb-2854,,50118,mdb-2854_routes.geojson,mdb-2854_stops.geojson
+Illinois__Pace_Bus__mdb_mdb-2347,mdb-2347,PACE,50182,mdb-2347_routes.geojson,mdb-2347_stops.geojson
+Illinois__South_Shore_Line__mdb_mdb-585,mdb-585,Northern Indiana Commuter Transportation District,55307,mdb-585_routes.geojson,mdb-585_stops.geojson
+Illinois__Springfield_Mass_Transit_District_(SMTD)__mdb_mdb-3187,mdb-3187,SMTD,50059,mdb-3187_routes.geojson,mdb-3187_stops.geojson
+Illinois__University_of_Chicago__mdb_tld-4472,tld-4472,University of Chicago,50569,tld-4472_routes.geojson,tld-4472_stops.geojson
+Indiana__Bloomington_Transit__mdb_mdb-2066,mdb-2066,Bloomington Transit,50110,mdb-2066_routes.geojson,mdb-2066_stops.geojson
+"Indiana__Central_Indiana_Regional_Transportation_Authority,_Access_Johnson_County__mdb_ntd-50209",ntd-50209,Central Indiana Regional Transportation Authority | Access Johnson County,50256,ntd-50209_routes.geojson,ntd-50209_stops.geojson
+Indiana__Citilink__mdb_mdb-2266,mdb-2266,Citilink,50044,mdb-2266_routes.geojson,mdb-2266_stops.geojson
+Indiana__City_of_Kokomo__mdb_ntd-50145,ntd-50145,City-Line Trolley,50145,ntd-50145_routes.geojson,ntd-50145_stops.geojson
+Indiana__CityBus_of_Greater_Lafayette_Indiana_(CityBus)__mdb_mdb-391,mdb-391,CityBus Root,50051,mdb-391_routes.geojson,mdb-391_stops.geojson
+Indiana__Gary_Public_Transportation_Corporation__mdb_tld-4129,tld-4129,Gary Public Transportation Corp,50045,tld-4129_routes.geojson,tld-4129_stops.geojson
+Indiana__Interurban_Trolley__mdb_mdb-571,mdb-571,Interurban Trolley (MACOG) | Kosciusko Area Bus Service,50289,mdb-571_routes.geojson,mdb-571_stops.geojson
+Indiana__South_Bend_Public_Transportation_Corporation__mdb_tld-7019,tld-7019,"Transpo (South Bend, IN)",50052,tld-7019_routes.geojson,tld-7019_stops.geojson
+Indiana__Transit_Authority_of_River_City_(TARC)__mdb_mdb-2662,mdb-2662,Transit Authority of River City,55676,mdb-2662_routes.geojson,mdb-2662_stops.geojson
+Indiana__Valparaiso_Transit__mdb_mdb-620,mdb-620,Valparaiso Transit,50183,mdb-620_routes.geojson,mdb-620_stops.geojson
+Iowa__10-15_Transit__mdb_mdb-195,mdb-195,10-15 Transit,70242,mdb-195_routes.geojson,mdb-195_stops.geojson
+Iowa__Bettendorf_Transit__mdb_mdb-1826,mdb-1826,City of Bettendorf,70007,mdb-1826_routes.geojson,mdb-1826_stops.geojson
+Iowa__Burlington_Urban_Service__mdb_mdb-199,mdb-199,Burlington Urban Service,70111,mdb-199_routes.geojson,mdb-199_stops.geojson
+Iowa__Cedar_Rapids_Transit__mdb_mdb-198,mdb-198,Cedar Rapids Transit,70008,mdb-198_routes.geojson,mdb-198_stops.geojson
+Iowa__Clinton_Municipal_Transit_Administration_(Clinton_MTA)__mdb_mdb-202,mdb-202,Clinton MTA,70240,mdb-202_routes.geojson,mdb-202_stops.geojson
+Iowa__Coralville_Transit__mdb_mdb-196,mdb-196,Coralville Transit,70030,mdb-196_routes.geojson,mdb-196_stops.geojson
+Iowa__CorridorRides__mdb_mdb-316,mdb-316,CorridorRides,70138,mdb-316_routes.geojson,mdb-316_stops.geojson
+Iowa__CyRide__mdb_mdb-923,mdb-923,CyRide,70041,mdb-923_routes.geojson,mdb-923_stops.geojson
+Iowa__Des_Moines_Area_Regional_Transit_Authority_(DART)__mdb_mdb-193,mdb-193,Des Moines Area Regional Transit Authority,70010,mdb-193_routes.geojson,mdb-193_stops.geojson
+Iowa__Dodger_Area_Rapid_Transit__mdb_mdb-203,mdb-203,Dodger Area Rapid Transit,70108,mdb-203_routes.geojson,mdb-203_stops.geojson
+Iowa__Iowa_City_Transit_System__mdb_mdb-559,mdb-559,Iowa City Transit System,70018,mdb-559_routes.geojson,mdb-559_stops.geojson
+Iowa__Marshalltown_Municipal_Transit__mdb_mdb-194,mdb-194,Marshalltown Municipal Transit,70092,mdb-194_routes.geojson,mdb-194_stops.geojson
+Iowa__Mason_City_Public_Transit__mdb_mdb-204,mdb-204,Mason City Public Transit,70260,mdb-204_routes.geojson,mdb-204_stops.geojson
+Iowa__Metropolitan_Transit_Authority_of_Black_Hawk_County__mdb_mdb-2414,mdb-2414,Metropolitan Transit Authority of Black Hawk County,70013,mdb-2414_routes.geojson,mdb-2414_stops.geojson
+Iowa__MuscaBus__mdb_mdb-200,mdb-200,MuscaBus,70101,mdb-200_routes.geojson,mdb-200_stops.geojson
+Iowa__Sioux_City_Transit_System__mdb_mdb-191,mdb-191,Sioux City Transit System,70012,mdb-191_routes.geojson,mdb-191_stops.geojson
+Iowa__The_Jule__mdb_mdb-2083,mdb-2083,The Jule,70011,mdb-2083_routes.geojson,mdb-2083_stops.geojson
+Iowa__University_of_Iowa_-_CAMBUS_(CAMBUS)__mdb_mdb-197,mdb-197,University of Iowa - CAMBUS,70019,mdb-197_routes.geojson,mdb-197_stops.geojson
+Kansas__Developmental_Services_of_NW_Kansas_ACCESS_Transportation__mdb_ntd-70060,ntd-70060,Developmental Services of NW Kansas/ACCESS Transportation,70060,ntd-70060_routes.geojson,ntd-70060_stops.geojson
+Kansas__Flint_Hills_Area_Transportation_Agency__mdb_tld-4273,tld-4273,Flint Hills ATA,70053,tld-4273_routes.geojson,tld-4273_stops.geojson
+Kansas__Johnson_County_Transit__mdb_mdb-2303,mdb-2303,RideKC Johnson County,70035,mdb-2303_routes.geojson,mdb-2303_stops.geojson
+Kansas__Kansas_City_Area_Transportation_Authority_(KCATA)__mdb_mdb-187,mdb-187,Kansas City Area Transportation Authority,77079,mdb-187_routes.geojson,mdb-187_stops.geojson
+Kansas__KU_on_Wheels_&_Lawrence_Transit_System__mdb_mdb-2063,mdb-2063,Lawrence Transit,70048,mdb-2063_routes.geojson,mdb-2063_stops.geojson
+Kansas__KU_on_Wheels_&_Lawrence_Transit_System__mdb_tld-1039,tld-1039,Lawrence Transit,70048,tld-1039_routes.geojson,tld-1039_stops.geojson
+Kansas__Reno_County_Area_Transit__mdb_tld-6670,tld-6670,Reno County Area Transit,70180,tld-6670_routes.geojson,tld-6670_stops.geojson
+Kansas__Topeka_Metro__mdb_tld-1660_1,tld-1660,Topeka Metro,70014,tld-1660_routes.geojson,tld-1660_stops.geojson
+Kentucky__Blue_Grass_Community_Action_Partnership__mdb_mdb-362,mdb-362,Bluegrass Ride,40948,mdb-362_routes.geojson,mdb-362_stops.geojson
+Kentucky__City_of_Bowling_Green__mdb_ntd-40184,ntd-40184,GOBG Transit,40184,ntd-40184_routes.geojson,ntd-40184_stops.geojson
+Kentucky__City_of_Maysville__mdb_ntd-41032,ntd-41032,City of Maysville,41032,ntd-41032_routes.geojson,ntd-41032_stops.geojson
+Kentucky__Lextran__mdb_mdb-2067,mdb-2067,Lextran,40017,mdb-2067_routes.geojson,mdb-2067_stops.geojson
+Kentucky__Transit_Authority_of_Northern_Kentucky_(TANK)__mdb_mdb-2068,mdb-2068,Transit Authority of Northern Kentucky,40019,mdb-2068_routes.geojson,mdb-2068_stops.geojson
+Louisiana__Capital_Area_Transit_System_(CATS)__mdb_mdb-2065,mdb-2065,Baton Rouge Area Capital Transit System,60022,mdb-2065_routes.geojson,mdb-2065_stops.geojson
+Louisiana__Good_Earth_Transit__mdb_ntd-60080,ntd-60080,Good Earth Transit,60080,ntd-60080_routes.geojson,ntd-60080_stops.geojson
+Louisiana__Lake_Charles_Transit__mdb_ntd-60023,ntd-60023,City of Lake Charles Transit,60023,ntd-60023_routes.geojson,ntd-60023_stops.geojson
+Louisiana__New_Orleans_Regional_Transit_Authority_(NORTA)__mdb_ntd-60032,ntd-60032,NORTA,60032,ntd-60032_routes.geojson,ntd-60032_stops.geojson
+Louisiana__Shreveport_and_Bossier_City__mdb_mdb-1060,mdb-1060,"Shreveport and Bossier City, Louisiana",60276,mdb-1060_routes.geojson,mdb-1060_stops.geojson
+Louisiana__St._Bernard_Parish__mdb_ntd-60058,ntd-60058,St. Bernard Urban Rapid Transit,60058,ntd-60058_routes.geojson,ntd-60058_stops.geojson
+Maine__Acadia_National_Park__mdb_tld-6900,tld-6900,Downeast Transportation,10175,tld-6900_routes.geojson,tld-6900_stops.geojson
+Maine__Bangor_Community_Connector__mdb_tld-7824,tld-7824,City of Bangor,10096,tld-7824_routes.geojson,tld-7824_stops.geojson
+Maine__Biddeford_Saco_Old_Orchard_Beach_Transit__mdb_tld-4756,tld-4756,Biddeford  Saco  Old Orchard Beach Transit,10114,tld-4756_routes.geojson,tld-4756_stops.geojson
+Maine__Greater_Portland_Metro_Bus__mdb_mdb-2642,mdb-2642,Greater Portland Metro,10016,mdb-2642_routes.geojson,mdb-2642_stops.geojson
+Maine__Lakes_Region_Explorer__mdb_mdb-452,mdb-452,Lakes Region Explorer,10142,mdb-452_routes.geojson,mdb-452_stops.geojson
+Maine__West's_Bus_Service__mdb_tld-7870,tld-7870,West's Transportation,11153,tld-7870_routes.geojson,tld-7870_stops.geojson
+Maryland__Annapolis_Transit__mdb_mdb-2285,mdb-2285,Annapolis Transit,30040,mdb-2285_routes.geojson,mdb-2285_stops.geojson
+Maryland__Cecil_Transit__mdb_mdb-3178,mdb-3178,Cecil Transit,30108,mdb-3178_routes.geojson,mdb-3178_stops.geojson
+Maryland__Frederick_County_TransIT__mdb_mdb-2432,mdb-2432,Transit Services of Frederick County,30072,mdb-2432_routes.geojson,mdb-2432_stops.geojson
+Maryland__Harbor_Connector__mdb_mdb-618,mdb-618,Harbor Connector,60276,mdb-618_routes.geojson,mdb-618_stops.geojson
+Maryland__Maryland_Transit_Administration__mdb_mdb-466,mdb-466,Maryland Transit Administration,30034,mdb-466_routes.geojson,mdb-466_stops.geojson
+Maryland__Maryland_Transit_Administration__mdb_mdb-469,mdb-469,Maryland Transit Administration,30034,mdb-469_routes.geojson,mdb-469_stops.geojson
+Maryland__Maryland_Transit_Administration_Metro_Subway__mdb_mdb-470,mdb-470,Maryland Transit Administration,30034,mdb-470_routes.geojson,mdb-470_stops.geojson
+Maryland__Montgomery_County_Department_of_Transportation_(Ride_On)__mdb_mdb-488,mdb-488,Montgomery County MD Ride On,30051,mdb-488_routes.geojson,mdb-488_stops.geojson
+Maryland__Prince_George's_County_(The_Bus)__mdb_mdb-477,mdb-477,TheBus,31026,mdb-477_routes.geojson,mdb-477_stops.geojson
+Maryland__rabbittransit__mdb_tld-223,tld-223,rabbittransit,30206,tld-223_routes.geojson,tld-223_stops.geojson
+Maryland__Regional_Transportation_Agency_of_Central_Maryland_(RTA)__mdb_mdb-489,mdb-489,Regional Transportation Agency of Central Maryland,30205,mdb-489_routes.geojson,mdb-489_stops.geojson
+Maryland__Saint_Maryʼs_Transit_System__mdb_mdb-2268,mdb-2268,St. Mary's Transit System,30109,mdb-2268_routes.geojson,mdb-2268_stops.geojson
+Maryland__Towson_Loop__mdb_mdb-1784,mdb-1784,Towson Loop (Baltimore County),30186,mdb-1784_routes.geojson,mdb-1784_stops.geojson
+Maryland__Washington_County_Transit__mdb_mdb-2286,mdb-2286,Washington County Transit,30042,mdb-2286_routes.geojson,mdb-2286_stops.geojson
+Massachusetts__Bay_State_Cruise_Company__mdb_mdb-435,mdb-435,Bay State Cruise Company,11238,mdb-435_routes.geojson,mdb-435_stops.geojson
+Massachusetts__Berkshire_Regional_Transit_Authority_(BRTA)__mdb_mdb-537,mdb-537,Link413 | Berkshire Regional Transit Authority,10007,mdb-537_routes.geojson,mdb-537_stops.geojson
+Massachusetts__Block_Island_Ferry__mdb_mdb-554,mdb-554,Block Island Ferry,90225,mdb-554_routes.geojson,mdb-554_stops.geojson
+Massachusetts__Blue_Apple_Bus_Company__mdb_mdb-2299,mdb-2299,Blue Apple Bus Company,11245,mdb-2299_routes.geojson,mdb-2299_stops.geojson
+Massachusetts__Boston_Harbor_Island_National_Recreation_Area__mdb_mdb-3416,mdb-3416,National Park Service,10004,mdb-3416_routes.geojson,mdb-3416_stops.geojson
+Massachusetts__Boston_Harbor_Islands_Ferry__mdb_mdb-2679,mdb-2679,National Park Service,99468,mdb-2679_routes.geojson,mdb-2679_stops.geojson
+Massachusetts__Brockton_Area_Transit_Authority_(BAT)__mdb_mdb-422,mdb-422,Brockton Area Transit Authority,10004,mdb-422_routes.geojson,mdb-422_stops.geojson
+Massachusetts__Brockton_Area_Transit_Authority__mdb_ntd-10004,ntd-10004,Brockton Area Transit Authority (BAT),10004,ntd-10004_routes.geojson,ntd-10004_stops.geojson
+Massachusetts__Cape_Ann_Transportation_Authority_(CATA)__mdb_mdb-447,mdb-447,Cape Ann Transportation Authority,10053,mdb-447_routes.geojson,mdb-447_stops.geojson
+Massachusetts__Cape_Cod_Regional_Transportation_Authority_(Cape_Cod_RTA)__mdb_mdb-645,mdb-645,Cape Cod Regional Transit Authority,10105,mdb-645_routes.geojson,mdb-645_stops.geojson
+Massachusetts__Cuttyhunk_Ferry_Company__mdb_mdb-423,mdb-423,Cuttyhunk Ferry Co.,10176,mdb-423_routes.geojson,mdb-423_stops.geojson
+Massachusetts__Franklin_Regional_Transit_Authority_(FRTA)__mdb_mdb-429,mdb-429,Franklin Regional Transit Authority,10173,mdb-429_routes.geojson,mdb-429_stops.geojson
+Massachusetts__Freedom_Cruise_Line__mdb_mdb-425,mdb-425,Freedom Cruise Line,11239,mdb-425_routes.geojson,mdb-425_stops.geojson
+Massachusetts__Green_Mountain_Community_Network_(GMCN)__mdb_mdb-539,mdb-539,Green Mountain Express,80159,mdb-539_routes.geojson,mdb-539_stops.geojson
+Massachusetts__Hy-Line_Cruises__mdb_mdb-427,mdb-427,Hy-Line Cruises,11239,mdb-427_routes.geojson,mdb-427_stops.geojson
+Massachusetts__Lowell_Regional_Transit_Authority_(LRTA)__mdb_mdb-444,mdb-444,Lowell Regional Transit Authority,10005,mdb-444_routes.geojson,mdb-444_stops.geojson
+Massachusetts__Martha's_Vineyard_Transit_Authority__mdb_mdb-420,mdb-420,Martha's Vineyard Transit Authority,10145,mdb-420_routes.geojson,mdb-420_stops.geojson
+Massachusetts__Massachusetts_Bay_Transportation_Authority_(MBTA)__mdb_mdb-437,mdb-437,Cape Cod Regional Transit Authority | MBTA,10105,mdb-437_routes.geojson,mdb-437_stops.geojson
+Massachusetts__Massport__mdb_mdb-441,mdb-441,Logan Express | Massport,10181,mdb-441_routes.geojson,mdb-441_stops.geojson
+Massachusetts__Merrimack_Valley_Regional_Transit_Authority_(MVRTA)__mdb_mdb-445,mdb-445,Merrimack Valley Transit,10013,mdb-445_routes.geojson,mdb-445_stops.geojson
+Massachusetts__MetroWest_Regional_Transit_Authority_(MWRTA)__mdb_mdb-439,mdb-439,MWRTA,10118,mdb-439_routes.geojson,mdb-439_stops.geojson
+Massachusetts__Middlesex_3_TMA__mdb_mdb-442,mdb-442,Middlesex 3 TMA,60126,mdb-442_routes.geojson,mdb-442_stops.geojson
+Massachusetts__Montachusett_Regional_Transit_Authority_(MART)__mdb_mdb-433,mdb-433,Montachusett Regional Transit Authority (MART),10061,mdb-433_routes.geojson,mdb-433_stops.geojson
+Massachusetts__Nantucket_Regional_Transit_Authority_(WAVE)__mdb_mdb-426,mdb-426,the WAVE - Nantucket Regional Transit Authority,10162,mdb-426_routes.geojson,mdb-426_stops.geojson
+Massachusetts__Patriots_Party_Boats__mdb_mdb-424,mdb-424,Patriot Party Boats,,mdb-424_routes.geojson,mdb-424_stops.geojson
+Massachusetts__Plymouth_&_Brockton_Street_Railway_Co__mdb_mdb-556,mdb-556,Plymouth & Brockton Street Railway Co.,10176,mdb-556_routes.geojson,mdb-556_stops.geojson
+Massachusetts__Rhode_Island_Public_Transit_Authority__mdb_mdb-624,mdb-624,Rhode Island Public Transit Authority,11245,mdb-624_routes.geojson,mdb-624_stops.geojson
+Massachusetts__Southeastern_Regional_Transit_Authority_(SRTA)__mdb_mdb-421,mdb-421,Southeastern Regional Transit Authority,10006,mdb-421_routes.geojson,mdb-421_stops.geojson
+Massachusetts__Vineyard_Fast_Ferry__mdb_mdb-419,mdb-419,Vineyard Fast Ferry,10183,mdb-419_routes.geojson,mdb-419_stops.geojson
+Michigan__Ann_Arbor_Area_Transportation_Authority_(TheRide)__mdb_mdb-415,mdb-415,AAATA,50040,mdb-415_routes.geojson,mdb-415_stops.geojson
+Michigan__Bay_Area_Transportation_Authority__mdb_mdb-2254,mdb-2254,Bay Area Transportation Authority,50413,mdb-2254_routes.geojson,mdb-2254_stops.geojson
+Michigan__Bay_Metropolitan_Transit_Authority__mdb_ntd-50029,ntd-50029,Bay Metro Transit,50029,ntd-50029_routes.geojson,ntd-50029_stops.geojson
+Michigan__Blue_Water_Area_Transit__mdb_tld-7035,tld-7035,Blue Water Area Transit,50148,tld-7035_routes.geojson,tld-7035_stops.geojson
+Michigan__Capital_Area_Transportation_Authority_(CATA)__mdb_mdb-402,mdb-402,Capital Area Transportation Authority,50036,mdb-402_routes.geojson,mdb-402_stops.geojson
+Michigan__Detroit_People_Mover__mdb_mdb-2281,mdb-2281,Detroit Transportation Corporation,50141,mdb-2281_routes.geojson,mdb-2281_stops.geojson
+Michigan__Froggy_Transportation__mdb_mdb-2216,mdb-2216,Froggy Transportation,55560,mdb-2216_routes.geojson,mdb-2216_stops.geojson
+Michigan__Kalamazoo_Metro_Transit__mdb_tld-674,tld-674,Kalamazoo,50029,tld-674_routes.geojson,tld-674_stops.geojson
+Michigan__Lake_Erie_Transit__mdb_tld-6883,tld-6883,Lake Erie Transit,50522,tld-6883_routes.geojson,tld-6883_stops.geojson
+Michigan__Macatawa_Area_Express__mdb_tld-5873,tld-5873,Macatawa Area Express Transportation Authority,50184,tld-5873_routes.geojson,tld-5873_stops.geojson
+Michigan__Mass_Transportation_Authority_Flint__mdb_mdb-2287,mdb-2287,Mass Transportation Authority,50459,mdb-2287_routes.geojson,mdb-2287_stops.geojson
+Michigan__Muskegon_Area_Transit_System__mdb_tld-4831,tld-4831,Muskegon Area Transit System,50037,tld-4831_routes.geojson,tld-4831_stops.geojson
+Michigan__Suburban_Mobility_Authority_for_Regional_Transit_(SMART)__mdb_mdb-414,mdb-414,SMART,55637,mdb-414_routes.geojson,mdb-414_stops.geojson
+Michigan__The_Rapid__mdb_mdb-400,mdb-400,The Rapid,50495,mdb-400_routes.geojson,mdb-400_stops.geojson
+Michigan__University_of_Michigan_Transit_Services__mdb_mdb-2072,mdb-2072,University of Michigan Transportation Services,50158,mdb-2072_routes.geojson,mdb-2072_stops.geojson
+Minnesota__Brown_County_Heartland_Express__mdb_mdb-2037,mdb-2037,Brown County Heartland Express,50384,mdb-2037_routes.geojson,mdb-2037_stops.geojson
+Minnesota__Brown_County_Heartland_Express__mdb_mdb-2296,mdb-2296,Brown County Heartland Express,50384,mdb-2296_routes.geojson,mdb-2296_stops.geojson
+Minnesota__Central_Community_Transit__mdb_mdb-2301,mdb-2301,Central Community Transit,55314,mdb-2301_routes.geojson,mdb-2301_stops.geojson
+Minnesota__Community_Transit__mdb_tld-5761,tld-5761,Community Transit,55326,tld-5761_routes.geojson,tld-5761_stops.geojson
+Minnesota__Duluth_Transit__mdb_mdb-301,mdb-301,Duluth Transit Authority,50025,mdb-301_routes.geojson,mdb-301_stops.geojson
+Minnesota__Hiawathaland_Transit__mdb_mdb-2859,mdb-2859,Hiawathaland Transit,50510,mdb-2859_routes.geojson,mdb-2859_stops.geojson
+Minnesota__Mankato_Transit_System__mdb_ntd-50205,ntd-50205,,50205,ntd-50205_routes.geojson,ntd-50205_stops.geojson
+Minnesota__Metro_Transit__mdb_mdb-205,mdb-205,Metro Transit | Metro Transit/Met Council | Met Council | Maple Grove | Plymouth | SouthWest Transit | Airport (MAC) | University of Minnesota,50518,mdb-205_routes.geojson,mdb-205_stops.geojson
+Minnesota__Minnesota_Valley_Transit_Authority_(MVTA)__mdb_mdb-206,mdb-206,MVTA,50519,mdb-206_routes.geojson,mdb-206_stops.geojson
+Minnesota__SMART__mdb_tld-5753,tld-5753,SMART,88294,tld-5753_routes.geojson,tld-5753_stops.geojson
+Minnesota__St._Cloud_Metropolitan_Transit_Commission__mdb_ntd-50028,ntd-50028,Metro Bus,50028,ntd-50028_routes.geojson,ntd-50028_stops.geojson
+Mississippi__City_of_Hattiesburg__mdb_ntd-40060,ntd-40060,Hub City Transit,40060,ntd-40060_routes.geojson,ntd-40060_stops.geojson
+Mississippi__City_of_Jackson_(JTRAN)__mdb_mdb-2652,mdb-2652,City of Jackson (JTRAN),40015,mdb-2652_routes.geojson,mdb-2652_stops.geojson
+Mississippi__Gulf_Islands_National_Seashore__mdb_mdb-3210,mdb-3210,National Park Service,99468,mdb-3210_routes.geojson,mdb-3210_stops.geojson
+Mississippi__National_Park_Service__mdb_tld-6677,tld-6677,National Park Service,99468,tld-6677_routes.geojson,tld-6677_stops.geojson
+Missouri__City_of_Jefferson__mdb_ntd-70043,ntd-70043,JeffTran Fixedbus,70043,ntd-70043_routes.geojson,ntd-70043_stops.geojson
+Missouri__Metro_St._Louis__mdb_mdb-2035,mdb-2035,Metro St. Louis,70006,mdb-2035_routes.geojson,mdb-2035_stops.geojson
+Montana__Billings_Metropolitan_Transit__mdb_tld-5893,tld-5893,City of Billings MET Transit,80004,tld-5893_routes.geojson,tld-5893_stops.geojson
+Montana__Mountain_Line__mdb_mdb-292,mdb-292,Missoula Urban Transportation District,80009,mdb-292_routes.geojson,mdb-292_stops.geojson
+Montana__Park_County_Transit__mdb_ntd-88293,ntd-88293,Park County Transit,88293,ntd-88293_routes.geojson,ntd-88293_stops.geojson
+Montana__Streamline__mdb_mdb-295,mdb-295,Streamline,80235,mdb-295_routes.geojson,mdb-295_stops.geojson
+Montana__Sunny_Valley_Transit_(Demo)__mdb_mdb-3473,mdb-3473,Sunny Valley Transit,80183,mdb-3473_routes.geojson,mdb-3473_stops.geojson
+Nebraska__North_Fork_Area_Transit__mdb_tld-4469,tld-4469,North Fork Area Transit,70156,tld-4469_routes.geojson,tld-4469_stops.geojson
+Nebraska__Omaha_Metro__mdb_mdb-2261,mdb-2261,Omaha Metro Transit,70002,mdb-2261_routes.geojson,mdb-2261_stops.geojson
+Nebraska__Open_Plains_Transit__mdb_tld-6708,tld-6708,Open Plains Transit,77080,tld-6708_routes.geojson,tld-6708_stops.geojson
+Nebraska__StarTran__mdb_mdb-2269,mdb-2269,StarTran,70001,mdb-2269_routes.geojson,mdb-2269_stops.geojson
+Nevada__Jump_Around_Carson__mdb_tld-688,tld-688,Jump Around Carson,90215,tld-688_routes.geojson,tld-688_stops.geojson
+Nevada__Regional_Transportation_Commission_(RTC)__mdb_mdb-120,mdb-120,RTC RIDE,90045,mdb-120_routes.geojson,mdb-120_stops.geojson
+Nevada__Regional_Transportation_Commission_of_Southern_Nevada_(RTC)__mdb_mdb-2351,mdb-2351,Regional Transportation Commission of Southern Nevada,90045,mdb-2351_routes.geojson,mdb-2351_stops.geojson
+Nevada__Sage_Stage__mdb_mdb-113,mdb-113,Sage Stage,91008,mdb-113_routes.geojson,mdb-113_stops.geojson
+New_Hampshire__Advance_Transit__mdb_mdb-631,mdb-631,Advance Transit,11164,mdb-631_routes.geojson,mdb-631_stops.geojson
+New_Hampshire__City_Express__mdb_ntd-10159,ntd-10159,City Express,10133,ntd-10159_routes.geojson,ntd-10159_stops.geojson
+New_Hampshire__Cooperative_Alliance_For_Seacoast_Transportation__mdb_tld-4668,tld-4668,Cooperative Alliance for Seacoast Transportation (COAST),10086,tld-4668_routes.geojson,tld-4668_stops.geojson
+New_Hampshire__Dartmouth_College__mdb_mdb-1958,mdb-1958,Dartmouth Campus Connector,11244,mdb-1958_routes.geojson,mdb-1958_stops.geojson
+New_Hampshire__Manchester_Transit_Authority__mdb_mdb-3432,mdb-3432,Manchester Transit Authority,10002,mdb-3432_routes.geojson,mdb-3432_stops.geojson
+New_Hampshire__Rural_Community_Transportation_(RCT)__mdb_mdb-448,mdb-448,Rural Community Transportation,11156,mdb-448_routes.geojson,mdb-448_stops.geojson
+New_Hampshire__Tri-Valley_Transit__mdb_mdb-852,mdb-852,Tri-Valley Transit,11164,mdb-852_routes.geojson,mdb-852_stops.geojson
+New_Jersey__Academy_Lines__mdb_ntd-20122,ntd-20122,Academy Bus,20924,ntd-20122_routes.geojson,ntd-20122_stops.geojson
+"New_Jersey__Coach_USA_Erie,_Orange_Westchester_Link,_ShortLine_Hudson,_Suburban_Transit,_Community_Coach,_Rockland_Coaches,_Newark_A__mdb_tld-5741",tld-5741,Waukesha County Transit | Orange Westchester Link | ShortLine Hudson | Suburban Transit | Community Coach | Rockland Coaches | Coach USA Erie | Newark Airport Express | Wisconsin Coach Lines | Van Galder (Coach USA),22969,tld-5741_routes.geojson,tld-5741_stops.geojson
+New_Jersey__Cross_County_Connection__mdb_ntd-20208,ntd-20208,Cross County Connection,22969,ntd-20208_routes.geojson,ntd-20208_stops.geojson
+New_Jersey__Fullington_Trailways__mdb_tld-4379,tld-4379,Fullington Trailways,30987,tld-4379_routes.geojson,tld-4379_stops.geojson
+New_Jersey__Megabus__mdb_mdb-2321,mdb-2321,Waukesha County Transit | Orange Westchester Link | ShortLine Hudson | Suburban Transit | Community Coach | Rockland Coaches | Coach USA Erie | Newark Airport Express | Wisconsin Coach Lines | Van Galder (Coach USA),20982,mdb-2321_routes.geojson,mdb-2321_stops.geojson
+New_Jersey__New_Jersey_Transit_(NJ_Transit)__mdb_mdb-508,mdb-508,NJ TRANSIT BUS,20080,mdb-508_routes.geojson,mdb-508_stops.geojson
+New_Jersey__New_Jersey_Transit_(NJ_Transit)__mdb_mdb-509,mdb-509,NJ TRANSIT BUS | NJ TRANSIT RAIL,20080,mdb-509_routes.geojson,mdb-509_stops.geojson
+New_Jersey__NY_Waterway__mdb_mdb-3192,mdb-3192,NY Waterway,20190,mdb-3192_routes.geojson,mdb-3192_stops.geojson
+New_Jersey__Somerset_County__mdb_ntd-20209,ntd-20209,Somerset County,20209,ntd-20209_routes.geojson,ntd-20209_stops.geojson
+New_Jersey__Statue_of_Liberty_National_Monument__mdb_tld-6909,tld-6909,National Park Service,22981,tld-6909_routes.geojson,tld-6909_stops.geojson
+New_Jersey__Sussex_County_Skylands_Ride__mdb_ntd-20950,ntd-20950,Sussex County Skylands Ride,20950,ntd-20950_routes.geojson,ntd-20950_stops.geojson
+New_Mexico__A_Shiwi_Transit__mdb_ntd-66242,ntd-66242,A:Shiwi Transit,66242,ntd-66242_routes.geojson,ntd-66242_stops.geojson
+New_Mexico__ABQ_RIDE__mdb_mdb-166,mdb-166,ABQ RIDE,60019,mdb-166_routes.geojson,mdb-166_stops.geojson
+New_Mexico__Atomic_City_Transit__mdb_mdb-1240,mdb-1240,Atomic City Transit,60215,mdb-1240_routes.geojson,mdb-1240_stops.geojson
+New_Mexico__Bandalier_National_Monument__mdb_tld-6902,tld-6902,National Park Service,99468,tld-6902_routes.geojson,tld-6902_stops.geojson
+New_Mexico__City_of_Hobbs__mdb_ntd-60190,ntd-60190,Hobbs Express Public Transportation,60190,ntd-60190_routes.geojson,ntd-60190_stops.geojson
+New_Mexico__Navajo_Transit_System__mdb_mdb-2346,mdb-2346,Navajo Transit System,60620,mdb-2346_routes.geojson,mdb-2346_stops.geojson
+New_Mexico__NMDOT_Park_and_Ride__mdb_tld-5537,tld-5537,New Mexico DOT Park and Ride,66339,tld-5537_routes.geojson,tld-5537_stops.geojson
+New_Mexico__North_Central_Regional_Transit_District__mdb_tld-1319,tld-1319,NCRTD,60138,tld-1319_routes.geojson,tld-1319_stops.geojson
+New_Mexico__Red_Apple_Transit__mdb_mdb-160,mdb-160,Red Apple Transit,60100,mdb-160_routes.geojson,mdb-160_stops.geojson
+New_Mexico__RoadRUNNER_Transit__mdb_mdb-2075,mdb-2075,Roadrunner Transit (Las Cruces),60049,mdb-2075_routes.geojson,mdb-2075_stops.geojson
+New_York__Access_Allegany__mdb_mdb-531,mdb-531,Access Allegany,20951,mdb-531_routes.geojson,mdb-531_stops.geojson
+"New_York__Adirondack_Trailways,_New_York_Trailways,_Pine_Hill_Trailways,_Burlington_Trailways__mdb_ntd-20177",ntd-20177,Adirondack Trailways,22930,ntd-20177_routes.geojson,ntd-20177_stops.geojson
+New_York__Adirondack_Trailways__mdb_tld-5781,tld-5781,Adirondack Trailways,20969,tld-5781_routes.geojson,tld-5781_stops.geojson
+New_York__Adirondack_Trailways_ADP__mdb_mdb-823,mdb-823,Adirondack Trailways,20969,mdb-823_routes.geojson,mdb-823_stops.geojson
+New_York__Adirondack_Trailways_NYP__mdb_mdb-824,mdb-824,Adirondack Trailways,20969,mdb-824_routes.geojson,mdb-824_stops.geojson
+New_York__Birnie_Bus__mdb_mdb-233,mdb-233,Birnie Bus,20988,mdb-233_routes.geojson,mdb-233_stops.geojson
+New_York__Broome_County_Transit_(B.C._Transit)__mdb_mdb-2079,mdb-2079,Broome County Transit,20003,mdb-2079_routes.geojson,mdb-2079_stops.geojson
+New_York__Centro__mdb_mdb-534,mdb-534,Centro,20228,mdb-534_routes.geojson,mdb-534_stops.geojson
+New_York__Chautauqua_Area_Regional_Transit_System_(CARTS)__mdb_mdb-304,mdb-304,CARTS (If you do not get satisfactory results please call the CARTS office @ 800-388-6534 to see if we can accommodate your trip),20983,mdb-304_routes.geojson,mdb-304_stops.geojson
+New_York__Chemung_County_(C-TRAN)__mdb_ntd-20005,ntd-20005,C TRAN,20005,ntd-20005_routes.geojson,ntd-20005_stops.geojson
+New_York__Chenango_First_Transit__mdb_mdb-536,mdb-536,Chenango First Transit,21000,mdb-536_routes.geojson,mdb-536_stops.geojson
+New_York__City_Of_Glen_Cove__mdb_tld-5787,tld-5787,City Of Glen Cove,22930,tld-5787_routes.geojson,tld-5787_stops.geojson
+New_York__City_of_Long_Beach_Transportation__mdb_mdb-916,mdb-916,City of Long Beach Transportation,20006,mdb-916_routes.geojson,mdb-916_stops.geojson
+New_York__City_of_Mechanicville_Public_Transit__mdb_mdb-541,mdb-541,City of Mechanicville Public Transit,20213,mdb-541_routes.geojson,mdb-541_stops.geojson
+New_York__Clarkstown_MiniTrans__mdb_mdb-911,mdb-911,Clarkstown MiniTrans,20085,mdb-911_routes.geojson,mdb-911_stops.geojson
+New_York__Clinton_County_Public_Transit_(CCPT)__mdb_mdb-544,mdb-544,Clinton County Public Transit,20939,mdb-544_routes.geojson,mdb-544_stops.geojson
+New_York__Columbia_County_Public_Transportation__mdb_mdb-3116,mdb-3116,Columbia County Public Transportation,20999,mdb-3116_routes.geojson,mdb-3116_stops.geojson
+New_York__Connect_Niagara__mdb_tld-5791,tld-5791,Connect Niagara,20957,tld-5791_routes.geojson,tld-5791_stops.geojson
+New_York__Corning_Erwin_Area_Transit_System_(CEATS)__mdb_mdb-302,mdb-302,CEATS,20941,mdb-302_routes.geojson,mdb-302_stops.geojson
+New_York__Downtown_Alliance__mdb_mdb-519,mdb-519,Downtown Alliance,70107,mdb-519_routes.geojson,mdb-519_stops.geojson
+New_York__Dutchess_County__mdb_mdb-457,mdb-457,Dutchess County Public Transit,20010,mdb-457_routes.geojson,mdb-457_stops.geojson
+New_York__Endless_Mountains_Transportation_Authority__mdb_tld-7021,tld-7021,BeST Transit,21000,tld-7021_routes.geojson,tld-7021_stops.geojson
+New_York__Fullington_Trailways__mdb_tld-5783,tld-5783,Fullington Trailways,20978,tld-5783_routes.geojson,tld-5783_stops.geojson
+New_York__Gloversville_Transit_System__mdb_mdb-2650,mdb-2650,Gloversville Transit Services,20981,mdb-2650_routes.geojson,mdb-2650_stops.geojson
+New_York__Greene_County_Transit__mdb_mdb-613,mdb-613,Greene County Transit,20931,mdb-613_routes.geojson,mdb-613_stops.geojson
+New_York__Hornell_Area_Transit__mdb_mdb-532,mdb-532,Hornell Area Transit,20953,mdb-532_routes.geojson,mdb-532_stops.geojson
+New_York__Huntington_Area_Rapid_Transit_(HART)__mdb_mdb-905,mdb-905,HART,20071,mdb-905_routes.geojson,mdb-905_stops.geojson
+New_York__Jefferson_County_Public_Transit_(JCPT)__mdb_mdb-3392,mdb-3392,Jefferson County Public Transit,20991,mdb-3392_routes.geojson,mdb-3392_stops.geojson
+New_York__Lake_Champlain_Ferries__mdb_mdb-547,mdb-547,Lake Champlain Ferries,99292,mdb-547_routes.geojson,mdb-547_stops.geojson
+New_York__Leprechaun_Lines__mdb_mdb-910,mdb-910,Leprechaun Lines,20179,mdb-910_routes.geojson,mdb-910_stops.geojson
+New_York__Lewis_County_Public_Transportation__mdb_mdb-566,mdb-566,Lewis County Public Transportation,20925,mdb-566_routes.geojson,mdb-566_stops.geojson
+New_York__Lower_Hudson_Valley_Transit__mdb_mdb-915,mdb-915,LHTL,20991,mdb-915_routes.geojson,mdb-915_stops.geojson
+New_York__Madison_County_Transit__mdb_mdb-573,mdb-573,Madison County Transit,20940,mdb-573_routes.geojson,mdb-573_stops.geojson
+New_York__Mercy_College__mdb_tld-4465,tld-4465,Mercy College,88140,tld-4465_routes.geojson,tld-4465_stops.geojson
+New_York__Metropolitan_Transit_Authority_(MTA)__mdb_mdb-507,mdb-507,Long Island Rail Road,20188,mdb-507_routes.geojson,mdb-507_stops.geojson
+New_York__Metropolitan_Transit_Authority_(MTA)__mdb_mdb-510,mdb-510,MTA Bus Company,20188,mdb-510_routes.geojson,mdb-510_stops.geojson
+New_York__Metropolitan_Transit_Authority_(MTA)__mdb_mdb-511,mdb-511,MTA New York City Transit,20188,mdb-511_routes.geojson,mdb-511_stops.geojson
+New_York__Metropolitan_Transit_Authority_(MTA)__mdb_mdb-512,mdb-512,MTA New York City Transit,20188,mdb-512_routes.geojson,mdb-512_stops.geojson
+New_York__Metropolitan_Transit_Authority_(MTA)__mdb_mdb-513,mdb-513,MTA New York City Transit,20188,mdb-513_routes.geojson,mdb-513_stops.geojson
+New_York__Metropolitan_Transit_Authority_(MTA)__mdb_mdb-514,mdb-514,MTA New York City Transit,20188,mdb-514_routes.geojson,mdb-514_stops.geojson
+New_York__Metropolitan_Transit_Authority_(MTA)__mdb_mdb-516,mdb-516,MTA New York City Transit,20188,mdb-516_routes.geojson,mdb-516_stops.geojson
+New_York__Metropolitan_Transit_Authority_(MTA)__mdb_mdb-520,mdb-520,MTA New York City Transit,20188,mdb-520_routes.geojson,mdb-520_stops.geojson
+New_York__Metropolitan_Transit_Authority_(MTA)__mdb_mdb-528,mdb-528,MTA New York City Transit,20188,mdb-528_routes.geojson,mdb-528_stops.geojson
+New_York__MTA_Metro-North_Railroad__mdb_tld-5788,tld-5788,Metro-North Railroad,20078,tld-5788_routes.geojson,tld-5788_stops.geojson
+New_York__Nassau_Inter-County_Express_(NICE_Bus)__mdb_mdb-521,mdb-521,Nassau Inter-County Express,20206,mdb-521_routes.geojson,mdb-521_stops.geojson
+New_York__Niagara_Frontier_Transportation_Authority__mdb_tld-401,tld-401,NFTA,20004,tld-401_routes.geojson,tld-401_stops.geojson
+New_York__Niagara_Frontier_Transportation_Authority__mdb_tld-6748,tld-6748,NFTA - Metro,20004,tld-6748_routes.geojson,tld-6748_stops.geojson
+New_York__North_Country_Express_Transit__mdb_mdb-546,mdb-546,North Country Express Transit,20991,mdb-546_routes.geojson,mdb-546_stops.geojson
+New_York__NYC_Ferry__mdb_mdb-515,mdb-515,NYC Ferry,90225,mdb-515_routes.geojson,mdb-515_stops.geojson
+New_York__Olean_Area_Transit_System__mdb_mdb-586,mdb-586,Olean Area Transit System,20975,mdb-586_routes.geojson,mdb-586_stops.geojson
+New_York__Oneonta_Public_Transit__mdb_tld-6777,tld-6777,Oneonta Public Transit,20960,tld-6777_routes.geojson,tld-6777_stops.geojson
+New_York__Otsego_Express_Public_Transportation__mdb_mdb-589,mdb-589,Otsego Express Public Transportation,21000,mdb-589_routes.geojson,mdb-589_stops.geojson
+New_York__PART_Putnam_Area_Rapid_Transit__mdb_mdb-928,mdb-928,PART Putnam Area Rapid Transit,20096,mdb-928_routes.geojson,mdb-928_stops.geojson
+"New_York__Propark_Mobility,_Columbia_County_Public_Transportation__mdb_tld-6745",tld-6745,Propark Mobility | Columbia County Public Transportation,20999,tld-6745_routes.geojson,tld-6745_stops.geojson
+New_York__Rensselaer_County_(Yankee_Trails)__mdb_mdb-804,mdb-804,Yankee Trails,20968,mdb-804_routes.geojson,mdb-804_stops.geojson
+New_York__Rochester-Genesee_Regional_Transportation_Authority_(RGRTA)__mdb_mdb-533,mdb-533,Regional Transit Service (RTS),20983,mdb-533_routes.geojson,mdb-533_stops.geojson
+New_York__Rochester-Genesee_Regional_Transportation_Authority__mdb_tld-1200,tld-1200,RTS Seneca,22929,tld-1200_routes.geojson,tld-1200_stops.geojson
+New_York__Rochester-Genesee_Regional_Transportation_Authority__mdb_tld-1201,tld-1201,RTS Wayne,20991,tld-1201_routes.geojson,tld-1201_stops.geojson
+New_York__Rochester-Genesee_Regional_Transportation_Authority__mdb_tld-7040,tld-7040,RTS Genesee,20991,tld-7040_routes.geojson,tld-7040_stops.geojson
+New_York__Rochester-Genesee_Regional_Transportation_Authority__mdb_tld-7041,tld-7041,RTS Ontario,20991,tld-7041_routes.geojson,tld-7041_stops.geojson
+New_York__Rochester-Genesee_Regional_Transportation_Authority__mdb_tld-7042,tld-7042,RTS Orleans,20991,tld-7042_routes.geojson,tld-7042_stops.geojson
+New_York__Rochester-Genesee_Regional_Transportation_Authority__mdb_tld-7043,tld-7043,RTS Wyoming,20991,tld-7043_routes.geojson,tld-7043_stops.geojson
+New_York__Rochester_Transit_Service__mdb_mdb-3114,mdb-3114,RTS Livingston,20999,mdb-3114_routes.geojson,mdb-3114_stops.geojson
+New_York__Roosevelt_Island_Operating_Corporation_Tramway__mdb_tld-3364,tld-3364,Roosevelt Island Tram,20099,tld-3364_routes.geojson,tld-3364_stops.geojson
+New_York__Schoharie_County_Transit__mdb_tld-5877,tld-5877,Schoharie County Public Transit,20926,tld-5877_routes.geojson,tld-5877_stops.geojson
+New_York__SeaStreak_Ferries__mdb_ntd-20226,ntd-20226,Seastreak,20226,ntd-20226_routes.geojson,ntd-20226_stops.geojson
+New_York__Seneca_Transit_System__mdb_ntd-22929,ntd-22929,Seneca Transit System,21000,ntd-22929_routes.geojson,ntd-22929_stops.geojson
+New_York__St_Lawrence_County_Public_Transit__mdb_mdb-2611,mdb-2611,St. Lawrence County Public Transit,20991,mdb-2611_routes.geojson,mdb-2611_stops.geojson
+New_York__Staten_Island_Ferry__mdb_mdb-518,mdb-518,New York City Department of Transportation,20082,mdb-518_routes.geojson,mdb-518_stops.geojson
+New_York__Steuben_County_Transit__mdb_mdb-851,mdb-851,Steuben County Transit,21000,mdb-851_routes.geojson,mdb-851_stops.geojson
+New_York__Suffolk_County_Transit__mdb_mdb-3115,mdb-3115,Suffolk County Transit - West | Suffolk County Transit - East | Suffolk County Transit  - Central,20072,mdb-3115_routes.geojson,mdb-3115_stops.geojson
+New_York__Sullivan_County_Transit__mdb_mdb-927,mdb-927,Sullivan County Transit | Move Sullivan,20937,mdb-927_routes.geojson,mdb-927_stops.geojson
+New_York__Tompkins_Consolidated_Area_Transit_Inc__mdb_mdb-535,mdb-535,Tompkins Consolidated Area Transit Inc,20145,mdb-535_routes.geojson,mdb-535_stops.geojson
+New_York__Transport_of_Rockland__mdb_tld-3368,tld-3368,Transport of Rockland (TOR),20988,tld-3368_routes.geojson,tld-3368_stops.geojson
+New_York__Ulster_County_Area_Transit__mdb_mdb-526,mdb-526,Ulster County Area Transit,20178,mdb-526_routes.geojson,mdb-526_stops.geojson
+New_York__Watertown_Citibus__mdb_mdb-2881,mdb-2881,City of Watertown (CitiBus),20215,mdb-2881_routes.geojson,mdb-2881_stops.geojson
+New_York__Watertown_Citibus__mdb_mdb-871,mdb-871,Watertown Citibus,20215,mdb-871_routes.geojson,mdb-871_stops.geojson
+North_Carolina__Asheville_Rides_Transit__mdb_mdb-903,mdb-903,Asheville Rides Transit,40005,mdb-903_routes.geojson,mdb-903_stops.geojson
+North_Carolina__Cape_Lookout_National_Seashore__mdb_mdb-3205,mdb-3205,National Park Service,40209,mdb-3205_routes.geojson,mdb-3205_stops.geojson
+North_Carolina__Capital_Area_Transit_(GoRaleigh)__mdb_mdb-2074,mdb-2074,GoRaleigh,40007,mdb-2074_routes.geojson,mdb-2074_stops.geojson
+North_Carolina__Chapel_Hill_Transit__mdb_tld-89,tld-89,Chapel Hill Transit,40051,tld-89_routes.geojson,tld-89_stops.geojson
+North_Carolina__Charlotte_Area_Transit_System_(CATS)__mdb_mdb-2265,mdb-2265,CATS,44977,mdb-2265_routes.geojson,mdb-2265_stops.geojson
+North_Carolina__City_of_Jacksonville__mdb_tld-6735,tld-6735,City of Jacksonville,40166,tld-6735_routes.geojson,tld-6735_stops.geojson
+North_Carolina__Concord_Kannapolis_Area_Transit_(Rider_Transit)__mdb_mdb-2244,mdb-2244,Concord Kannapolis Area Transit,40167,mdb-2244_routes.geojson,mdb-2244_stops.geojson
+North_Carolina__Davidson_County_Transportation_Services__mdb_ntd-40131,ntd-40131,DAVIDSON COUNTY TRANSPORTATION SERVICES,40131,ntd-40131_routes.geojson,ntd-40131_stops.geojson
+North_Carolina__GoCary__mdb_mdb-2277,mdb-2277,GoCary,40143,mdb-2277_routes.geojson,mdb-2277_stops.geojson
+North_Carolina__GoDurham__mdb_tld-98,tld-98,GoDurham,40087,tld-98_routes.geojson,tld-98_stops.geojson
+North_Carolina__GoTriangle__mdb_mdb-3183,mdb-3183,GoTriangle,41131,mdb-3183_routes.geojson,mdb-3183_stops.geojson
+North_Carolina__Link_Transit__mdb_mdb-1971,mdb-1971,LINK TRANSIT,40252,mdb-1971_routes.geojson,mdb-1971_stops.geojson
+North_Carolina__North_Carolina_State_University_(NCSU)__mdb_mdb-2245,mdb-2245,NC State University,40147,mdb-2245_routes.geojson,mdb-2245_stops.geojson
+North_Carolina__Orange_County_Public_Transportation__mdb_tld-7885,tld-7885,Orange County Public Transportation,40231,tld-7885_routes.geojson,tld-7885_stops.geojson
+North_Carolina__Piedmont_Authority_for_Regional_Transportation_(PART)__mdb_mdb-373,mdb-373,Piedmont Authority for Regional Transportation,40173,mdb-373_routes.geojson,mdb-373_stops.geojson
+North_Carolina__Research_Triangle_Regional_Public_Transportation_Authority__mdb_tld-202,tld-202,GoTriangle,40108,tld-202_routes.geojson,tld-202_stops.geojson
+North_Carolina__Tar_River_Transit__mdb_mdb-472,mdb-472,Tar River Transit,40096,mdb-472_routes.geojson,mdb-472_stops.geojson
+North_Carolina__Wave_Transit__mdb_mdb-1110,mdb-1110,Wave Transit,40006,mdb-1110_routes.geojson,mdb-1110_stops.geojson
+North_Carolina__Winston_Salem_Transit_Authority_(WSTA)__mdb_mdb-3479,mdb-3479,Winston Salem Transit,40012,mdb-3479_routes.geojson,mdb-3479_stops.geojson
+North_Dakota__Bis-Man_Transit__mdb_tld-6095,tld-6095,Bis-Man Transit,80019,tld-6095_routes.geojson,tld-6095_stops.geojson
+North_Dakota__Cities_Area_Transit__mdb_mdb-2199,mdb-2199,Cities Area Transit,88128,mdb-2199_routes.geojson,mdb-2199_stops.geojson
+North_Dakota__City_of_Fargo__mdb_ntd-80003,ntd-80003,MATBUS,80003,ntd-80003_routes.geojson,ntd-80003_stops.geojson
+Ohio__Akron_Metro_Regional_Transit_Authority_(METRO)__mdb_mdb-2071,mdb-2071,METRO RTA,50012,mdb-2071_routes.geojson,mdb-2071_stops.geojson
+Ohio__Allen_County_Regional_Transit_Authority__mdb_mdb-210,mdb-210,Allen County Regional Transit Authority,50093,mdb-210_routes.geojson,mdb-210_stops.geojson
+Ohio__Central_Ohio_Transit_Authority_(COTA)__mdb_mdb-404,mdb-404,Central Ohio Transit Authority,50016,mdb-404_routes.geojson,mdb-404_stops.geojson
+Ohio__Cincinnati_Metro__mdb_mdb-307,mdb-307,METRO,50012,mdb-307_routes.geojson,mdb-307_stops.geojson
+Ohio__Greater_Cleveland_Regional_Transit_Authority__mdb_mdb-406,mdb-406,Greater Cleveland Regional Transit Authority,50015,mdb-406_routes.geojson,mdb-406_stops.geojson
+Ohio__Greater_Dayton_Regional_Transit_Authority_(Greater_Dayton_RTA)__mdb_mdb-403,mdb-403,Greater Dayton RTA,50017,mdb-403_routes.geojson,mdb-403_stops.geojson
+Ohio__Laketran__mdb_mdb-410,mdb-410,Laketran,50117,mdb-410_routes.geojson,mdb-410_stops.geojson
+Ohio__Licking_County_Transit__mdb_ntd-50163,ntd-50163,Licking County Transit,50163,ntd-50163_routes.geojson,ntd-50163_stops.geojson
+Ohio__Lorain_County_Transit__mdb_tld-7039,tld-7039,Lorain County Transit,50095,tld-7039_routes.geojson,tld-7039_stops.geojson
+Ohio__Portage_Area_Regional_Transportation_Authority_(PARTA)__mdb_mdb-2256,mdb-2256,Portage Area Regional Transit Authority (PARTA),50021,mdb-2256_routes.geojson,mdb-2256_stops.geojson
+Ohio__Sandusky_Transit_System__mdb_tld-1213_1,tld-1213,Sandusky Transit System,50164,tld-1213_routes.geojson,tld-1213_stops.geojson
+Ohio__Stark_Area_Regional_Transit_Authority_(SARTA)__mdb_mdb-2001,mdb-2001,Stark Area Regional Transit Authority,50011,mdb-2001_routes.geojson,mdb-2001_stops.geojson
+Ohio__Toledo_Area_Regional_Transit_Authority__mdb_tld-1716_1,tld-1716,Toledo Area Regional Transit Authority,50022,tld-1716_routes.geojson,tld-1716_stops.geojson
+Ohio__Western_Reserve_Transit_Authority__mdb_tld-1717,tld-1717,Western Reserve Transit Authority,50024,tld-1717_routes.geojson,tld-1717_stops.geojson
+Oklahoma__Campus_Area_Rapid_Transit_(CART)__mdb_mdb-182,mdb-182,Campus Area Rapid Transit (CART),66194,mdb-182_routes.geojson,mdb-182_stops.geojson
+Oklahoma__Citylink_Edmond__mdb_tld-7841,tld-7841,Citylink Edmond,60118,tld-7841_routes.geojson,tld-7841_stops.geojson
+Oklahoma__Embark__mdb_mdb-2062,mdb-2062,Campus Area Rapid Transit (CART) | Citylink Edmond | EMBARK | EMBARK Norman | Oklahoma River Cruises,66341,mdb-2062_routes.geojson,mdb-2062_stops.geojson
+Oklahoma__Metropolitan_Tulsa_Transit_Authority__mdb_tld-235,tld-235,MetroLink Tulsa,60018,tld-235_routes.geojson,tld-235_stops.geojson
+Oklahoma__Oklahoma_State_University_-Stillwater_Community_Transit__mdb_ntd-60160,ntd-60160,Oklahoma State University,60160,ntd-60160_routes.geojson,ntd-60160_stops.geojson
+Oklahoma__OSU-Stillwater_Community_Transit__mdb_tld-7941,tld-7941,Oklahoma State University,60160,tld-7941_routes.geojson,tld-7941_stops.geojson
+Oregon__Astoria_Riverfront_Trolley__mdb_mdb-1254,mdb-1254,Astoria Riverfront Trolley,70057,mdb-1254_routes.geojson,mdb-1254_stops.geojson
+Oregon__Basin_Transit_Service_(BTS)__mdb_mdb-125,mdb-125,Basin Transit Service,00339,mdb-125_routes.geojson,mdb-125_stops.geojson
+Oregon__Benton_Area_Transportation__mdb_mdb-126,mdb-126,Benton Area Transit,00065,mdb-126_routes.geojson,mdb-126_stops.geojson
+Oregon__Benton_Area_Transportation__mdb_mdb-3109,mdb-3109,Benton Area Transit,00065,mdb-3109_routes.geojson,mdb-3109_stops.geojson
+Oregon__Buena_Vista_Ferry__mdb_mdb-834,mdb-834,Buena Vista Ferry,91014,mdb-834_routes.geojson,mdb-834_stops.geojson
+Oregon__Burns_Paiute_Tribal_Transit__mdb_mdb-2621,mdb-2621,Burns Paiute Tribal Transit,00421,mdb-2621_routes.geojson,mdb-2621_stops.geojson
+Oregon__C-TRAN__mdb_mdb-258,mdb-258,C-TRAN,00459,mdb-258_routes.geojson,mdb-258_stops.geojson
+Oregon__Canby_Area_Transit_(CAT)__mdb_mdb-252,mdb-252,Canby Area Transit,00421,mdb-252_routes.geojson,mdb-252_stops.geojson
+Oregon__Canby_Ferry__mdb_mdb-605,mdb-605,Canby Ferry,90225,mdb-605_routes.geojson,mdb-605_stops.geojson
+Oregon__Caravan_Airport_Transportation__mdb_mdb-127,mdb-127,Caravan Airport Transportation,00375,mdb-127_routes.geojson,mdb-127_stops.geojson
+Oregon__Cascades_East_Transit__mdb_tld-170,tld-170,Cascades East Transit (CET),00057,tld-170_routes.geojson,tld-170_stops.geojson
+Oregon__Central_Oregon_Breeze__mdb_mdb-139,mdb-139,Central Oregon Breeze,00326,mdb-139_routes.geojson,mdb-139_stops.geojson
+Oregon__City_of_Corvallis__mdb_mdb-2283,mdb-2283,Corvallis Transit System,00047,mdb-2283_routes.geojson,mdb-2283_stops.geojson
+Oregon__City_of_Milton-Freewater_Public_Transportation__mdb_mdb-2189,mdb-2189,Kayak Public Transit,00119,mdb-2189_routes.geojson,mdb-2189_stops.geojson
+Oregon__ClackCo_Connects_(Clackamas_County)__mdb_mdb-2740,mdb-2740,Clackamas County,00363,mdb-2740_routes.geojson,mdb-2740_stops.geojson
+Oregon__ClackCo_Connects_(Clackamas_County)__mdb_mdb-2741,mdb-2741,Clackamas County,00363,mdb-2741_routes.geojson,mdb-2741_stops.geojson
+Oregon__ClackCo_Connects_(Clackamas_County)__mdb_mdb-312,mdb-312,Clackamas County,00363,mdb-312_routes.geojson,mdb-312_stops.geojson
+Oregon__Columbia_Area_Transit_(CAT)__mdb_mdb-260,mdb-260,Columbia Area Transit,00319,mdb-260_routes.geojson,mdb-260_stops.geojson
+Oregon__Columbia_County_Rider__mdb_mdb-3037,mdb-3037,Columbia County Rider,00375,mdb-3037_routes.geojson,mdb-3037_stops.geojson
+Oregon__Columbia_County_Rider__mdb_tld-4210,tld-4210,Columbia County Rider,00375,tld-4210_routes.geojson,tld-4210_stops.geojson
+Oregon__Coos_County_Area_Transit_(CCAT)__mdb_mdb-21,mdb-21,City of Bandon Trolley | Coos County Area Transportation District,00307,mdb-21_routes.geojson,mdb-21_stops.geojson
+Oregon__Curry_Public_Transit__mdb_mdb-22,mdb-22,Curry Public Transit,00308,mdb-22_routes.geojson,mdb-22_stops.geojson
+Oregon__Diamond_Express__mdb_mdb-130,mdb-130,Diamond Express,00377,mdb-130_routes.geojson,mdb-130_stops.geojson
+Oregon__Harney_County__mdb_mdb-931,mdb-931,Harney Hub Transit,00374,mdb-931_routes.geojson,mdb-931_stops.geojson
+Oregon__Josephine_County_Transit_(JCT)__mdb_mdb-121,mdb-121,Josephine Community Transit,00059,mdb-121_routes.geojson,mdb-121_stops.geojson
+Oregon__Let'er_Bus__mdb_mdb-590,mdb-590,Let'er Bus,00359,mdb-590_routes.geojson,mdb-590_stops.geojson
+Oregon__Lincoln_County_Transit_(LCT)__mdb_mdb-23,mdb-23,Lincoln County Transit,00310,mdb-23_routes.geojson,mdb-23_stops.geojson
+Oregon__Link_Lane__mdb_mdb-932,mdb-932,Link Lane,00464,mdb-932_routes.geojson,mdb-932_stops.geojson
+Oregon__Linn_Shuttle__mdb_mdb-137,mdb-137,Linn Shuttle,00061,mdb-137_routes.geojson,mdb-137_stops.geojson
+"Oregon__LINX_Transit,_Linn-Benton_Loop,_Albany_Transit_System__mdb_mdb-135",mdb-135,LINX Transit | Linn-Benton Loop | Albany Transit System,00061,mdb-135_routes.geojson,mdb-135_stops.geojson
+Oregon__Malheur_Council_on_Aging_&_Community_Services__mdb_mdb-141,mdb-141,Malheur Council on Aging & Community Services,00323,mdb-141_routes.geojson,mdb-141_stops.geojson
+Oregon__Morrow_County_Public_Transit__mdb_mdb-2418,mdb-2418,Morrow County Public Transit,00308,mdb-2418_routes.geojson,mdb-2418_stops.geojson
+Oregon__Oregon_Express_Shuttle__mdb_mdb-132,mdb-132,Groome Transportation,00R02,mdb-132_routes.geojson,mdb-132_stops.geojson
+Oregon__Pacific_Crest_Bus_Lines__mdb_mdb-133,mdb-133,Pacific Crest Bus Lines,00362,mdb-133_routes.geojson,mdb-133_stops.geojson
+Oregon__People_Mover__mdb_mdb-112,mdb-112,People Mover,00313,mdb-112_routes.geojson,mdb-112_stops.geojson
+Oregon__Philomath_Connection__mdb_mdb-2205,mdb-2205,Philomath Connection,00343,mdb-2205_routes.geojson,mdb-2205_stops.geojson
+Oregon__Quail_Trail_Public_Transit__mdb_mdb-1327,mdb-1327,Quail Trail Public Transit,00421,mdb-1327_routes.geojson,mdb-1327_stops.geojson
+Oregon__Rhody_Express__mdb_mdb-24,mdb-24,Rhody Express,00377,mdb-24_routes.geojson,mdb-24_stops.geojson
+Oregon__Ride_Connection__mdb_mdb-253,mdb-253,Ride Connection,00376,mdb-253_routes.geojson,mdb-253_stops.geojson
+Oregon__Rogue_Valley_Transportation_District_(RVTD)__mdb_mdb-3219,mdb-3219,Rogue Valley Transportation District,00034,mdb-3219_routes.geojson,mdb-3219_stops.geojson
+Oregon__Sandy_Area_Metro_(SAM)__mdb_mdb-261,mdb-261,Mt. Hood Express | Sandy Area Metro,00363,mdb-261_routes.geojson,mdb-261_stops.geojson
+Oregon__Sandy_Area_Metro_(SAM)__mdb_mdb-2739,mdb-2739,City of Sandy,00389,mdb-2739_routes.geojson,mdb-2739_stops.geojson
+Oregon__South_Clackamas_Transportation_District__mdb_mdb-883,mdb-883,South Clackamas Transportation District,00301,mdb-883_routes.geojson,mdb-883_stops.geojson
+Oregon__South_Metro_Area_Regional_Transit_(SMART)__mdb_mdb-2706,mdb-2706,SMART,00046,mdb-2706_routes.geojson,mdb-2706_stops.geojson
+"Oregon__Sunset_Empire_Transportation_District_(SETD),_Tillamook_County_Transportation_District,_Columbia_County_Rider__mdb_mdb-246",mdb-246,Tillamook County Transportation District,00331,mdb-246_routes.geojson,mdb-246_stops.geojson
+Oregon__Sunset_Empire_Transportation_District__mdb_tld-4211,tld-4211,Sunset Empire Transportation District,00331,tld-4211_routes.geojson,tld-4211_stops.geojson
+Oregon__Swan_Island_Evening_Shuttle__mdb_mdb-255,mdb-255,Multnomah County Transit,00421,mdb-255_routes.geojson,mdb-255_stops.geojson
+"Oregon__TriMet,_Portland_Streetcar__mdb_mdb-247",mdb-247,Portland Streetcar | Portland Aerial Tram | TriMet,00058,mdb-247_routes.geojson,mdb-247_stops.geojson
+Oregon__Wahkiakum_Ferry__mdb_mdb-2193,mdb-2193,Wahkiakum Ferry,90225,mdb-2193_routes.geojson,mdb-2193_stops.geojson
+"Oregon__Wallowa_Community_Connection_(WCC),_Northeast_Oregon_Public_Transit__mdb_mdb-289",mdb-289,Northeast Oregon Public Transit,00R02,mdb-289_routes.geojson,mdb-289_stops.geojson
+Oregon__Washington_Park_Shuttle__mdb_mdb-254,mdb-254,Washington Park,60168,mdb-254_routes.geojson,mdb-254_stops.geojson
+Oregon__Wheatland_Ferry__mdb_mdb-833,mdb-833,Wheatland Ferry,90225,mdb-833_routes.geojson,mdb-833_stops.geojson
+Oregon__Woodburn_Transit_Service_(WTS)__mdb_mdb-251,mdb-251,Woodburn Transit,00360,mdb-251_routes.geojson,mdb-251_stops.geojson
+Oregon__Yamhill_County_Transit_Area__mdb_mdb-250,mdb-250,Yamhill County Transit Area,00321,mdb-250_routes.geojson,mdb-250_stops.geojson
+Pennsylvania__Altoona_Metro_Transit__mdb_tld-4669,tld-4669,Amtran,30011,tld-4669_routes.geojson,tld-4669_stops.geojson
+Pennsylvania__Area_Transit_Authority__mdb_tld-4551,tld-4551,Area Transportation Authority,31041,tld-4551_routes.geojson,tld-4551_stops.geojson
+Pennsylvania__Beaver_County_Transit_Authority__mdb_mdb-2262,mdb-2262,BCTA,30023,mdb-2262_routes.geojson,mdb-2262_stops.geojson
+Pennsylvania__Berks_Area_Regional_Transportation_Authority_(BARTA)__mdb_mdb-2064,mdb-2064,BARTA,31039,mdb-2064_routes.geojson,mdb-2064_stops.geojson
+Pennsylvania__Borough_of_Mt._Carmel__mdb_ntd-30116,ntd-30116,Lower Anthracite Transit Systems,30116,ntd-30116_routes.geojson,ntd-30116_stops.geojson
+Pennsylvania__Butler_Transit_Authority__mdb_tld-4659,tld-4659,Butler Transit Authority,31041,tld-4659_routes.geojson,tld-4659_stops.geojson
+Pennsylvania__Cambria_County_Transit_Authority__mdb_tld-4671,tld-4671,CamTran,30012,tld-4671_routes.geojson,tld-4671_stops.geojson
+Pennsylvania__Capital_Area_Transit__mdb_tld-4298,tld-4298,Capital Area Transit,30014,tld-4298_routes.geojson,tld-4298_stops.geojson
+Pennsylvania__Centre_Area_Transportation_Authority_(CATABUS)__mdb_ntd-30054,ntd-30054,CATA,30054,ntd-30054_routes.geojson,ntd-30054_stops.geojson
+Pennsylvania__Centre_County_Transit_Authority__mdb_tld-4771,tld-4771,CATA,31042,tld-4771_routes.geojson,tld-4771_stops.geojson
+Pennsylvania__County_of_Lackawanna_Transit_System__mdb_tld-4553,tld-4553,COLTS,30025,tld-4553_routes.geojson,tld-4553_stops.geojson
+Pennsylvania__Crawford_Area_Transportation_Authority__mdb_tld-4674,tld-4674,Meadville,30185,tld-4674_routes.geojson,tld-4674_stops.geojson
+Pennsylvania__Fayette_Area_Coordinated_Transportation__mdb_tld-7027,tld-7027,Fayette Area Coordinated Transportation,30087,tld-7027_routes.geojson,tld-7027_stops.geojson
+Pennsylvania__Freedom_Transit__mdb_tld-4134,tld-4134,Freedom Transit,30111,tld-4134_routes.geojson,tld-4134_stops.geojson
+Pennsylvania__Hazleton_Public_Transit__mdb_tld-4665,tld-4665,Hazleton Public Transit,30093,tld-4665_routes.geojson,tld-4665_stops.geojson
+Pennsylvania__Indiana_County_Transit_Authority__mdb_tld-4661,tld-4661,Indiana County Transit Authority,30177,tld-4661_routes.geojson,tld-4661_stops.geojson
+Pennsylvania__Lebanon_Transit__mdb_tld-5531,tld-5531,Lebanon,30095,tld-5531_routes.geojson,tld-5531_stops.geojson
+Pennsylvania__Lehigh_and_Northampton_Transportation_Authority_(LANTA)__mdb_ntd-30010,ntd-30010,LANTA,30010,ntd-30010_routes.geojson,ntd-30010_stops.geojson
+Pennsylvania__Lower_Anthracite_Transit_System__mdb_tld-7023,tld-7023,Lower Anthracite Transit Systems,31044,tld-7023_routes.geojson,tld-7023_stops.geojson
+Pennsylvania__Luzerne_County_Transportation_Authority__mdb_tld-4555,tld-4555,Luzerne County Transportation Authority,30015,tld-4555_routes.geojson,tld-4555_stops.geojson
+Pennsylvania__Mid_Mon_Valley_Transit_Authority__mdb_tld-5503,tld-5503,Mid Mon Valley Transit,30061,tld-5503_routes.geojson,tld-5503_stops.geojson
+Pennsylvania__Monroe_County_Transportation_Authority_(MCTA)__mdb_mdb-3460,mdb-3460,Monroe County Transit Authority,30137,mdb-3460_routes.geojson,mdb-3460_stops.geojson
+Pennsylvania__New_Castle_Area_Transit_Authority__mdb_tld-7030,tld-7030,New Castle Area Transit Authority,30151,tld-7030_routes.geojson,tld-7030_stops.geojson
+Pennsylvania__PATCO_Speedline__mdb_mdb-3035,mdb-3035,Port Authority Transit Corporation,31041,mdb-3035_routes.geojson,mdb-3035_stops.geojson
+Pennsylvania__PHLASH__mdb_mdb-2877,mdb-2877,SEPTA | PHLASH,30019,mdb-2877_routes.geojson,mdb-2877_stops.geojson
+Pennsylvania__Port_Authority_of_Allegheny_County__mdb_mdb-409,mdb-409,Pittsburgh Regional Transit,30022,mdb-409_routes.geojson,mdb-409_stops.geojson
+Pennsylvania__Pottstown_Area_Rapid_Transit__mdb_tld-7025,tld-7025,Pottstown Area Rapid Transit,30077,tld-7025_routes.geojson,tld-7025_stops.geojson
+Pennsylvania__Red_Rose_Transit_Authority_(RRTA)__mdb_mdb-2000,mdb-2000,Red Rose Transit Authority,31041,mdb-2000_routes.geojson,mdb-2000_stops.geojson
+Pennsylvania__River_Valley_Transit__mdb_tld-4548,tld-4548,River Valley Transit,30207,tld-4548_routes.geojson,tld-4548_stops.geojson
+Pennsylvania__Schuylkill_Transportation_System__mdb_tld-4688,tld-4688,Schuylkill Transportation System,30127,tld-4688_routes.geojson,tld-4688_stops.geojson
+Pennsylvania__Shenango_Valley_Shuttle_Service__mdb_tld-4663,tld-4663,Shenango Valley Shuttle Service,30055,tld-4663_routes.geojson,tld-4663_stops.geojson
+Pennsylvania__Trans-Bridge_Lines__mdb_ntd-20169,ntd-20169,Trans-Bridge Lines,20169,ntd-20169_routes.geojson,ntd-20169_stops.geojson
+Pennsylvania__Transit_Authority_of_Warren_County__mdb_ntd-30124,ntd-30124,Transit Authority of Warren County,30124,ntd-30124_routes.geojson,ntd-30124_stops.geojson
+Pennsylvania__Transportation_Management_Association_of_Chester_County_(TMACC)__mdb_mdb-3130,mdb-3130,TMACC,31043,mdb-3130_routes.geojson,mdb-3130_stops.geojson
+Pennsylvania__Upper_Merion_Rambler__mdb_mdb-3036,mdb-3036,Greater Valley Forge TMA,30207,mdb-3036_routes.geojson,mdb-3036_stops.geojson
+Pennsylvania__Westmoreland_County_Transit_Authority__mdb_tld-6785,tld-6785,Westmoreland Transit,30044,tld-6785_routes.geojson,tld-6785_stops.geojson
+Puerto_Rico__Municipality_of_Bayamon__mdb_ntd-40137,ntd-40137,Municipio de Bayamon,40137,ntd-40137_routes.geojson,ntd-40137_stops.geojson
+South_Carolina__Charleston_Area_Regional_Transportation_Authority_(CARTA)__mdb_mdb-352,mdb-352,Charleston Area Regional Transportation Authority,40110,mdb-352_routes.geojson,mdb-352_stops.geojson
+South_Carolina__Fort_Sumter_and_Fort_Moultrie_National_Historical_Park__mdb_tld-6906,tld-6906,National Park Service,44907,tld-6906_routes.geojson,tld-6906_stops.geojson
+South_Carolina__Greenlink__mdb_tld-490,tld-490,Greenlink,40053,tld-490_routes.geojson,tld-490_stops.geojson
+South_Carolina__My_Ride_Rock_Hill__mdb_tld-6741,tld-6741,City of Rock Hill,40270,tld-6741_routes.geojson,tld-6741_stops.geojson
+South_Carolina__The_Comet__mdb_mdb-2209,mdb-2209,The COMET,40141,mdb-2209_routes.geojson,mdb-2209_stops.geojson
+South_Carolina__TriCounty_Link__mdb_ntd-40206,ntd-40206,TriCounty Link,40206,ntd-40206_routes.geojson,ntd-40206_stops.geojson
+Tennessee__Bristol_Virginia_Transit__mdb_mdb-238,mdb-238,Bristol Virginia Transit,40954,mdb-238_routes.geojson,mdb-238_stops.geojson
+Tennessee__Chattanooga_Area_Regional_Transportation_Authority_(CARTA)__mdb_mdb-3474,mdb-3474,CARTA,40001,mdb-3474_routes.geojson,mdb-3474_stops.geojson
+Tennessee__City_of_Bristol_Tennessee__mdb_ntd-40055,ntd-40055,Bristol Tennessee Transit,40055,ntd-40055_routes.geojson,ntd-40055_stops.geojson
+Tennessee__City_of_Gatlinburg_Trolley__mdb_tld-6775,tld-6775,City of Gatlinburg,41102,tld-6775_routes.geojson,tld-6775_stops.geojson
+Tennessee__City_of_Kingsport__mdb_ntd-40080,ntd-40080,Kingsport Area Transit Service,40080,ntd-40080_routes.geojson,ntd-40080_stops.geojson
+Tennessee__City_of_Pigeon_Forge__mdb_ntd-41136,ntd-41136,Pigeon Forge Mass Transit,41136,ntd-41136_routes.geojson,ntd-41136_stops.geojson
+Tennessee__Cleveland_Urban_Area_Transit_System__mdb_tld-7827,tld-7827,Cleveland Urban Area Transit System (CUATS),40170,tld-7827_routes.geojson,tld-7827_stops.geojson
+Tennessee__Franklin_Transit_Authority__mdb_mdb-361,mdb-361,Franklin Transit,40162,mdb-361_routes.geojson,mdb-361_stops.geojson
+Tennessee__Jackson_Transit_Authority__mdb_mdb-2313,mdb-2313,Jackson Transit Authority,40057,mdb-2313_routes.geojson,mdb-2313_stops.geojson
+Tennessee__Johnson_City__mdb_ntd-40054,ntd-40054,JCT,40054,ntd-40054_routes.geojson,ntd-40054_stops.geojson
+Tennessee__Knoxville_Area_Transit_(KAT)__mdb_mdb-1121,mdb-1121,KAT KNOXVILLE,40002,mdb-1121_routes.geojson,mdb-1121_stops.geojson
+Tennessee__Nashville_MTA_WeGo_Public_Transit__mdb_mdb-360,mdb-360,WeGo Public Transit,40159,mdb-360_routes.geojson,mdb-360_stops.geojson
+Texas__Brownsville_Metro__mdb_tld-7927,tld-7927,Brownsville Metro,60014,tld-7927_routes.geojson,tld-7927_stops.geojson
+Texas__Capital_Metro__mdb_mdb-150,mdb-150,Capital Metro,60048,mdb-150_routes.geojson,mdb-150_stops.geojson
+Texas__Citibus__mdb_mdb-569,mdb-569,Citibus,60010,mdb-569_routes.geojson,mdb-569_stops.geojson
+Texas__City_of_Longview__mdb_ntd-60081,ntd-60081,Longview Transit,60081,ntd-60081_routes.geojson,ntd-60081_stops.geojson
+Texas__Dallas_Area_Rapid_Transit_(DART)__mdb_mdb-152,mdb-152,DALLAS AREA RAPID TRANSIT,60056,mdb-152_routes.geojson,mdb-152_stops.geojson
+Texas__El_Metro_Transit__mdb_tld-7038,tld-7038,"Laredo Transit Management Inc.,-El Metro",60048,tld-7038_routes.geojson,tld-7038_stops.geojson
+Texas__El_Paso_Transportation_Authority__mdb_mdb-3419,mdb-3419,El Paso Transportation Authority,60179,mdb-3419_routes.geojson,mdb-3419_stops.geojson
+Texas__EZ_Rider__mdb_mdb-2634,mdb-2634,EZ Rider,60097,mdb-2634_routes.geojson,mdb-2634_stops.geojson
+"Texas__Fort_Bend_County,_Texas__mdb_ntd-60103",ntd-60103,Fort Bend Transit,60103,ntd-60103_routes.geojson,ntd-60103_stops.geojson
+Texas__Galveston_Island_Transit__mdb_mdb-2861,mdb-2861,Island Transit,60015,mdb-2861_routes.geojson,mdb-2861_stops.geojson
+Texas__McKinney_Avenue_Transit_Authority__mdb_ntd-60133,ntd-60133,McKinney Avenue Transit Authority (M-Line),60133,ntd-60133_routes.geojson,ntd-60133_stops.geojson
+Texas__METRO_Houston__mdb_mdb-2060,mdb-2060,Metropolitan Transit Authority of Harris County,60108,mdb-2060_routes.geojson,mdb-2060_stops.geojson
+Texas__Metro_McAllen__mdb_ntd-60099,ntd-60099,Metro McAllen,60099,ntd-60099_routes.geojson,ntd-60099_stops.geojson
+Texas__Midland-Odessa_Urban_Transit_District__mdb_ntd-60097,ntd-60097,EZ Rider,60097,ntd-60097_routes.geojson,ntd-60097_stops.geojson
+Texas__STAR_Transit__mdb_mdb-153,mdb-153,STAR Transit,60114,mdb-153_routes.geojson,mdb-153_stops.geojson
+Texas__Texarkana_Urban_Transit_District_(T-Line_Bus)__mdb_ntd-60093,ntd-60093,T-Line,60093,ntd-60093_routes.geojson,ntd-60093_stops.geojson
+Texas__VIA_Metropolitan_Transit__mdb_tld-217,tld-217,VIA Metropolitan Transit,60011,tld-217_routes.geojson,tld-217_stops.geojson
+Utah__Bryce_Canyon_National_Park_Shuttle__mdb_tld-6675,tld-6675,National Park Service,88233,tld-6675_routes.geojson,tld-6675_stops.geojson
+Utah__Cache_Valley_Transit_District__mdb_ntd-80028,ntd-80028,CVTD Cache Valley Transit District,80028,ntd-80028_routes.geojson,ntd-80028_stops.geojson
+Utah__High_Valley_Transit__mdb_tld-7037,tld-7037,High Valley Transit,88239,tld-7037_routes.geojson,tld-7037_stops.geojson
+Utah__SunTran_Utah__mdb_mdb-111,mdb-111,SunTran Utah,80026,mdb-111_routes.geojson,mdb-111_stops.geojson
+Utah__Utah_Transit_Authority_(UTA)__mdb_mdb-170,mdb-170,Utah Transit Authority,80001,mdb-170_routes.geojson,mdb-170_stops.geojson
+Utah__Ute_Tribe_Public_Transit__mdb_ntd-88200,ntd-88200,Ute Tribe Public Transit,88200,ntd-88200_routes.geojson,ntd-88200_stops.geojson
+Utah__Zion_National_Park__mdb_tld-6682,tld-6682,National Park Service,88233,tld-6682_routes.geojson,tld-6682_stops.geojson
+Vermont__Amtrak_Vermonter__mdb_mdb-2297,mdb-2297,Megabus | Amtrak Ethan Allen | Amtrak Vermonter,55463,mdb-2297_routes.geojson,mdb-2297_stops.geojson
+Vermont__Chittenden_County_Transportation_Authority_(CCTA)__mdb_mdb-629,mdb-629,Special Services Transportation Agency | Green Mountain Transit,10066,mdb-629_routes.geojson,mdb-629_stops.geojson
+Vermont__Marble_Valley_Regional_Transit_District_(MVRTD)__mdb_mdb-2831,mdb-2831,The Bus (Marble Valley Regional Transit District),10154,mdb-2831_routes.geojson,mdb-2831_stops.geojson
+Vermont__Marble_Valley_Regional_Transit_District_(MVRTD)__mdb_mdb-430,mdb-430,The Bus (Marble Valley Regional Transit District),10154,mdb-430_routes.geojson,mdb-430_stops.geojson
+Vermont__Rockingham_MOOver__mdb_mdb-2194,mdb-2194,Rockingham MOOver | Wilmington MOOver,40929,mdb-2194_routes.geojson,mdb-2194_stops.geojson
+Vermont__Rural_Community_Transportation_(RCT)__mdb_mdb-2882,mdb-2882,Rural Community Transportation,10148,mdb-2882_routes.geojson,mdb-2882_stops.geojson
+Vermont__Vermont_Translines__mdb_mdb-450,mdb-450,Vermont Translines,11158,mdb-450_routes.geojson,mdb-450_stops.geojson
+Vermont__VTrans__mdb_mdb-2884,mdb-2884,Rockingham MOOver | Wilmington MOOver,10143,mdb-2884_routes.geojson,mdb-2884_stops.geojson
+Virginia__Alexandria_Transit_Company_(DASH)__mdb_mdb-482,mdb-482,DASH,30071,mdb-482_routes.geojson,mdb-482_stops.geojson
+Virginia__Altavista_Community_Transit_System__mdb_mdb-882,mdb-882,Altavista Community Transit System,30157,mdb-882_routes.geojson,mdb-882_stops.geojson
+Virginia__Arlington_Transit__mdb_mdb-485,mdb-485,Arlington Transit ART,30080,mdb-485_routes.geojson,mdb-485_stops.geojson
+Virginia__Bay_Transit__mdb_mdb-224,mdb-224,Bay Transit,30172,mdb-224_routes.geojson,mdb-224_stops.geojson
+Virginia__Bay_Transit__mdb_mdb-2439,mdb-2439,Bay Transit,30172,mdb-2439_routes.geojson,mdb-2439_stops.geojson
+Virginia__Blackstone_Area_Bus_Service__mdb_mdb-235,mdb-235,Blackstone Area Bus Service,30184,mdb-235_routes.geojson,mdb-235_stops.geojson
+Virginia__Charlottesville_Area_Transit_(CAT)__mdb_mdb-3493,mdb-3493,Charlottesville Area Transit,30036,mdb-3493_routes.geojson,mdb-3493_stops.geojson
+Virginia__Danville_Transit__mdb_mdb-2440,mdb-2440,Danville Transit,30069,mdb-2440_routes.geojson,mdb-2440_stops.geojson
+Virginia__Danville_Transit__mdb_tld-4145,tld-4145,Danville Transit,30069,tld-4145_routes.geojson,tld-4145_stops.geojson
+Virginia__Fairfax_CUE_Bus_(CUE)__mdb_mdb-2885,mdb-2885,CUE Bus - City of Fairfax,30058,mdb-2885_routes.geojson,mdb-2885_stops.geojson
+Virginia__Farmville_Area_Bus__mdb_mdb-461,mdb-461,Farmville Area Bus,30165,mdb-461_routes.geojson,mdb-461_stops.geojson
+Virginia__Four_County_Transit__mdb_mdb-2308,mdb-2308,Four County Transit,30174,mdb-2308_routes.geojson,mdb-2308_stops.geojson
+Virginia__Four_County_Transit__mdb_mdb-2448,mdb-2448,Four County Transit,30174,mdb-2448_routes.geojson,mdb-2448_stops.geojson
+Virginia__Graham_Transit__mdb_mdb-611,mdb-611,Graham Transit,30164,mdb-611_routes.geojson,mdb-611_stops.geojson
+Virginia__Greater_Lynchburg_Transit_Co__mdb_mdb-381,mdb-381,Greater Lynchburg Transit Co.,30008,mdb-381_routes.geojson,mdb-381_stops.geojson
+Virginia__Greensville_Emporia_Transit__mdb_mdb-463,mdb-463,Greensville Emporia Transit,31025,mdb-463_routes.geojson,mdb-463_stops.geojson
+Virginia__Hampton_Roads_Transit_(HRT)__mdb_mdb-473,mdb-473,Hampton Roads Transit (HRT),30083,mdb-473_routes.geojson,mdb-473_stops.geojson
+Virginia__Jaunt__mdb_mdb-3492,mdb-3492,Jaunt,30045,mdb-3492_routes.geojson,mdb-3492_stops.geojson
+Virginia__Loudoun_County_Transit__mdb_mdb-1053,mdb-1053,LCT,30081,mdb-1053_routes.geojson,mdb-1053_stops.geojson
+Virginia__Mountain_Lynx_Transit__mdb_mdb-334,mdb-334,Mountain Lynx Transit,30123,mdb-334_routes.geojson,mdb-334_stops.geojson
+Virginia__Petersburg_Area_Transit__mdb_mdb-2441,mdb-2441,Petersburg Area Transit,30009,mdb-2441_routes.geojson,mdb-2441_stops.geojson
+Virginia__Petersburg_Area_Transit__mdb_mdb-591,mdb-591,Petersburg Area Transit,30009,mdb-591_routes.geojson,mdb-591_stops.geojson
+Virginia__Pony_Express__mdb_mdb-828,mdb-828,Pony Express,30073,mdb-828_routes.geojson,mdb-828_stops.geojson
+Virginia__Potomac_and_Rappahannock_Transportation_Commission_(PRTC)_Omniride__mdb_mdb-1156,mdb-1156,OMNIRIDE,30070,mdb-1156_routes.geojson,mdb-1156_stops.geojson
+Virginia__Pulaski_Area_Transit_(PAT)__mdb_mdb-2198,mdb-2198,Pulaski Area Transit,30115,mdb-2198_routes.geojson,mdb-2198_stops.geojson
+Virginia__RADAR__mdb_mdb-2443,mdb-2443,RADAR,30178,mdb-2443_routes.geojson,mdb-2443_stops.geojson
+Virginia__RADAR__mdb_mdb-832,mdb-832,RADAR,30178,mdb-832_routes.geojson,mdb-832_stops.geojson
+Virginia__Radford_Transit__mdb_mdb-2415,mdb-2415,Radford Transit,30200,mdb-2415_routes.geojson,mdb-2415_stops.geojson
+Virginia__STAR_Transit__mdb_mdb-2444,mdb-2444,STAR Transit,30114,mdb-2444_routes.geojson,mdb-2444_stops.geojson
+Virginia__STAR_Transit__mdb_mdb-819,mdb-819,STAR Transit,30114,mdb-819_routes.geojson,mdb-819_stops.geojson
+Virginia__Valley_Metro__mdb_mdb-2274,mdb-2274,Valley Metro Roanoke,30007,mdb-2274_routes.geojson,mdb-2274_stops.geojson
+Virginia__Virginia_Regional_Transit__mdb_mdb-2445,mdb-2445,Virginia Regional Transit,30118,mdb-2445_routes.geojson,mdb-2445_stops.geojson
+Virginia__Virginia_Regional_Transit__mdb_mdb-621,mdb-621,Virginia Regional Transit,30118,mdb-621_routes.geojson,mdb-621_stops.geojson
+Virginia__Williamsburg_Area_Transit_Authority__mdb_mdb-2649,mdb-2649,Williamsburg Area Transit Authority,30076,mdb-2649_routes.geojson,mdb-2649_stops.geojson
+Virginia__WinTran__mdb_mdb-608,mdb-608,WinTran,30099,mdb-608_routes.geojson,mdb-608_stops.geojson
+Washington__Ben_Franklin_Transit__mdb_mdb-2122,mdb-2122,BFT,00018,mdb-2122_routes.geojson,mdb-2122_stops.geojson
+Washington__City_of_Ellensburg_Public_Transit_(Central_Transit)__mdb_mdb-2456,mdb-2456,Ellensburg Central Transit,00405,mdb-2456_routes.geojson,mdb-2456_stops.geojson
+Washington__City_of_Pullman__mdb_ntd-294,ntd-294,Pullman Transit,00294,ntd-294_routes.geojson,ntd-294_stops.geojson
+Washington__Clallam_Transit_System__mdb_mdb-279,mdb-279,Clallam Transit System,00303,mdb-279_routes.geojson,mdb-279_stops.geojson
+Washington__Colville_Confederated_Tribes_Transit__mdb_mdb-2302,mdb-2302,Colville Confederated Tribes Transit,00004,mdb-2302_routes.geojson,mdb-2302_stops.geojson
+Washington__Community_Transit_(CT)__mdb_mdb-287,mdb-287,Community Transit | Sound Transit,00029,mdb-287_routes.geojson,mdb-287_stops.geojson
+Washington__Elwha_Transit__mdb_mdb-2307,mdb-2307,Elwha Transit,00405,mdb-2307_routes.geojson,mdb-2307_stops.geojson
+Washington__Everett_Transit__mdb_mdb-3038,mdb-3038,Everett Transit,00005,mdb-3038_routes.geojson,mdb-3038_stops.geojson
+Washington__Grant_Transit_Authority__mdb_mdb-2309,mdb-2309,Grant Transit Authority,00309,mdb-2309_routes.geojson,mdb-2309_stops.geojson
+Washington__Grays_Harbor_Transit__mdb_mdb-263,mdb-263,Grays Harbor Transit,00314,mdb-263_routes.geojson,mdb-263_stops.geojson
+Washington__Guemes_Island_Ferry__mdb_mdb-2310,mdb-2310,Guemes Island Ferry,00103,mdb-2310_routes.geojson,mdb-2310_stops.geojson
+Washington__Intercity_Transit__mdb_mdb-266,mdb-266,Intercity Transit,00019,mdb-266_routes.geojson,mdb-266_stops.geojson
+Washington__Island_Transit__mdb_mdb-280,mdb-280,Island Transit,00298,mdb-280_routes.geojson,mdb-280_stops.geojson
+Washington__Jefferson_Transit_Authority__mdb_mdb-838,mdb-838,Jefferson Transit Authority,00316,mdb-838_routes.geojson,mdb-838_stops.geojson
+Washington__King_County_Metro__mdb_mdb-1330,mdb-1330,Metro Transit | City of Seattle | Sound Transit | Solid Ground EZ Loop,00023,mdb-1330_routes.geojson,mdb-1330_stops.geojson
+Washington__Lady_of_the_Lake__mdb_mdb-2318,mdb-2318,Lady of the Lake,00R03,mdb-2318_routes.geojson,mdb-2318_stops.geojson
+Washington__Lummi_Transit__mdb_mdb-2320,mdb-2320,Lummi Transit,00095,mdb-2320_routes.geojson,mdb-2320_stops.geojson
+Washington__Makah_Public_Transit__mdb_mdb-2196,mdb-2196,Makah Public Transit,00405,mdb-2196_routes.geojson,mdb-2196_stops.geojson
+Washington__Mason_Transit_Authority__mdb_mdb-264,mdb-264,Mason Transit Authority,00315,mdb-264_routes.geojson,mdb-264_stops.geojson
+"Washington__Metro_Transit,_Intercity_Transit,_City_of_Seattle,_Community_Transit,_Pierce_Transit,_Sound_Transit,_Washington_State_Fe__mdb_mdb-1080",mdb-1080,Metro Transit | Intercity Transit | Kitsap Transit | City of Seattle | Community Transit | Pierce Transit | Sound Transit | Amtrak | Solid Ground EZ Loop | Washington State Ferries | Seattle Center Monorail | Everett Transit,00035,mdb-1080_routes.geojson,mdb-1080_stops.geojson
+Washington__Mount_Adams_Transportation_Service__mdb_mdb-580,mdb-580,Mount Adams Transportation Service,00299,mdb-580_routes.geojson,mdb-580_stops.geojson
+Washington__Muckleshoot_Tribal_Transit__mdb_mdb-2326,mdb-2326,Muckleshoot Tribal Transit,00333,mdb-2326_routes.geojson,mdb-2326_stops.geojson
+Washington__Pacific_Transit__mdb_mdb-3112,mdb-3112,Pacific Transit,00322,mdb-3112_routes.geojson,mdb-3112_stops.geojson
+Washington__Pahto_Public_Passage__mdb_mdb-2331,mdb-2331,Pahto Public Passage,00111,mdb-2331_routes.geojson,mdb-2331_stops.geojson
+Washington__People_for_People_(Community_Connector)__mdb_mdb-271,mdb-271,People for People,00297,mdb-271_routes.geojson,mdb-271_stops.geojson
+Washington__Pierce_County_Ferries__mdb_tld-2289,tld-2289,Pierce County Ferries,00371,tld-2289_routes.geojson,tld-2289_stops.geojson
+Washington__Pierce_Transit__mdb_mdb-265,mdb-265,Pierce Transit | Sound Transit,00003,mdb-265_routes.geojson,mdb-265_stops.geojson
+Washington__RiverCities_Transit_(RCT)__mdb_mdb-259,mdb-259,RiverCities Transit,00016,mdb-259_routes.geojson,mdb-259_stops.geojson
+Washington__Rural_Resources_Community_Action__mdb_tld-5751,tld-5751,Rural Resources Community Action,00286,tld-5751_routes.geojson,tld-5751_stops.geojson
+Washington__ruralTRANSIT__mdb_mdb-822,mdb-822,ruralTRANSIT,00285,mdb-822_routes.geojson,mdb-822_stops.geojson
+Washington__Seattle_Center_Monorail__mdb_tld-2290,tld-2290,Seattle Center Monorail,00023,tld-2290_routes.geojson,tld-2290_stops.geojson
+Washington__Skagit_Transit__mdb_tld-5895,tld-5895,Skagit Transit,00044,tld-5895_routes.geojson,tld-5895_stops.geojson
+Washington__Skamania_County_Transit__mdb_mdb-262,mdb-262,Skamania County Transit,00371,mdb-262_routes.geojson,mdb-262_stops.geojson
+Washington__Snoqualmie_Valley_Transportation__mdb_mdb-816,mdb-816,Snoqualmie Valley Transportation,00317,mdb-816_routes.geojson,mdb-816_stops.geojson
+Washington__Snow_Goose_Transit__mdb_tld-5754,tld-5754,Snow Goose Transit,00405,tld-5754_routes.geojson,tld-5754_stops.geojson
+Washington__Solid_Ground__mdb_tld-5755,tld-5755,Solid Ground,88265,tld-5755_routes.geojson,tld-5755_stops.geojson
+"Washington__Sound_Transit,_Metro_Transit,_City_of_Seattle_-_King_County_Metro__mdb_mdb-267",mdb-267,Metro Transit | City of Seattle | Sound Transit | Solid Ground EZ Loop,00023,mdb-267_routes.geojson,mdb-267_stops.geojson
+Washington__Sound_Transit__mdb_mdb-268,mdb-268,Sound Transit,00040,mdb-268_routes.geojson,mdb-268_stops.geojson
+Washington__Special_Mobility_Services__mdb_tld-5756,tld-5756,Special Mobility Services,00366,tld-5756_routes.geojson,tld-5756_stops.geojson
+Washington__Spokane_Transit_Authority_(STA)__mdb_mdb-290,mdb-290,Spokane Transit Authority,00002,mdb-290_routes.geojson,mdb-290_stops.geojson
+Washington__Squaxin_Island_Transit__mdb_mdb-2197,mdb-2197,Squaxin Island Transit,00298,mdb-2197_routes.geojson,mdb-2197_stops.geojson
+Washington__The_Moccasin_Express__mdb_mdb-2325,mdb-2325,The Moccasin Express,00207,mdb-2325_routes.geojson,mdb-2325_stops.geojson
+Washington__Twin_Transit__mdb_tld-5579,tld-5579,Lewis County Transit,00364,tld-5579_routes.geojson,tld-5579_stops.geojson
+Washington__Union_Gap__mdb_mdb-277,mdb-277,Union Gap Transit,00405,mdb-277_routes.geojson,mdb-277_stops.geojson
+Washington__Valley_Transit__mdb_tld-820,tld-820,Valley Transit,00064,tld-820_routes.geojson,tld-820_stops.geojson
+Washington__Wahkiakum_on_the_Move__mdb_mdb-249,mdb-249,Wahkiakum on the Move,00371,mdb-249_routes.geojson,mdb-249_stops.geojson
+Washington__Washington_State_Department_of_Transportation_(WSDOT_Apple_Line)__mdb_mdb-245,mdb-245,Apple Line | Gold Line | Grape Line | Dungeness Line | Wheat Line,00R03,mdb-245_routes.geojson,mdb-245_stops.geojson
+Washington__Washington_State_Ferries__mdb_mdb-1331,mdb-1331,Washington State Ferries,00035,mdb-1331_routes.geojson,mdb-1331_stops.geojson
+Washington__Washington_State_Ferries__mdb_mdb-283,mdb-283,Washington State Ferries,00035,mdb-283_routes.geojson,mdb-283_stops.geojson
+Washington__Whatcom_Transportation_Authority__mdb_mdb-284,mdb-284,Whatcom Transportation Authority,00021,mdb-284_routes.geojson,mdb-284_stops.geojson
+Washington__Yakima_Transit__mdb_mdb-276,mdb-276,Yakima Transit,00006,mdb-276_routes.geojson,mdb-276_stops.geojson
+West_Virginia__Country_Roads_Transit__mdb_ntd-30122,ntd-30122,Country Roads Transit,30122,ntd-30122_routes.geojson,ntd-30122_stops.geojson
+West_Virginia__Eastern_Panhandle_Transit_Authority__mdb_tld-4459,tld-4459,Eastern Panhandle Transit Authority,30090,tld-4459_routes.geojson,tld-4459_stops.geojson
+West_Virginia__Harpers_Ferry_National_Historical_Park__mdb_tld-6678,tld-6678,National Park Service,31015,tld-6678_routes.geojson,tld-6678_stops.geojson
+West_Virginia__Kanawha_Valley_Regional_Transportation_Authority__mdb_tld-5769,tld-5769,Kanawha Valley Regional Transportation Authority,30001,tld-5769_routes.geojson,tld-5769_stops.geojson
+West_Virginia__Mountain_Line_Transit_Authority__mdb_mdb-407,mdb-407,Mountain Line Transit Authority,30140,mdb-407_routes.geojson,mdb-407_stops.geojson
+West_Virginia__New_River_Transit_Authority__mdb_tld-6713,tld-6713,City of Beckley (New River Transit),30199,tld-6713_routes.geojson,tld-6713_stops.geojson
+Wisconsin__Beloit_Transit_System__mdb_tld-77,tld-77,Beloit Transit,50109,tld-77_routes.geojson,tld-77_stops.geojson
+Wisconsin__Central_Transportation__mdb_tld-4757,tld-4757,Central Transportation,55416,tld-4757_routes.geojson,tld-4757_stops.geojson
+Wisconsin__Fond_du_Lac_Area_Transit__mdb_tld-7929,tld-7929,Fond du Lac,55379,tld-7929_routes.geojson,tld-7929_stops.geojson
+Wisconsin__GO_Transit__mdb_mdb-397,mdb-397,GO Transit (City of Oshkosh),50009,mdb-397_routes.geojson,mdb-397_stops.geojson
+Wisconsin__Janesville_Transit_System__mdb_mdb-393,mdb-393,Janesville Transit System,50108,mdb-393_routes.geojson,mdb-393_stops.geojson
+Wisconsin__Metro_Ride__mdb_mdb-830,mdb-830,Metro Ride,50091,mdb-830_routes.geojson,mdb-830_stops.geojson
+Wisconsin__Metro_Transit_-_City_of_Madison__mdb_mdb-394,mdb-394,Metro Transit-City of Madison,50005,mdb-394_routes.geojson,mdb-394_stops.geojson
+Wisconsin__Ryde_Racine__mdb_mdb-2246,mdb-2246,Ryde Racine,50006,mdb-2246_routes.geojson,mdb-2246_stops.geojson
+Wisconsin__Shoreline_Metro__mdb_mdb-399,mdb-399,Shoreline Metro,50088,mdb-399_routes.geojson,mdb-399_stops.geojson
+Wisconsin__Valley_Transit_(WI)__mdb_mdb-2069,mdb-2069,Valley Transit,55366,mdb-2069_routes.geojson,mdb-2069_stops.geojson
+Wyoming__Southern_Teton_Area_Rapid_Transit_(START_Bus)__mdb_ntd-80188,ntd-80188,START Bus,80188,ntd-80188_routes.geojson,ntd-80188_stops.geojson
+Wyoming__Wind_River_Transportation_Authority__mdb_ntd-80121,ntd-80121,Wind River Transportation Authority,80121,ntd-80121_routes.geojson,ntd-80121_stops.geojson

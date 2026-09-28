@@ -1,0 +1,5 @@
+﻿feed_id,source_id,provider,gtfs_agency_names,feed_agency_name,state,decision,best_ntd_id,best_ntd_agency,best_ntd_state,best_score,second_score,margin,match_method
+California__Corona_Cruiser__mdb_mdb-104,mdb-104,Corona Cruiser,Corona Cruiser,Corona Cruiser,CA,no_match,90052,City of Corona,CA,69.29,59.78,9.51,provider_gtfs_filename_state
+California__Lawndale_Beat__mdb_mdb-36,mdb-36,Lawndale Beat,Lawndale Beat,Lawndale Beat,CA,no_match,99423,"City of Glendale, dba: Beeline Bus/Dial-A-Ride",CA,67.31,64.15,3.16,provider_gtfs_filename_state
+Massachusetts__Patriots_Party_Boats__mdb_mdb-424,mdb-424,Patriots Party Boats,Patriot Party Boats,Patriots Party Boats,MA,no_match,11160,"Peter Pan Bus Lines, dba: Peter Pan",MA,55.62,55.5,0.12,provider_gtfs_filename_state
+New_Jersey__Boxcar__mdb_mdb-3105,mdb-3105,Boxcar,,Boxcar,NJ,no_match,22967,"Borough of Sayreville, Inc.",NJ,65.0,65.0,0.0,provider_gtfs_filename_state

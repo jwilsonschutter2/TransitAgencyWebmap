@@ -1,0 +1,821 @@
+﻿feed_id,gtfs_agency_names,state_hint,accepted_ntd_id,method,score,suggested_ntd_id,suggested_agency,suggested_state,ambiguous,accepted
+Alabama__Huntsville_Shuttle__mdb_mdb-2081,AL_Huntsville,Alabama,40071,manual_override,100.0,40071,"City of Huntsville, Alabama, dba: Huntsville Transit",AL,False,True
+Alabama__Montgomery_Transit__mdb_mdb-338,Montgomery Transit,Alabama,40044,manual_override,100.0,40044,"City of Montgomery, dba: The M Transit",AL,False,True
+Alabama__Tuscaloosa_Transit_Authority__mdb_tld-7046,Tuscaloosa Transit Authority,Alabama,40045,manual_override,100.0,40045,"Tuscaloosa County Parking and Transit Authority, dba: Tuscaloosa Transit Authority",AL,False,True
+Alaska__Anchorage_People_Mover__mdb_mdb-225,Municipality of Anchorage People Mover,Alaska,00012,manual_override,100.0,00012,Municipality of Anchorage,AK,False,True
+Alaska__Capital_Transit__mdb_mdb-294,Capital Transit,Alaska,00391,manual_override,100.0,00391,"City and Borough of Juneau, dba: Capital Transit",AK,False,True
+Alaska__Inter-Island_Ferry__mdb_mdb-243,Inter-Island Ferry Authority,Alaska,00382,manual_override,100.0,00382,Inter-Island Ferry Authority,AK,False,True
+Alaska__Ketchikan_Gateway_Borough__mdb_mdb-244,Airport Ferry | The Bus - Ketchikan Gateway Borough,Alaska,00358,manual_override,100.0,00358,"Ketchikan Gateway Borough, dba: The Bus",AK,False,True
+Arizona__Bisbee_Bus__mdb_mdb-2857,Bisbee Bus,Arizona,91121,manual_override,100.0,91121,"City of Bisbee, dba: City of Bisbee/ Bisbee Bus",AZ,False,True
+Arizona__Bullhead_Area_Transit_System__mdb_mdb-109,Bullhead Area Transit System,Arizona,91037,manual_override,100.0,91037,"City of Bullhead, dba: Bullhead Area Transit System",AZ,False,True
+Arizona__City_of_Sierra_Vista__mdb_tld-679,Vista Transit,Arizona,90239,manual_override,100.0,90239,"City of Sierra Vista, dba: Vista Transit",AZ,False,True
+Arizona__Cottonwood_Area_Transit_(CAT)__mdb_mdb-158,Cottonwood Area Transit,Arizona,91010,manual_override,100.0,91010,"City of Cottonwood, dba: Cottonwood Area Transit",AZ,False,True
+Arizona__Grand_Canyon_National_Park__mdb_mdb-1905,National Park Service,Arizona,99468,manual_override,100.0,99468,Jewish Family Service of San Diego,CA,False,True
+Arizona__Maricopa_Express_Transit__mdb_tld-6743,Maricopa Express Transit,Arizona,91106,manual_override,100.0,91106,"City of Maricopa, dba: Maricopa Express Transit",AZ,False,True
+Arizona__Mountain_Line_Transit__mdb_mdb-1979,Mountain Line,Arizona,90219,manual_override,100.0,90219,"Northern Arizona Intergovernmental Public Transportation Authority, dba: Mountain Line",AZ,False,True
+Arizona__Regional_Transportation_Authority_of_Pima_County__mdb_ntd-91122,Regional Transportation Authority of Pima County,Arizona,91122,manual_override,100.0,91122,Regional Transportation Authority of Pima County,AZ,False,True
+Arizona__Valley_Metro_(VM)__mdb_mdb-147,Valley Metro | Phoenix Sky Harbor International Airport,Arizona,90209,manual_override,100.0,90209,"Valley Metro Rail, Inc.",AZ,False,True
+Arizona__Yuma_County_Intergovernmental_Public_Transportation_Authority_(YCIPTA)__mdb_mdb-17,Yuma County Intergovernmental Public Transportation Authority,Arizona,90233,manual_override,100.0,90233,"Yuma County Intergovernmental Public Transportation Authority, dba: Yuma County Area Transit",AZ,False,True
+Arkansas__City_of_Fort_Smith__mdb_ntd-60086,City of Fort Smith Transit,Arkansas,60086,manual_override,100.0,60086,"City of Fort Smith, dba: Fort Smith Transit",AR,False,True
+Arkansas__Eureka_Springs_Transit__mdb_ntd-60161,Eureka Springs Transit,Arkansas,60257,manual_override,100.0,60257,"Area Agency on Aging of Western Arkansas, Inc., dba: Western Transit System",AR,False,True
+Arkansas__Ozark_Regional_Transit__mdb_tld-4470,Ozark Regional Transit,Arkansas,60072,manual_override,100.0,60072,Ozark Regional Transit,AR,False,True
+California__Alameda-Contra_Costa_Transit_District_(AC_Transit)__mdb_mdb-2455,AC TRANSIT,California,90014,manual_override,100.0,90014,"Alameda-Contra Costa Transit District, dba: AC Transit",CA,False,True
+California__Altamont_Corridor_Express__mdb_mdb-2684,Altamont Corridor Express,California,90182,manual_override,100.0,90182,Altamont Corridor Express,CA,False,True
+California__Amador_Transit__mdb_mdb-92,Amador Transit,California,91000,manual_override,100.0,91000,Amador Transit,CA,False,True
+California__Amtrak__mdb_mdb-11,Temporary Amtrak Chartered Vehicle | Roadrunner Shuttle | Via Rail Canada | Route 66 Express | Alvand Transportation | Amtrak Chartered Vehicle | Arrow Trailways | Vegas Airporter | Executive Transportation | Stagecoach Express | Amtrak Chartered Motorcoach | The Lift | Beeline Express | Coach Usa | Shore Line East | Amtrak | Sunway Charters | MARC | FLIX,California,99469,manual_override,100.0,99469,Full Access & Coordinated Transportation Inc.,CA,False,True
+California__Amtrak_San_Joaquins__mdb_mdb-2295,Gold Runner,California,99470,manual_override,100.0,99470,Travelers' Aid Society Of San Diego,CA,False,True
+California__Arcadia_Transit__mdb_mdb-2243,City of Arcadia,California,90044,manual_override,100.0,90044,"City of Arcadia, dba: Arcadia Transit",CA,False,True
+California__Auburn_Transit__mdb_mdb-2275,Auburn Transit,California,91032,manual_override,100.0,91032,"City of Auburn, dba: Auburn Transit",CA,False,True
+California__Baldwin_Park_Transit__mdb_mdb-2247,"Baldwin Park, CA",California,90251,manual_override,100.0,90251,"City of Baldwin Park, dba: Baldwin Park Transit",CA,False,True
+California__Bay_Area_Rapid_Transit_(BART)__mdb_mdb-53,Bay Area Rapid Transit,California,90003,manual_override,100.0,90003,"San Francisco Bay Area Rapid Transit District, dba: SF BART",CA,False,True
+California__Beach_Cities_Transit__mdb_mdb-1999,Beach Cities Transit,California,90214,manual_override,100.0,90214,"City of Redondo Beach, dba: Beach Cities Transit",CA,False,True
+California__Beaumont_Transit__mdb_mdb-106,Beaumont Transit,California,99478,manual_override,100.0,99478,Redwood Coast Transit Authority-Intercity,CA,False,True
+California__Big_Blue_Bus__mdb_mdb-37,Big Blue Bus,California,90008,manual_override,100.0,90008,"City of Santa Monica, dba: Big Blue Bus",CA,False,True
+California__Blossom_Express__mdb_mdb-236,Blossom Express,California,91089,manual_override,100.0,91089,"Tehama County, dba: Tehama Rural Area Express",CA,False,True
+California__BurbankBus__mdb_mdb-2149,Burbank Bus,California,99444,manual_override,100.0,99444,"Bob Hope Airport, dba: Hollywood Burbank Airport",CA,False,True
+California__Butte_Regional_Transit_(B-Line)__mdb_ntd-90208,B-Line,California,90208,manual_override,100.0,90208,"Butte County Association of Governments, dba: Butte Regional Transit/B-Line",CA,False,True
+California__Calaveras_Transit__mdb_mdb-93,Calaveras Connect,California,99442,manual_override,100.0,99442,"Calaveras Transit Agency, dba: Calaveras Connect",CA,False,True
+California__Caltrain__mdb_mdb-54,Caltrain,California,90134,manual_override,100.0,90134,"Peninsula Corridor Joint Powers Board, dba: Caltrain",CA,False,True
+California__Camarillo_Area_Transit__mdb_mdb-2234,Camarillo Area Transit,California,90163,manual_override,100.0,90163,"City of Camarillo, dba: Camarillo Area Transit",CA,False,True
+California__Capitol_Corridor_Joint_Powers_Authority_(Capitol_Corridor)__mdb_mdb-74,Capitol Corridor Joint Powers Authority,California,90304,manual_override,100.0,90304,Riverfront Joint Powers Authority,CA,False,True
+California__Catalina_Express__mdb_mdb-299,Catalina Express,California,91089,manual_override,100.0,91089,"Tehama County, dba: Tehama Rural Area Express",CA,False,True
+California__Cerritos_On_Wheels__mdb_tld-4667,City of Cerritos,California,90259,manual_override,100.0,90259,"City of Cerritos, dba: Cerritos Transit Services",CA,False,True
+California__City_of_Banning_Transit__mdb_mdb-220,City of Banning Transit,California,91027,manual_override,100.0,91027,"City of Arvin, dba: Arvin Transit",CA,False,True
+California__City_of_Camarillo__mdb_ntd-90163,Gold Coast Transit District | Thousand Oaks Transit | VCTC Intercity | Kanan Shuttle | Moorpark City Transit | Ojai Trolley | Valley Express Transit Service | Simi Valley Transit | Camarillo Area Transit,California,90163,manual_override,100.0,90163,"City of Camarillo, dba: Camarillo Area Transit",CA,False,True
+California__City_of_Irvine__mdb_tld-6724,City of Irvine (LAZ Parking),California,99470,manual_override,100.0,99470,Travelers' Aid Society Of San Diego,CA,False,True
+California__City_of_San_Luis_Obispo_Transit__mdb_mdb-44,City of San Luis Obispo Transit,California,90156,manual_override,100.0,90156,"City of San Luis Obispo, dba: SLO Transit",CA,False,True
+California__City_of_Santa_Clarita_Transit__mdb_tld-1256,Santa Clarita Transit,California,90171,manual_override,100.0,90171,"City of Santa Clarita, dba: Santa Clarita Transit",CA,False,True
+California__City_of_Tracy_(TRACER)__mdb_mdb-3099,TRACER Bus Service,California,90197,manual_override,100.0,90197,"City of Tracy, dba: TRACER",CA,False,True
+California__Clovis_Transit__mdb_mdb-2894,City of Clovis,California,90313,manual_override,100.0,90313,"City of Clovis, dba: Clovis Transit",CA,False,True
+California__Commerce_Municipal_Bus_Lines__mdb_mdb-994,City Of Commerce Transit,California,90043,manual_override,100.0,90043,"City of Commerce, dba: City of Commerce Transit",CA,False,True
+California__Commute.org_San_Mateo_County_Shuttles__mdb_mdb-61,SamTrans | Commute.org Shuttles,California,99451,manual_override,100.0,99451,City of San Fernando,CA,False,True
+California__Corona_Cruiser__mdb_mdb-104,Corona Cruiser,California,,none,0.0,,,,False,False
+California__County_Connection_(CCCTA)__mdb_mdb-2421,County Connection,California,91005,manual_override,100.0,91005,"Madera County, dba: Madera County Connection",CA,False,True
+California__Dana_Point_Trolley__mdb_mdb-2361,Dana Point,California,90131,manual_override,100.0,90131,"City of Scottsdale, dba: Scottsdale Trolley",AZ,False,True
+California__Delano_Area_Rapid_Transit__mdb_mdb-320,Delano Area Rapid Transit,California,90238,manual_override,100.0,90238,"City of Delano, dba: Delano Area Rapid Transit",CA,False,True
+California__Devils_Postpile_National_Monument__mdb_mdb-3206,Eastern Sierra Transit Authority,California,91062,manual_override,100.0,91062,Eastern Sierra Transit Authority,CA,False,True
+California__Eastern_Sierra_Transit__mdb_mdb-25,Eastern Sierra Transit Authority,California,91062,manual_override,100.0,91062,Eastern Sierra Transit Authority,CA,False,True
+California__El_Dorado_Transit__mdb_mdb-75,El Dorado Transit,California,90229,manual_override,100.0,90229,"El Dorado County Transit Authority, dba: El Dorado Transit",CA,False,True
+California__Emery_Go-Round__mdb_mdb-2224,Emery Go-Round,California,88224,manual_override,100.0,88224,"Washakie County Senior Citizens Center, dba: Worland Van-Go Public Transportation",WY,False,True
+California__eTrans__mdb_mdb-65,eTrans,California,91078,manual_override,100.0,91078,"City of Escalon, dba: eTrans",CA,False,True
+California__Foothill_Transit__mdb_mdb-101,Foothill Transit,California,90146,manual_override,100.0,90146,Foothill Transit,CA,False,True
+California__Fresno_Area_Express_(FAX)__mdb_mdb-90,Fresno Area Express,California,90027,manual_override,100.0,90027,"City of Fresno, dba: Fresno Area Express",CA,False,True
+California__Fresno_County_Rural_Transit_Agency_(FCRTA)__mdb_mdb-85,Fresno County Rural Transit Authority,California,91007,manual_override,100.0,91007,Fresno County Rural Transit Agency,CA,False,True
+California__Glenn_Transit_Service__mdb_mdb-3094,Glenn Transit Service,California,91088,manual_override,100.0,91088,"County of Glenn, dba: Glenn Transit Services",CA,False,True
+California__Golden_Empire_Transit_District_(GET)__mdb_mdb-46,Golden Empire Transit District,California,90004,manual_override,100.0,90004,Golden Empire Transit District,CA,False,True
+California__Golden_Gate_National_Recreation_Area_(Alcatraz_Island)__mdb_mdb-3208,National Park Service,California,99468,manual_override,100.0,99468,Jewish Family Service of San Diego,CA,False,True
+California__Golden_Gate_Transit__mdb_mdb-67,Golden Gate Transit,California,90016,manual_override,100.0,90016,"Golden Gate Bridge, Highway and Transportation District",CA,False,True
+California__GrapeLine__mdb_mdb-83,City of Lodi GrapeLine,California,90175,manual_override,100.0,90175,"City of Lodi, dba: GrapeLine",CA,False,True
+California__GTrans__mdb_mdb-2270,GTrans,California,90042,manual_override,100.0,90042,"City of Gardena, dba: GTrans",CA,False,True
+California__Humboldt_Transit_Authority__mdb_mdb-3032,Redwood Transit System | Eureka Transit System | Arcata & Mad River Transit System | North State Express: 101 | North State Express: 299 | Southern Humboldt Line,California,99476,manual_override,100.0,99476,Humboldt Transit Authority-Intercity,CA,False,True
+California__Kern_Transit__mdb_mdb-47,Kern Transit,California,91059,manual_override,100.0,91059,"County of Kern, dba: Kern Regional Transit",CA,False,True
+California__Kings_Area_Rural_Transit__mdb_mdb-2204,Kings Area Rural Transit,California,90200,manual_override,100.0,90200,Kings County Area Public Transit Agency,CA,False,True
+California__Laguna_Beach_Transit_(LBT)__mdb_mdb-16,Laguna Beach Transit,California,90119,manual_override,100.0,90119,"City of Laguna Beach, dba: Laguna Beach Transit",CA,False,True
+California__Lake_Transit_Authority_(LTA)__mdb_mdb-68,Lake Transit,California,99292,manual_override,100.0,99292,"Blue Lake Rancheria, dba: Blue Lake Rancheria Transit System",CA,False,True
+California__Lassen_Rural_Bus_(LRB)__mdb_mdb-118,Lassen Rural Bus,California,99423,manual_override,100.0,99423,"City of Glendale, dba: Beeline Bus/Dial-A-Ride",CA,False,True
+California__Lawndale_Beat__mdb_mdb-36,Lawndale Beat,California,,none,0.0,,,,False,False
+California__Long_Beach_Transit_(LBT)__mdb_mdb-1198,Long Beach Transit,California,90023,manual_override,100.0,90023,Long Beach Transit,CA,False,True
+California__Los_Angeles_County_Department_of_Public_Works_(the_LINK_and_shuttles)__mdb_mdb-28,LA Go Bus,California,90279,manual_override,100.0,90279,Los Angeles County,CA,False,True
+California__Los_Angeles_County_Metropolitan_Transportation_Authority_(LA_Metro)__mdb_mdb-29,Metro - Los Angeles,California,90279,manual_override,100.0,90279,Los Angeles County,CA,False,True
+California__Los_Angeles_County_Metropolitan_Transportation_Authority_(LA_Metro)__mdb_mdb-30,Metro - Los Angeles,California,90279,manual_override,100.0,90279,Los Angeles County,CA,False,True
+California__Los_Angeles_County_Shuttles__mdb_tld-1253,Los Angeles County Shuttles,California,90279,manual_override,100.0,90279,Los Angeles County,CA,False,True
+"California__Los_Angeles_Department_of_Transportation_(LADOT,_DASH,_Commuter_Express)__mdb_mdb-1210",LADOT,California,99470,manual_override,100.0,99470,Travelers' Aid Society Of San Diego,CA,False,True
+California__Madera_County_Transit__mdb_mdb-572,Madera County Connection,California,91005,manual_override,100.0,91005,"Madera County, dba: Madera County Connection",CA,False,True
+California__Marin_Transit__mdb_mdb-2937,Marin Transit,California,90299,manual_override,100.0,90299,Sonoma-Marin Area Rail Transit District,CA,False,True
+California__Mendocino_Transit_Authority__mdb_mdb-69,Mendocino Transit Authority,California,99477,manual_override,100.0,99477,Mendocino Transit Authority-Intercity,CA,False,True
+California__Merced_County_Transit_(The_Bus)__mdb_mdb-3117,Merced The Bus,California,90173,manual_override,100.0,90173,"Transit Joint Powers Authority for Merced County, dba: Merced The Bus",CA,False,True
+California__Mission_Bay_Transportation_Management_Association_(TMA)__mdb_mdb-51,Mission Bay TMA,California,99358,manual_override,100.0,99358,"Morongo Band of Mission Indians, dba: Morongo Dial- A-Ride",CA,False,True
+California__Mission_Viejo__mdb_tld-7930,Mission Viejo,California,99358,manual_override,100.0,99358,"Morongo Band of Mission Indians, dba: Morongo Dial- A-Ride",CA,False,True
+California__Montebello_Bus_Lines__mdb_mdb-2201,Montebello Bus Lines,California,90041,manual_override,100.0,90041,"City of Montebello, dba: Montebello Bus Lines",CA,False,True
+California__Monterey-Salinas_Transit_(MST)__mdb_mdb-56,Monterey-Salinas Transit,California,90062,manual_override,100.0,90062,Monterey-Salinas Transit,CA,False,True
+California__Moorpark_City_Transit__mdb_mdb-578,Moorpark City Transit,California,90227,manual_override,100.0,90227,"City of Moorpark, dba: Moorpark City Transit",CA,False,True
+California__Morongo_Basin_Transit_Authority__mdb_mdb-579,Morongo Basin Transit Authority,California,91090,manual_override,100.0,91090,"Morongo Basin Transit Authority, dba: Basin Transit",CA,False,True
+California__Mountain_Transit__mdb_mdb-107,Mountain Transit,California,91012,manual_override,100.0,91012,"Mountain Area Regional Transit Authority, dba: Mountain Transit",CA,False,True
+California__Mountain_View_Community_Shuttle__mdb_mdb-2883,Mountain View Community Shuttle,California,99462,manual_override,100.0,99462,"Saguaro Foundation Community Living Programs, dba: Saguaro Foundation",AZ,False,True
+California__Mountain_View_Transportation_Management_Association_(MVgo)__mdb_mdb-2880,MVgo,California,90314,manual_override,100.0,90314,Attentive Transportation LLC,CA,False,True
+California__Needles_Area_Transit__mdb_mdb-583,Needles Area Transit,California,91020,manual_override,100.0,91020,"City of Needles, dba: Needles Area Transit",CA,False,True
+California__North_Lake_Tahoe_Express__mdb_mdb-2328,North Lake Tahoe Express - 24 hour advance reservations required,California,99364,manual_override,100.0,99364,"North Fork Rancheria of Mono Indians of California, dba: NFR Tranportation",CA,False,True
+California__Norwalk_Transit_System__mdb_tld-881,Norwalk Transit System,California,90022,manual_override,100.0,90022,"City of Norwalk, dba: Norwalk Transit System",CA,False,True
+California__OmniTrans__mdb_mdb-97,Omnitrans,California,90029,manual_override,100.0,90029,"Omnitrans, dba: OMNI",CA,False,True
+California__Orange_County_Transportation_Authority_(OCTA)__mdb_mdb-15,Orange County Transportation Authority,California,90036,manual_override,100.0,90036,Orange County Transportation Authority,CA,False,True
+California__Palo_Verde_Valley_Transit_Agency__mdb_mdb-2190,Palo Verde Valley Transit Agency,California,99454,manual_override,100.0,99454,"Palo Verde Valley Transit Agency, dba: RidePV",CA,False,True
+California__Palos_Verdes_Peninsula_Transit_Authority_(PVPTA)__mdb_mdb-35,Palos Verdes Peninsula Transit Authority,California,90287,manual_override,100.0,90287,Palos Verdes Peninsula Transit Authority,CA,False,True
+California__Pasadena_Transit__mdb_mdb-41,Pasadena Transit,California,99424,manual_override,100.0,99424,"City of Pasadena, dba: Pasadena Transit",CA,False,True
+California__Petaluma_Transit__mdb_mdb-2947,PETALUMA,California,90213,manual_override,100.0,90213,"City of Petaluma, dba: Petaluma Transit",CA,False,True
+California__Placer_County_Transit__mdb_mdb-77,Placer County Transit,California,90196,manual_override,100.0,90196,"County of Placer, dba: Placer County Transit/TART",CA,False,True
+California__Plumas_Transit__mdb_mdb-119,Plumas Transit,California,99478,manual_override,100.0,99478,Redwood Coast Transit Authority-Intercity,CA,False,True
+California__Redding_Area_Bus_Authority__mdb_mdb-3031,Redding Area Bus Authority,California,90093,manual_override,100.0,90093,Redding Area Bus Authority,CA,False,True
+California__Riverside_Transit_Agency__mdb_mdb-98,Riverside Transit Agency,California,90031,manual_override,100.0,90031,Riverside Transit Agency,CA,False,True
+California__Rosemead_Explorer__mdb_mdb-3098,City of Rosemead,California,90289,manual_override,100.0,90289,"City of Rosemead, dba: Rosemead Explorer/Dial-A-Ride",CA,False,True
+California__Roseville_Transit__mdb_mdb-1067,Roseville Transit,California,99478,manual_override,100.0,99478,Redwood Coast Transit Authority-Intercity,CA,False,True
+California__SamTrans__mdb_mdb-2708,SamTrans,California,90009,manual_override,100.0,90009,"San Mateo County Transit District, dba: SamTrans",CA,False,True
+California__San_Benito_County_Express_(SBCE)__mdb_mdb-58,San Benito County Express,California,91009,manual_override,100.0,91009,"San Benito County Local Transportation Authority, dba: San Benito County Express",CA,False,True
+California__San_Clemente_Trolley__mdb_mdb-2362,SC Trolley,California,99470,manual_override,100.0,99470,Travelers' Aid Society Of San Diego,CA,False,True
+"California__San_Diego_International_Airport,_Metropolitan_Transit_System_(MTS)__mdb_mdb-13",MTS | San Diego International Airport,California,90026,manual_override,100.0,90026,San Diego Metropolitan Transit System,CA,False,True
+California__San_Francisco_Bay_Area_Water_Emergency_Transportation_Authority_(WETA)__mdb_mdb-3143,San Francisco Bay Ferry,California,90225,manual_override,100.0,90225,"San Francisco Bay Area Water Emergency Transportation Authority, dba: San Francisco Bay Ferry",CA,False,True
+California__San_Joaquin_Regional_Transit_District_(RTD)__mdb_mdb-886,San Joaquin Regional Transit District (RTD),California,90012,manual_override,100.0,90012,"San Joaquin Regional Transit District, dba: San Joaquin RTD",CA,False,True
+California__San_Juan_Capistrano_Free_Weekend_Trolley__mdb_mdb-2235,San Juan Capistrano,California,99470,manual_override,100.0,99470,Travelers' Aid Society Of San Diego,CA,False,True
+California__San_Luis_Obispo_Regional_Transit_Authority_(SLORTA)__mdb_mdb-43,RTA - SCT - Paso,California,90206,manual_override,100.0,90206,San Luis Obispo Regional Transit Authority,CA,False,True
+California__Santa_Barbara_Metropolitan_Transit_District_(MTD)__mdb_mdb-1246,SBMTD,California,90020,manual_override,100.0,90020,Santa Barbara Metropolitan Transit District,CA,False,True
+California__Santa_Clara_Valley_Transportation_Authority_(VTA)__mdb_mdb-57,VTA,California,90013,manual_override,100.0,90013,"Santa Clara Valley Transportation Authority, dba: Valley Transportation Authority",CA,False,True
+California__Santa_Clarita_Transit__mdb_mdb-812,Santa Clarita Transit,California,90171,manual_override,100.0,90171,"City of Santa Clarita, dba: Santa Clarita Transit",CA,False,True
+California__Santa_Cruz_Metro_(SCMTD)__mdb_mdb-2425,Santa Cruz METRO,California,90006,manual_override,100.0,90006,Santa Cruz Metropolitan Transit District,CA,False,True
+California__Santa_Maria_Area_Transit__mdb_mdb-2272,Santa Maria Regional Transit (Home),California,90087,manual_override,100.0,90087,"City of Santa Maria, dba: Santa Maria Regional Transit",CA,False,True
+California__Santa_Rosa_CityBus__mdb_mdb-2948,SANTAROSA,California,90017,manual_override,100.0,90017,"City of Santa Rosa, dba: Santa Rosa CityBus",CA,False,True
+California__Santa_Ynez_Valley_Transit__mdb_mdb-813,Santa Ynez Valley Transit,California,91028,manual_override,100.0,91028,"City of Solvang, dba: Santa Ynez Valley Transit",CA,False,True
+California__Santa_Ynez_Valley_Transit__mdb_tld-1301,Santa Ynez Valley Transit,California,91028,manual_override,100.0,91028,"City of Solvang, dba: Santa Ynez Valley Transit",CA,False,True
+California__Simi_Valley_Transit__mdb_mdb-40,Simi Valley Transit,California,90050,manual_override,100.0,90050,"City of Simi Valley, dba: Simi Valley Transit",CA,False,True
+California__Siskiyou_County__mdb_mdb-117,Siskiyou Transit and General Express,California,91048,manual_override,100.0,91048,"County of Siskiyou, dba: Siskiyou County Transit",CA,False,True
+California__SolTrans__mdb_mdb-80,SolTrans,California,90232,manual_override,100.0,90232,"Solano County Transit, dba: SolTrans",CA,False,True
+California__Sonoma_County_Transit_(SCT)__mdb_mdb-70,Sonoma County Transit,California,90089,manual_override,100.0,90089,"County of Sonoma, dba: Sonoma County Transit",CA,False,True
+California__Sonoma_Marin_Area_Rail_Transit_(SMART)__mdb_mdb-3222,Sonoma-Marin Area Rail Transit,California,90299,manual_override,100.0,90299,Sonoma-Marin Area Rail Transit District,CA,False,True
+California__Spirit_Bus__mdb_mdb-2202,City of Monterey Park,California,90286,manual_override,100.0,90286,"City of Monterey Park, dba: Spirit Bus",CA,False,True
+California__Stanford_Marguerite_Shuttle_(SMS)__mdb_mdb-59,Stanford Marguerite Shuttle,California,90191,manual_override,100.0,90191,"Town of Oro Valley, dba: Sun Shuttle Dial-A-Ride",AZ,False,True
+California__Stanislaus_Regional_Transit_(StaRT)__mdb_mdb-2273,The S,California,90306,manual_override,100.0,90306,Stanislaus Regional Transit Authority,CA,False,True
+California__SunLine_Transit_Agency__mdb_tld-461,SUNLINE,California,90079,manual_override,100.0,90079,"SunLine Transit Agency, dba: SunLine",CA,False,True
+California__Taft_Area_Transit__mdb_mdb-2236,Taft - Maricopa Area Transit,California,91066,manual_override,100.0,91066,"City of Taft, dba: Taft Area Transit",CA,False,True
+"California__Tahoe_Area_Regional_Transit_(TART),_North_Lake_Tahoe_Express__mdb_mdb-94",Tahoe Truckee Area Regional Transit,California,91101,manual_override,100.0,91101,"Town of Truckee, dba: Truckee TART",CA,False,True
+California__Tahoe_Transportation_District__mdb_mdb-897,Tahoe Transportation District,California,99478,manual_override,100.0,99478,Redwood Coast Transit Authority-Intercity,CA,False,True
+California__Thousand_Oaks_Transit__mdb_mdb-3100,Thousand Oaks Transit,California,90165,manual_override,100.0,90165,"City of Thousand Oaks, dba: Thousand Oaks Transit",CA,False,True
+California__Tri_Delta_Transit__mdb_mdb-1974,Tri Delta Transit,California,90162,manual_override,100.0,90162,"The Eastern Contra Costa Transit Authority, dba: Tri Delta Transit",CA,False,True
+California__Tri_Delta_Transit__mdb_ntd-90162,Tri Delta Transit,California,90162,manual_override,100.0,90162,"The Eastern Contra Costa Transit Authority, dba: Tri Delta Transit",CA,False,True
+California__Trinity_Transit__mdb_mdb-2709,Trinity Transit,California,91035,manual_override,100.0,91035,"Trinity County, dba: Trinity Transit",CA,False,True
+California__Tulare_County_Area_Transit_(TCAT)__mdb_mdb-646,Tulare County Regional Transit Agency,California,91055,manual_override,100.0,91055,Tulare County Area Transit,CA,False,True
+California__Turlock_Transit__mdb_mdb-619,Turlock Transit,California,90201,manual_override,100.0,90201,"City of Turlock, dba: Turlock Transit",CA,False,True
+California__Unitrans__mdb_mdb-82,Unitrans,California,90142,manual_override,100.0,90142,"University of California, Davis, dba: Unitrans",CA,False,True
+California__Ventura_County_Transportation_Commission__mdb_mdb-3096,VCTC Intercity,California,90164,manual_override,100.0,90164,Ventura County Transportation Commission,CA,False,True
+California__VINE_Transit__mdb_mdb-1288,VINE Transit,California,91027,manual_override,100.0,91027,"City of Arvin, dba: Arvin Transit",CA,False,True
+California__Visalia_Transit__mdb_ntd-90091,VISALIA TRANSIT,California,90091,manual_override,100.0,90091,"City of Visalia, dba: Visalia Transit",CA,False,True
+California__West_Berkeley_Shuttle__mdb_mdb-2238,West Berkeley Shuttle,California,90191,manual_override,100.0,90191,"Town of Oro Valley, dba: Sun Shuttle Dial-A-Ride",AZ,False,True
+California__WestCAT__mdb_mdb-78,WestCat (Western Contra Costa),California,90159,manual_override,100.0,90159,"Western Contra Costa Transit Authority, dba: WestCAT",CA,False,True
+California__Yosemite_Area_Regional_Transportation_System_(YARTS)__mdb_mdb-2394,Yosemite Area Regional Transportation System,California,91070,manual_override,100.0,91070,Yosemite Area Regional Transportation System,CA,False,True
+California__Yosemite_National_Park__mdb_tld-6679,National Park Service,California,99468,manual_override,100.0,99468,Jewish Family Service of San Diego,CA,False,True
+California__Yosemite_National_Park__mdb_tld-6681,National Park Service,California,99468,manual_override,100.0,99468,Jewish Family Service of San Diego,CA,False,True
+California__Yuba-Sutter_Transit__mdb_mdb-79,Yuba-Sutter Transit,California,90061,manual_override,100.0,90061,Yuba-Sutter Transit Authority,CA,False,True
+Colorado__All_Points_Transit__mdb_mdb-2039,All Points Transit,Colorado,88215,manual_override,100.0,88215,"Montrose County Senior Citizens Transportation, Inc., dba: All Points Transit",CO,False,True
+Colorado__All_Points_Transit__mdb_mdb-212,All Points Transit,Colorado,88215,manual_override,100.0,88215,"Montrose County Senior Citizens Transportation, Inc., dba: All Points Transit",CO,False,True
+Colorado__Avon_Transit__mdb_mdb-2433,Avon Transit,Colorado,88228,manual_override,100.0,88228,"Town of Avon, dba: Avon Transit",CO,False,True
+Colorado__Baca_Area_Transportation__mdb_mdb-1087,Baca Area Transportation,Colorado,80202,manual_override,100.0,80202,"Town of Berthoud, dba: Berthoud Area Transportation Services",CO,False,True
+Colorado__Blackhawk_and_Central_City_Tramway__mdb_mdb-2041,Blackhawk and Central City Tramway,Colorado,80119,manual_override,100.0,80119,"City of Black Hawk, dba: The Black Hawk & Central City Tramway",CO,False,True
+Colorado__Blackhawk_and_Central_City_Tramway__mdb_mdb-234,Blackhawk and Central City Tramway,Colorado,80119,manual_override,100.0,80119,"City of Black Hawk, dba: The Black Hawk & Central City Tramway",CO,False,True
+Colorado__Bustang_Outrider__mdb_mdb-2330,Bustang Outrider,Colorado,88300,manual_override,100.0,88300,"Ace Express Coaches, LLC, dba: Bustang",CO,False,True
+Colorado__City_of_Fountain_Transit__mdb_mdb-309,City of Fountain Transit,Colorado,88287,manual_override,100.0,88287,City of Aspen,CO,False,True
+Colorado__Clear_Creek_County_Transit__mdb_mdb-313,Clear Creek County Transit,Colorado,88290,manual_override,100.0,88290,La Plata County,CO,False,True
+Colorado__Colorado_Mountain_Express__mdb_mdb-172,Epic Mountain Express,Colorado,80159,manual_override,100.0,80159,Mountain Express,CO,False,True
+Colorado__Colorado_School_Of_Mines__mdb_mdb-2413,City of Golden,Colorado,80274,manual_override,100.0,80274,"Canon City Golden Age Council, Inc, dba: Fremont County Transit",CO,False,True
+Colorado__Cripple_Creek_Transportation__mdb_mdb-2042,Cripple Creek Transportation,Colorado,88294,manual_override,100.0,88294,"San Miguel Authority for Regional Transportation, dba: SMART",CO,False,True
+Colorado__Cripple_Creek_Transportation__mdb_mdb-317,Cripple Creek Transportation,Colorado,88294,manual_override,100.0,88294,"San Miguel Authority for Regional Transportation, dba: SMART",CO,False,True
+Colorado__Durango_Transit__mdb_mdb-456,Durango Transit,Colorado,80206,manual_override,100.0,80206,"City of Durango, dba: Durango Transit",CO,False,True
+Colorado__Envida__mdb_mdb-2044,Envida,Colorado,88288,manual_override,100.0,88288,"Disability Services, Inc., dba: Envida",CO,False,True
+Colorado__Envida__mdb_mdb-455,Envida,Colorado,88288,manual_override,100.0,88288,"Disability Services, Inc., dba: Envida",CO,False,True
+Colorado__Estes_Transit__mdb_mdb-2047,Estes Transit,Colorado,88305,manual_override,100.0,88305,"Eagle Valley Transportation Authority, dba: Core Transit",CO,False,True
+Colorado__Estes_Transit__mdb_mdb-459,Estes Transit,Colorado,88305,manual_override,100.0,88305,"Eagle Valley Transportation Authority, dba: Core Transit",CO,False,True
+Colorado__Greeley-Evans_Transit_(GET)__mdb_mdb-2076,Gallop,Colorado,80010,manual_override,100.0,80010,"Greeley, City Of, dba: Greeley Evans Transit",CO,False,True
+Colorado__Gunnison_Valley_Transportation_Authority_(RTA)__mdb_mdb-163,Gunnison Valley RTA,Colorado,80150,manual_override,100.0,80150,"Gunnison Valley Rural Transportation Authority, dba: Gunnison Valley RTA",CO,False,True
+Colorado__Home_James__mdb_mdb-607,Home James,Colorado,80124,manual_override,100.0,80124,"James River Senior Citizens Center, Inc., dba: JRSC Center & Public Transit",ND,False,True
+Colorado__Kiowa_County_Transit__mdb_mdb-2169,Kiowa County Transit,Colorado,88305,manual_override,100.0,88305,"Eagle Valley Transportation Authority, dba: Core Transit",CO,False,True
+Colorado__Lake_County_Senior_Center_Transportation_Program__mdb_mdb-2291,Lake County Senior Center Transportation Program,Colorado,88213,manual_override,100.0,88213,"Lake County, dba: Lake County Senior Center Transportation Program",CO,False,True
+Colorado__Outback_Express__mdb_mdb-2306,Outback Express,Colorado,80179,manual_override,100.0,80179,"City of Burlington, dba: Outback Express",CO,False,True
+Colorado__Parachute_Area_Transit_System__mdb_tld-5746,Parachute Area Transit System,Colorado,88215,manual_override,100.0,88215,"Montrose County Senior Citizens Transportation, Inc., dba: All Points Transit",CO,False,True
+Colorado__Prairie_Express_Transit__mdb_mdb-801,Prairie Express Transit,Colorado,88230,manual_override,100.0,88230,"Teller Senior Coalition, dba: TSC Transit",CO,False,True
+Colorado__Pueblo_Transit__mdb_mdb-1232,Pueblo Transit,Colorado,80007,manual_override,100.0,80007,"City of Pueblo, dba: Pueblo Transit",CO,False,True
+Colorado__Pueblo_Transit__mdb_mdb-2232,Pueblo Transit,Colorado,80007,manual_override,100.0,80007,"City of Pueblo, dba: Pueblo Transit",CO,False,True
+Colorado__Regional_Transportation_District_(RTD)__mdb_mdb-178,Regional Transportation District,Colorado,80006,manual_override,100.0,80006,"Denver Regional Transportation District, dba: RTD-Denver",CO,False,True
+Colorado__Regional_Transportation_District_(RTD)__mdb_mdb-2280,Colorado Department of Transportation,Colorado,80006,manual_override,100.0,80006,"Denver Regional Transportation District, dba: RTD-Denver",CO,False,True
+Colorado__Regional_Transportation_District__mdb_mdb-2054,Regional Transportation District,Colorado,80006,manual_override,100.0,80006,"Denver Regional Transportation District, dba: RTD-Denver",CO,False,True
+Colorado__RoadrunnerTransit__mdb_mdb-805,Road Runner Transit,Colorado,80189,manual_override,100.0,80189,"Southern Colorado Community Action Agency, Inc., dba: Road Runner Transit / Ignacio Senior Center",CO,False,True
+Colorado__Roaring_Fork_Transportation_Authority__mdb_mdb-2278,RFTA,Colorado,80289,manual_override,100.0,80289,Roaring Fork Transportation Authority,CO,False,True
+Colorado__Rocky_Mountain_National_Park__mdb_mdb-3211,Rocky Mountain National Park Shuttles,Colorado,88286,manual_override,100.0,88286,"Mountain Family Center, dba: Grand Seniors Transportation Program",CO,False,True
+Colorado__Rocky_Mountain_National_Park_Shuttles__mdb_mdb-176,Rocky Mountain National Park Shuttles,Colorado,88286,manual_override,100.0,88286,"Mountain Family Center, dba: Grand Seniors Transportation Program",CO,False,True
+Colorado__Routt_County_Council_on_Aging_(RCCOCA)_Transportation__mdb_mdb-2178,RCCOA Transportation,Colorado,88292,manual_override,100.0,88292,Routt County Council on Aging,CO,False,True
+Colorado__San_Miguel_County__mdb_mdb-2195,Town of Mountain Village | Town of Telluride | SMART,Colorado,88294,manual_override,100.0,88294,"San Miguel Authority for Regional Transportation, dba: SMART",CO,False,True
+Colorado__Snowmass_Village_Transportation__mdb_mdb-164,Snowmass,Colorado,80263,manual_override,100.0,80263,"Town of Snowmass Village, dba: Village Shuttle",CO,False,True
+Colorado__South_Central_Council_of_Governments_(SCCOG)__mdb_mdb-2181,SCCOG Transit,Colorado,80227,manual_override,100.0,80227,"Huerfano/Las Animas Area Council of Governments, dba: South Central Council of Governments",CO,False,True
+"Colorado__Steamboat_Springs_Transit,_Yellow_Zone__mdb_tld-5757",Steamboat Springs Transit | Yellow Zone,Colorado,80186,manual_override,100.0,80186,"City of Steamboat Springs, dba: Steamboat Springs Transit",CO,False,True
+Colorado__Steamboat_Springs_Transit__mdb_mdb-2051,Steamboat Springs Transit | Yellow Zone,Colorado,80186,manual_override,100.0,80186,"City of Steamboat Springs, dba: Steamboat Springs Transit",CO,False,True
+Colorado__Summit_Stage__mdb_mdb-820,Summit Stage,Colorado,80161,manual_override,100.0,80161,"Summit County, dba: Summit Stage",CO,False,True
+Colorado__Teller_Senior_Coalition_Transit_(TSC_Transit)__mdb_mdb-827,TSC Transit,Colorado,88230,manual_override,100.0,88230,"Teller Senior Coalition, dba: TSC Transit",CO,False,True
+Colorado__Town_of_Estes_Park__mdb_mdb-177,Estes Transit,Colorado,88281,manual_override,100.0,88281,"Town of Estes Park, dba: The Peak",CO,False,True
+Colorado__Town_of_Telluride__mdb_mdb-2050,Town of Mountain Village | Town of Telluride | SMART,Colorado,88294,manual_override,100.0,88294,"San Miguel Authority for Regional Transportation, dba: SMART",CO,False,True
+Colorado__University_of_Colorado_Boulder__mdb_mdb-181,University of Colorado Boulder,Colorado,88287,manual_override,100.0,88287,City of Aspen,CO,False,True
+Colorado__Upper_Arkansas_Area_Council_of_Governments__mdb_mdb-2188,Fremont County Transit | Wet Mountain Valley Rotary Van Service,Colorado,80274,manual_override,100.0,80274,"Canon City Golden Age Council, Inc, dba: Fremont County Transit",CO,False,True
+Colorado__Vail_Transit__mdb_mdb-174,Vail Transit,Colorado,88298,manual_override,100.0,88298,"Town of Vail, dba: Vail Transit",CO,False,True
+Colorado__Via_Mobility__mdb_mdb-2395,Via Mobility Services,Colorado,80285,manual_override,100.0,80285,"Via Mobility Services, dba: Via",CO,False,True
+Colorado__Winter_Park_Transit__mdb_mdb-175,The Lift,Colorado,88225,manual_override,100.0,88225,"Town of Winter Park, dba: The Lift",CO,False,True
+Connecticut__Connecticut_Transit__mdb_mdb-2840,CONN DOT,Connecticut,10156,manual_override,100.0,10156,Northeastern Connecticut Transit District,CT,False,True
+Connecticut__Connecticut_Transit__mdb_mdb-553,CTtransit | CTTransit - New Britain | CTTransit - Waterbury-Meriden | CTTransit- New Haven | CTTransit- Hartford | CTTransit- Stamford,Connecticut,10156,manual_override,100.0,10156,Northeastern Connecticut Transit District,CT,False,True
+Connecticut__Greater_Bridgeport_Transit__mdb_mdb-530,Greater Bridgeport Transit,Connecticut,10050,manual_override,100.0,10050,Greater Bridgeport Transit Authority,CT,False,True
+Connecticut__Housatonic_Area_Regional_Transit__mdb_tld-4385,HARTransit,Connecticut,10051,manual_override,100.0,10051,"Housatonic Area Regional Transit, dba: HARTransit",CT,False,True
+Connecticut__Metro-North_Railroad__mdb_mdb-524,Metro-North Railroad,Connecticut,20078,manual_override,100.0,20078,"Metro-North Commuter Railroad Company, dba: MTA Metro-North Railroad",NY,False,True
+Connecticut__Middletown_Area_Transit_(MAT)__mdb_mdb-551,River Valley Transit,Connecticut,10140,manual_override,100.0,10140,"Estuary Transit District, dba: River Valley Transit",CT,False,True
+Connecticut__Milford_Transit_District__mdb_ntd-10107,Milford Transit District,Connecticut,10107,manual_override,100.0,10107,Milford Transit District,CT,False,True
+Connecticut__Norwalk_Transit_System_(NTS)__mdb_mdb-2242,Norwalk Transit District,Connecticut,10057,manual_override,100.0,10057,Norwalk Transit District,CT,False,True
+Connecticut__Pioneer_Valley_Transit_Authority_(PVTA)__mdb_mdb-2416,Pioneer Valley Transit Authority | Link413,Connecticut,10042,manual_override,100.0,10042,Valley Transit District,CT,False,True
+Connecticut__River_Valley_Transit__mdb_tld-5750,River Valley Transit,Connecticut,10140,manual_override,100.0,10140,"Estuary Transit District, dba: River Valley Transit",CT,False,True
+Connecticut__Southeast_Area_Transit_District__mdb_mdb-2240,Southeast Area Transit District,Connecticut,10040,manual_override,100.0,10040,Southeast Area Transit District,CT,False,True
+Connecticut__University_of_Connecticut_(UCONN___WRTD)__mdb_tld-4473,University of Connecticut (UCONN / WRTD),Connecticut,11217,manual_override,100.0,11217,Town of Cheshire,CT,False,True
+Delaware__Delaware_Transit_Corporation_(DART_First_State)__mdb_mdb-1235,Dart First State,Delaware,30075,manual_override,100.0,30075,Delaware Transit Corporation,DE,False,True
+Delaware__Southeastern_Pennsylvania_Transportation_Authority_(SEPTA)__mdb_mdb-502,SEPTA,Delaware,30075,manual_override,100.0,30075,Delaware Transit Corporation,DE,False,True
+Delaware__Southeastern_Pennsylvania_Transportation_Authority_(SEPTA)__mdb_mdb-503,SEPTA,Delaware,30075,manual_override,100.0,30075,Delaware Transit Corporation,DE,False,True
+District_of_Columbia__Fairfax_Connector__mdb_mdb-483,Fairfax Connector,District_of_Columbia,30068,manual_override,100.0,30068,"Fairfax County, VA, dba: Fairfax Connector Bus System",VA,False,True
+District_of_Columbia__Maryland_Transit_Administration__mdb_mdb-467,Maryland Transit Administration,District_of_Columbia,30034,manual_override,100.0,30034,"Maryland Transit Administration, dba: MTA",MD,False,True
+District_of_Columbia__Maryland_Transit_Administration__mdb_mdb-468,Maryland Transit Administration,District_of_Columbia,30034,manual_override,100.0,30034,"Maryland Transit Administration, dba: MTA",MD,False,True
+District_of_Columbia__Virginia_Breeze__mdb_mdb-3506,"Virginia Breeze, Operated by Academy | Virginia Breeze, Operated by Dillon's",District_of_Columbia,31026,manual_override,100.0,31026,"Dillion's Bus Service, Inc., dba: Virginia Breeze Bus",MD,False,True
+District_of_Columbia__Virginia_Railway_Express__mdb_tld-61,Virginia Railway Express,District_of_Columbia,30073,manual_override,100.0,30073,Virginia Railway Express,VA,False,True
+District_of_Columbia__Washington_Metropolitan_Area_Transit_Authority_(WMATA)__mdb_mdb-1846,WMATA,District_of_Columbia,30030,manual_override,100.0,30030,"Washington Metropolitan Area Transit Authority, dba: Washington Metro",DC,False,True
+District_of_Columbia__Washington_Metropolitan_Area_Transit_Authority_(WMATA)__mdb_mdb-1847,WMATA,District_of_Columbia,30030,manual_override,100.0,30030,"Washington Metropolitan Area Transit Authority, dba: Washington Metro",DC,False,True
+Florida__Brightline_Trains_LLC__mdb_mdb-1126,Brightline | Event Train,Florida,41095,manual_override,100.0,41095,Florida Department of Transportation,FL,False,True
+Florida__Broward_County_Transit__mdb_mdb-330,Broward County Transit,Florida,40029,manual_override,100.0,40029,"Broward County Board of County Commissioners, dba: Broward County Transit Division",FL,False,True
+Florida__Central_Florida_Regional_Transit_Authority_(LYNX)__mdb_mdb-347,Central Florida Regional Transit Authority,Florida,40035,manual_override,100.0,40035,Central Florida Regional Transportation Authority,FL,False,True
+Florida__City_of_Miami_Beach__mdb_mdb-2322,City of Miami Beach,Florida,41199,manual_override,100.0,41199,"Board of County Commissioners of St. Lucie County, dba: Area Regional Transit",FL,False,True
+Florida__City_of_Miami_Gardens__mdb_mdb-2323,City of Miami Gardens,Florida,41199,manual_override,100.0,41199,"Board of County Commissioners of St. Lucie County, dba: Area Regional Transit",FL,False,True
+Florida__Collier_Area_Transit_(CAT)__mdb_mdb-2259,CAT,Florida,40140,manual_override,100.0,40140,"Collier County, dba: Collier Area Transit",FL,False,True
+Florida__Dry_Tortugas_National_Park__mdb_mdb-3207,National Park Service,Florida,40261,manual_override,100.0,40261,"City of Dania Beach, dba: Community Bus Service",FL,False,True
+Florida__Florida_Department_of_Transportation_(SunRail)__mdb_mdb-626,Florida Department of Transportation,Florida,41095,manual_override,100.0,41095,Florida Department of Transportation,FL,False,True
+Florida__Fort_Matanzas_National_Monument__mdb_tld-6905,National Park Service,Florida,40261,manual_override,100.0,40261,"City of Dania Beach, dba: Community Bus Service",FL,False,True
+Florida__Gulf_Islands_National_Seashore__mdb_mdb-3209,National Park Service,Florida,40261,manual_override,100.0,40261,"City of Dania Beach, dba: Community Bus Service",FL,False,True
+Florida__Hendry_County_Transit_System__mdb_tld-7914,Hendry County Transit System,Florida,41199,manual_override,100.0,41199,"Board of County Commissioners of St. Lucie County, dba: Area Regional Transit",FL,False,True
+Florida__Hillsborough_Area_Regional_Transit_(HART)__mdb_mdb-325,Hillsborough Area Regional Transit | Tampa International Airport,Florida,40041,manual_override,100.0,40041,Hillsborough Area Regional Transit Authority,FL,False,True
+Florida__I-RIDE_Trolley_(I-RIDE)__mdb_mdb-1143,I-Ride Trolley,Florida,40920,manual_override,100.0,40920,Ride Solution,FL,False,True
+Florida__Indian_River_Transit__mdb_ntd-40104,Indian River Transit,Florida,41199,manual_override,100.0,41199,"Board of County Commissioners of St. Lucie County, dba: Area Regional Transit",FL,False,True
+Florida__Jacksonville_Transportation_Authority__mdb_tld-764,Jacksonville Transportation Authority,Florida,40040,manual_override,100.0,40040,Jacksonville Transportation Authority,FL,False,True
+Florida__Lake_County_Connection__mdb_mdb-2255,LakeXpress,Florida,40158,manual_override,100.0,40158,"Lake County Board of County Commissioners, dba: LakeXpress",FL,False,True
+Florida__Lakeland_Area_Mass_Transit_District__mdb_tld-5899,Citrus Connection,Florida,40031,manual_override,100.0,40031,"Lakeland Area Mass Transit District, dba: Citrus Connection",FL,False,True
+Florida__LauderGO!_Water_Trolley__mdb_ntd-44929,LauderGO! Water Trolley,Florida,90225,manual_override,100.0,90225,"San Francisco Bay Area Water Emergency Transportation Authority, dba: San Francisco Bay Ferry",CA,False,True
+Florida__LeeTran__mdb_mdb-324,LeeTran,Florida,40028,manual_override,100.0,40028,"Lee County, dba: LeeTran",FL,False,True
+Florida__Manatee_County_Area_Transit__mdb_mdb-2258,Manatee County Area Transit,Florida,40026,manual_override,100.0,40026,"Manatee County Board of County Commissioners, dba: Manatee County Area Transit",FL,False,True
+Florida__Martin_County_Public_Transit__mdb_tld-4506,Martin County,Florida,40192,manual_override,100.0,40192,Martin County,FL,False,True
+Florida__Miami-Dade_Transit__mdb_mdb-331,Miami-Dade Transit,Florida,41199,manual_override,100.0,41199,"Board of County Commissioners of St. Lucie County, dba: Area Regional Transit",FL,False,True
+Florida__National_Park_Service__mdb_tld-6676,National Park Service,Florida,40261,manual_override,100.0,40261,"City of Dania Beach, dba: Community Bus Service",FL,False,True
+Florida__Palm_Tran__mdb_mdb-332,Palm Tran,Florida,40037,manual_override,100.0,40037,"Board of County Commissioners, Palm Beach County, dba: Palm Tran, Inc.",FL,False,True
+Florida__Sarasota_County_Area_Transit_(SCAT)__mdb_mdb-348,Space Coast Area Transit,Florida,40063,manual_override,100.0,40063,"Brevard Board of County Commissioners, dba: Space Coast Area Transit",FL,False,True
+Florida__South_Florida_Regional_Transportation_Authority_(Tri-Rail)__mdb_mdb-333,Tri-Rail,Florida,40077,manual_override,100.0,40077,"South Florida Regional Transportation Authority, dba: Tri-Rail",FL,False,True
+Florida__South_Florida_Regional_Transportation_Authority__mdb_tld-492,Tri-Rail,Florida,40077,manual_override,100.0,40077,"South Florida Regional Transportation Authority, dba: Tri-Rail",FL,False,True
+Florida__Space_Coast_Area_Transit__mdb_ntd-40063,Space Coast Area Transit,Florida,40063,manual_override,100.0,40063,"Brevard Board of County Commissioners, dba: Space Coast Area Transit",FL,False,True
+Florida__USF_Bull_Runner__mdb_mdb-329,USF Bull Runner,Florida,80189,manual_override,100.0,80189,"Southern Colorado Community Action Agency, Inc., dba: Road Runner Transit / Ignacio Senior Center",CO,False,True
+Georgia__Athens_Clarke_County_Transit__mdb_tld-4777,Athens Clarke County Transit,Georgia,40047,manual_override,100.0,40047,"Athens-Clarke County Unified Government, dba: Athens-Clarke County Transit Department",GA,False,True
+"Georgia__City_of_Hinesville,_Georgia__mdb_ntd-40193",Liberty Transit,Georgia,40193,manual_override,100.0,40193,"City of Hinesville, Georgia, dba: Liberty Transit",GA,False,True
+Georgia__CobbLinc__mdb_mdb-3193,CobbLinc,Georgia,40078,manual_override,100.0,40078,"Cobb County, dba: CobbLinc",GA,False,True
+Georgia__Concho_Valley_Transit_District__mdb_tld-5864,Concho Valley Transit,Georgia,44945,manual_override,100.0,44945,"North Georgia Community Action, Inc., dba: Mountain Area Transit System (MATS)",GA,False,True
+Georgia__Connect_Douglas__mdb_tld-5551,Connect Douglas,Georgia,40082,manual_override,100.0,40082,"County of Douglas, dba: Connect Douglas",GA,False,True
+Georgia__Georgia_Tech_Stinger_Bus__mdb_tld-478_1,Georgia Institute of Technology,Georgia,44982,manual_override,100.0,44982,"Southern Georgia Regional Commission, dba: SGRC",GA,False,True
+Georgia__Gwinnett_County_Transit__mdb_mdb-2241,Ride Gwinnett,Georgia,40138,manual_override,100.0,40138,"Gwinnett County Board of Commissioners, dba: Ride Gwinnett",GA,False,True
+Georgia__METRA__mdb_ntd-40024,METRA,Georgia,50118,manual_override,100.0,50118,"Northeast Illinois Regional Commuter Railroad Corporation, dba: Metra",IL,False,True
+Georgia__Rochester_Institute_of_Technology__mdb_tld-5863,Rochester Institute of Technology (RIT),Georgia,41149,manual_override,100.0,41149,City of Americus,GA,False,True
+Georgia__University_of_Georgia__mdb_tld-2276,University of Georgia (UGA),Georgia,40180,manual_override,100.0,40180,"University of Georgia, dba: Transportation and Parking Services",GA,False,True
+Hawaii__Maui_County_Transit__mdb_ntd-90241,Maui County Transit,Hawaii,90241,manual_override,100.0,90241,County of Maui,HI,False,True
+Hawaii__The_Kauai_Bus__mdb_ntd-90237,The Kauai Bus,Hawaii,90237,manual_override,100.0,90237,"County of Kaua'i, dba: Kaua'i Bus",HI,False,True
+Hawaii__TheBus__mdb_mdb-2350,TheBus | Skyline,Hawaii,90002,manual_override,100.0,90002,City and County of Honolulu,HI,False,True
+Idaho__Citylink_North_(Kootenai_County)__mdb_tld-4791,Citylink North (Kootenai County),Idaho,00055,manual_override,100.0,00055,"Kootenai County, dba: Citylink North",ID,False,True
+Idaho__Citylink_South_(Kootenai_County)__mdb_tld-4792,Citylink South (Kootenai County),Idaho,00055,manual_override,100.0,00055,"Kootenai County, dba: Citylink North",ID,False,True
+Idaho__Lewiston_Transit_System_and_Asotin_County_Public_Transportation_Benefit_Area_(PTBA)__mdb_mdb-2298,Lewiston Transit System | Asotin County PTBA,Idaho,00048,manual_override,100.0,00048,"City of Lewiston, dba: Lewiston Transit System",ID,False,True
+Idaho__Mountain_Rides_Transportation_Authority_(MRTA)__mdb_mdb-2282,Mountain Rides Transportation Authority,Idaho,00311,manual_override,100.0,00311,Mountain Rides Transportation Authority,ID,False,True
+Idaho__Pocatello_Regional_Transit__mdb_mdb-171,Pocatello Regional Transit,Idaho,00022,manual_override,100.0,00022,"City of Pocatello, dba: Pocatello Regional Transit",ID,False,True
+Idaho__Valley_Regional_Transit__mdb_mdb-142,Valley Regional Transit,Idaho,00011,manual_override,100.0,00011,Valley Regional Transit,ID,False,True
+Illinois__Champaign-Urbana_Mass_Transit_District__mdb_ntd-50060,Champaign Urbana Mass Transit District,Illinois,50060,manual_override,100.0,50060,Champaign-Urbana Mass Transit District,IL,False,True
+Illinois__Chicago_Transit_Authority_(CTA)__mdb_mdb-389,Chicago Transit Authority,Illinois,50066,manual_override,100.0,50066,Chicago Transit Authority,IL,False,True
+Illinois__Chicago_Water_Taxi__mdb_mdb-306,Chicago Water Taxi,Illinois,50521,manual_override,100.0,50521,Chicago Water Taxi (Wendella),IL,False,True
+Illinois__City_of_Galesburg__mdb_ntd-50502,Galesburg Public Transportation,Illinois,50502,manual_override,100.0,50502,"City of Galesburg, dba: City of Galesburg Public Transportation",IL,False,True
+Illinois__Connect_Transit__mdb_mdb-2267,Connect Transit,Illinois,50047,manual_override,100.0,50047,"Bloomington-Normal Public Transit System, dba: Connect Transit",IL,False,True
+Illinois__Decatur_Public_Transit_System__mdb_tld-7036,Decatur Public Transit System,Illinois,50061,manual_override,100.0,50061,"City of Decatur, Il, dba: Decatur Public Transit System",IL,False,True
+Illinois__DeKalb_Public_Transit__mdb_mdb-308,DeKalb Public Transit,Illinois,50176,manual_override,100.0,50176,"City of DeKalb, dba: City of DeKalb Public Transit",IL,False,True
+Illinois__Greater_Peoria_Mass_Transit_(CityLink)__mdb_mdb-2208,CityLink,Illinois,50056,manual_override,100.0,50056,"Greater Peoria Mass Transit District, dba: CityLink",IL,False,True
+Illinois__JAX_Mass_Transit_District__mdb_mdb-3408,JAX Mass Transit,Illinois,50414,manual_override,100.0,50414,West Central Mass Transit District,IL,False,True
+Illinois__Metra__mdb_mdb-2854,,Illinois,50118,manual_override,100.0,50118,"Northeast Illinois Regional Commuter Railroad Corporation, dba: Metra",IL,False,True
+Illinois__Pace_Bus__mdb_mdb-2347,PACE,Illinois,50182,manual_override,100.0,50182,"Pace, the Suburban Bus Division of the Regional Transportation Authority, dba: Pace Suburban Bus",IL,False,True
+Illinois__South_Shore_Line__mdb_mdb-585,Northern Indiana Commuter Transportation District,Illinois,55307,manual_override,100.0,55307,"Sangamon County, dba: Sangamon/Menard Area Regional Transit",IL,False,True
+Illinois__Springfield_Mass_Transit_District_(SMTD)__mdb_mdb-3187,SMTD,Illinois,50059,manual_override,100.0,50059,"Springfield Mass Transit District, dba: Sangamon Mass Transit District",IL,False,True
+Illinois__University_of_Chicago__mdb_tld-4472,University of Chicago,Illinois,50569,manual_override,100.0,50569,Chicago State University,IL,False,True
+Indiana__Bloomington_Transit__mdb_mdb-2066,Bloomington Transit,Indiana,50110,manual_override,100.0,50110,"Bloomington Public Transportation Corporation, dba: Bloomington Transit",IN,False,True
+"Indiana__Central_Indiana_Regional_Transportation_Authority,_Access_Johnson_County__mdb_ntd-50209",Central Indiana Regional Transportation Authority | Access Johnson County,Indiana,50256,manual_override,100.0,50256,Access Johnson County,IN,False,True
+Indiana__Citilink__mdb_mdb-2266,Citilink,Indiana,50044,manual_override,100.0,50044,"Fort Wayne Public Transportation Corporation, dba: Citilink",IN,False,True
+Indiana__City_of_Kokomo__mdb_ntd-50145,City-Line Trolley,Indiana,50145,manual_override,100.0,50145,City of Kokomo,IN,False,True
+Indiana__CityBus_of_Greater_Lafayette_Indiana_(CityBus)__mdb_mdb-391,CityBus Root,Indiana,50051,manual_override,100.0,50051,"Greater Lafayette Public Transportation Corporation, dba: CityBus",IN,False,True
+Indiana__Gary_Public_Transportation_Corporation__mdb_tld-4129,Gary Public Transportation Corp,Indiana,50045,manual_override,100.0,50045,Gary Public Transportation Corporation,IN,False,True
+Indiana__Interurban_Trolley__mdb_mdb-571,Interurban Trolley (MACOG) | Kosciusko Area Bus Service,Indiana,50289,manual_override,100.0,50289,"Cardinal Services, dba: Kosciusko Area Bus Service",IN,False,True
+Indiana__South_Bend_Public_Transportation_Corporation__mdb_tld-7019,"Transpo (South Bend, IN)",Indiana,50052,manual_override,100.0,50052,"South Bend Public Transportation Corporation, dba: Transpo",IN,False,True
+Indiana__Transit_Authority_of_River_City_(TARC)__mdb_mdb-2662,Transit Authority of River City,Indiana,55676,manual_override,100.0,55676,"Adams County Council on Aging, dba: Adams County Public Transit",IN,False,True
+Indiana__Valparaiso_Transit__mdb_mdb-620,Valparaiso Transit,Indiana,50183,manual_override,100.0,50183,"City of Valparaiso, dba: Valpo Transit",IN,False,True
+Iowa__10-15_Transit__mdb_mdb-195,10-15 Transit,Iowa,70242,manual_override,100.0,70242,"10-15 Regional Transit Agency, dba: 10-15 Transit",IA,False,True
+Iowa__Bettendorf_Transit__mdb_mdb-1826,City of Bettendorf,Iowa,70007,manual_override,100.0,70007,"City of Bettendorf, dba: Bettendorf Transit System",IA,False,True
+Iowa__Burlington_Urban_Service__mdb_mdb-199,Burlington Urban Service,Iowa,70111,manual_override,100.0,70111,"City of Burlington, dba: Burlington Urban Service",IA,False,True
+Iowa__Cedar_Rapids_Transit__mdb_mdb-198,Cedar Rapids Transit,Iowa,70008,manual_override,100.0,70008,"City of Cedar Rapids, dba: Cedar Rapids Transit",IA,False,True
+Iowa__Clinton_Municipal_Transit_Administration_(Clinton_MTA)__mdb_mdb-202,Clinton MTA,Iowa,70240,manual_override,100.0,70240,"Regional Transit Authority, dba: Rides",IA,False,True
+Iowa__Coralville_Transit__mdb_mdb-196,Coralville Transit,Iowa,70030,manual_override,100.0,70030,"City of Coralville, dba: Coralville Transit System",IA,False,True
+Iowa__CorridorRides__mdb_mdb-316,CorridorRides,Iowa,70138,manual_override,100.0,70138,"East Central Iowa Council of Governments, dba: Corridor Rides",IA,False,True
+Iowa__CyRide__mdb_mdb-923,CyRide,Iowa,70041,manual_override,100.0,70041,"Ames Transit Agency, dba: CyRide",IA,False,True
+Iowa__Des_Moines_Area_Regional_Transit_Authority_(DART)__mdb_mdb-193,Des Moines Area Regional Transit Authority,Iowa,70010,manual_override,100.0,70010,Des Moines Area Regional Transit Authority,IA,False,True
+Iowa__Dodger_Area_Rapid_Transit__mdb_mdb-203,Dodger Area Rapid Transit,Iowa,70108,manual_override,100.0,70108,"City of Fort Dodge, dba: Dodger Area Rapid Transit",IA,False,True
+Iowa__Iowa_City_Transit_System__mdb_mdb-559,Iowa City Transit System,Iowa,70018,manual_override,100.0,70018,"City of Iowa City, dba: Iowa City Transit",IA,False,True
+Iowa__Marshalltown_Municipal_Transit__mdb_mdb-194,Marshalltown Municipal Transit,Iowa,70092,manual_override,100.0,70092,"City of Marshalltown, dba: Marshalltown Municipal Transit",IA,False,True
+Iowa__Mason_City_Public_Transit__mdb_mdb-204,Mason City Public Transit,Iowa,70260,manual_override,100.0,70260,"City of Mason City, dba: Mason City Transit",IA,False,True
+Iowa__Metropolitan_Transit_Authority_of_Black_Hawk_County__mdb_mdb-2414,Metropolitan Transit Authority of Black Hawk County,Iowa,70013,manual_override,100.0,70013,"Metropolitan Transit Authority of Black Hawk County, dba: MET Transit",IA,False,True
+Iowa__MuscaBus__mdb_mdb-200,MuscaBus,Iowa,70101,manual_override,100.0,70101,"City of Muscatine, dba: MuscaBus",IA,False,True
+Iowa__Sioux_City_Transit_System__mdb_mdb-191,Sioux City Transit System,Iowa,70012,manual_override,100.0,70012,"City of Sioux City, dba: Sioux City Transit System",IA,False,True
+Iowa__The_Jule__mdb_mdb-2083,The Jule,Iowa,70011,manual_override,100.0,70011,"City of Dubuque, dba: The Jule",IA,False,True
+Iowa__University_of_Iowa_-_CAMBUS_(CAMBUS)__mdb_mdb-197,University of Iowa - CAMBUS,Iowa,70019,manual_override,100.0,70019,University of Iowa,IA,False,True
+Kansas__Developmental_Services_of_NW_Kansas_ACCESS_Transportation__mdb_ntd-70060,Developmental Services of NW Kansas/ACCESS Transportation,Kansas,70060,manual_override,100.0,70060,"Developmental Services of Northwest Kansas, Inc., dba: Access Transportation",KS,False,True
+Kansas__Flint_Hills_Area_Transportation_Agency__mdb_tld-4273,Flint Hills ATA,Kansas,70053,manual_override,100.0,70053,"Flint Hills Area Transportation Agency, Inc, dba: ATABUS",KS,False,True
+Kansas__Johnson_County_Transit__mdb_mdb-2303,RideKC Johnson County,Kansas,70035,manual_override,100.0,70035,"Johnson County Kansas, dba: Johnson County Transit",KS,False,True
+Kansas__Kansas_City_Area_Transportation_Authority_(KCATA)__mdb_mdb-187,Kansas City Area Transportation Authority,Kansas,77079,manual_override,100.0,77079,"Northeast Kansas Area Agency on Aging, dba: NEKAAA General Public Transportation",KS,False,True
+Kansas__KU_on_Wheels_&_Lawrence_Transit_System__mdb_mdb-2063,Lawrence Transit,Kansas,70048,manual_override,100.0,70048,"City of Lawrence, dba: Lawrence Transit",KS,False,True
+Kansas__KU_on_Wheels_&_Lawrence_Transit_System__mdb_tld-1039,Lawrence Transit,Kansas,70048,manual_override,100.0,70048,"City of Lawrence, dba: Lawrence Transit",KS,False,True
+Kansas__Reno_County_Area_Transit__mdb_tld-6670,Reno County Area Transit,Kansas,70180,manual_override,100.0,70180,"Reno County, dba: Reno County Area Transit",KS,False,True
+Kansas__Topeka_Metro__mdb_tld-1660_1,Topeka Metro,Kansas,70014,manual_override,100.0,70014,"Topeka Metropolitan Transit Authority, dba: Topeka Metro",KS,False,True
+Kentucky__Blue_Grass_Community_Action_Partnership__mdb_mdb-362,Bluegrass Ride,Kentucky,40948,manual_override,100.0,40948,Bluegrass Community Action Agency,KY,False,True
+Kentucky__City_of_Bowling_Green__mdb_ntd-40184,GOBG Transit,Kentucky,40184,manual_override,100.0,40184,"City of Bowling Green, dba: GOBG Transit",KY,False,True
+Kentucky__City_of_Maysville__mdb_ntd-41032,City of Maysville,Kentucky,41032,manual_override,100.0,41032,"City of Maysville, dba: Maysville City Transit",KY,False,True
+Kentucky__Lextran__mdb_mdb-2067,Lextran,Kentucky,40017,manual_override,100.0,40017,"Lexington Transit Authority, dba: Lextran",KY,False,True
+Kentucky__Transit_Authority_of_Northern_Kentucky_(TANK)__mdb_mdb-2068,Transit Authority of Northern Kentucky,Kentucky,40019,manual_override,100.0,40019,Transit Authority of Northern Kentucky,KY,False,True
+Louisiana__Capital_Area_Transit_System_(CATS)__mdb_mdb-2065,Baton Rouge Area Capital Transit System,Louisiana,60022,manual_override,100.0,60022,Capital Area Transit System,LA,False,True
+Louisiana__Good_Earth_Transit__mdb_ntd-60080,Good Earth Transit,Louisiana,60080,manual_override,100.0,60080,"Terrebonne Parish Consolidated Government, dba: Good Earth Transit",LA,False,True
+Louisiana__Lake_Charles_Transit__mdb_ntd-60023,City of Lake Charles Transit,Louisiana,60023,manual_override,100.0,60023,"City of Lake Charles, dba: City Of Lake Charles Transit",LA,False,True
+Louisiana__New_Orleans_Regional_Transit_Authority_(NORTA)__mdb_ntd-60032,NORTA,Louisiana,60032,manual_override,100.0,60032,New Orleans Regional Transit Authority,LA,False,True
+Louisiana__Shreveport_and_Bossier_City__mdb_mdb-1060,"Shreveport and Bossier City, Louisiana",Louisiana,60276,manual_override,100.0,60276,"Plaquemines Port, Harbor and Terminal District",LA,False,True
+Louisiana__St._Bernard_Parish__mdb_ntd-60058,St. Bernard Urban Rapid Transit,Louisiana,60058,manual_override,100.0,60058,"St. Bernard Parish, dba: St. Bernard Urban Rapid Transit",LA,False,True
+Maine__Acadia_National_Park__mdb_tld-6900,Downeast Transportation,Maine,10175,manual_override,100.0,10175,"Downeast Transportation, Inc., dba: Downeast",ME,False,True
+Maine__Bangor_Community_Connector__mdb_tld-7824,City of Bangor,Maine,10096,manual_override,100.0,10096,"City of Bangor, dba: Community Connector",ME,False,True
+Maine__Biddeford_Saco_Old_Orchard_Beach_Transit__mdb_tld-4756,Biddeford  Saco  Old Orchard Beach Transit,Maine,10114,manual_override,100.0,10114,"Biddeford-Saco-Old Orchard Beach Transit Committee Shuttle Bus, dba: BSOOB Transit",ME,False,True
+Maine__Greater_Portland_Metro_Bus__mdb_mdb-2642,Greater Portland Metro,Maine,10016,manual_override,100.0,10016,"Greater Portland Transit District, dba: METRO",ME,False,True
+Maine__Lakes_Region_Explorer__mdb_mdb-452,Lakes Region Explorer,Maine,10142,manual_override,100.0,10142,"Aroostook Regional Transportation Systems, Inc., dba: Aroostook Regional Transportation Systems",ME,False,True
+Maine__West's_Bus_Service__mdb_tld-7870,West's Transportation,Maine,11153,manual_override,100.0,11153,West's Transportation - Intercity Bus,ME,False,True
+Maryland__Annapolis_Transit__mdb_mdb-2285,Annapolis Transit,Maryland,30040,manual_override,100.0,30040,"City of Annapolis, dba: Annapolis Transit",MD,False,True
+Maryland__Cecil_Transit__mdb_mdb-3178,Cecil Transit,Maryland,30108,manual_override,100.0,30108,"Cecil County Government, dba: Cecil Transit",MD,False,True
+Maryland__Frederick_County_TransIT__mdb_mdb-2432,Transit Services of Frederick County,Maryland,30072,manual_override,100.0,30072,"Frederick County, Maryland, dba: TransIt Services of Frederick",MD,False,True
+Maryland__Harbor_Connector__mdb_mdb-618,Harbor Connector,Maryland,60276,manual_override,100.0,60276,"Plaquemines Port, Harbor and Terminal District",LA,False,True
+Maryland__Maryland_Transit_Administration__mdb_mdb-466,Maryland Transit Administration,Maryland,30034,manual_override,100.0,30034,"Maryland Transit Administration, dba: MTA",MD,False,True
+Maryland__Maryland_Transit_Administration__mdb_mdb-469,Maryland Transit Administration,Maryland,30034,manual_override,100.0,30034,"Maryland Transit Administration, dba: MTA",MD,False,True
+Maryland__Maryland_Transit_Administration_Metro_Subway__mdb_mdb-470,Maryland Transit Administration,Maryland,30034,manual_override,100.0,30034,"Maryland Transit Administration, dba: MTA",MD,False,True
+Maryland__Montgomery_County_Department_of_Transportation_(Ride_On)__mdb_mdb-488,Montgomery County MD Ride On,Maryland,30051,manual_override,100.0,30051,"Montgomery County, Maryland, dba: Ride On",MD,False,True
+Maryland__Prince_George's_County_(The_Bus)__mdb_mdb-477,TheBus,Maryland,31026,manual_override,100.0,31026,"Dillion's Bus Service, Inc., dba: Virginia Breeze Bus",MD,False,True
+Maryland__rabbittransit__mdb_tld-223,rabbittransit,Maryland,30206,manual_override,100.0,30206,"Susquehanna Regional Transportation Authority, dba: rabbittransit",PA,False,True
+Maryland__Regional_Transportation_Agency_of_Central_Maryland_(RTA)__mdb_mdb-489,Regional Transportation Agency of Central Maryland,Maryland,30205,manual_override,100.0,30205,"Transit Management of Central Maryland, Inc., dba: Regional Transportation Agency of Central Maryland",MD,False,True
+Maryland__Saint_Maryʼs_Transit_System__mdb_mdb-2268,St. Mary's Transit System,Maryland,30109,manual_override,100.0,30109,"St. Mary's County Government, dba: St. Mary's Transit System",MD,False,True
+Maryland__Towson_Loop__mdb_mdb-1784,Towson Loop (Baltimore County),Maryland,30186,manual_override,100.0,30186,"The County Commissioners of Caroline County, Maryland, dba: Delmarva Community Transit",MD,False,True
+Maryland__Washington_County_Transit__mdb_mdb-2286,Washington County Transit,Maryland,30042,manual_override,100.0,30042,"Washington County, dba: Washington County Transit",MD,False,True
+Massachusetts__Bay_State_Cruise_Company__mdb_mdb-435,Bay State Cruise Company,Massachusetts,11238,manual_override,100.0,11238,"Bay State LLC, dba: Bay State Cruise Company",MA,False,True
+Massachusetts__Berkshire_Regional_Transit_Authority_(BRTA)__mdb_mdb-537,Link413 | Berkshire Regional Transit Authority,Massachusetts,10007,manual_override,100.0,10007,Berkshire Regional Transit Authority,MA,False,True
+Massachusetts__Block_Island_Ferry__mdb_mdb-554,Block Island Ferry,Massachusetts,90225,manual_override,100.0,90225,"San Francisco Bay Area Water Emergency Transportation Authority, dba: San Francisco Bay Ferry",CA,False,True
+Massachusetts__Blue_Apple_Bus_Company__mdb_mdb-2299,Blue Apple Bus Company,Massachusetts,11245,manual_override,100.0,11245,"Pioneer Valley Transit Authority Intercity Bus, dba: Pioneer Valley Transit Authority",MA,False,True
+Massachusetts__Boston_Harbor_Island_National_Recreation_Area__mdb_mdb-3416,National Park Service,Massachusetts,10004,manual_override,100.0,10004,Brockton Area Transit Authority,MA,False,True
+Massachusetts__Boston_Harbor_Islands_Ferry__mdb_mdb-2679,National Park Service,Massachusetts,99468,manual_override,100.0,99468,Jewish Family Service of San Diego,CA,False,True
+Massachusetts__Brockton_Area_Transit_Authority_(BAT)__mdb_mdb-422,Brockton Area Transit Authority,Massachusetts,10004,manual_override,100.0,10004,Brockton Area Transit Authority,MA,False,True
+Massachusetts__Brockton_Area_Transit_Authority__mdb_ntd-10004,Brockton Area Transit Authority (BAT),Massachusetts,10004,manual_override,100.0,10004,Brockton Area Transit Authority,MA,False,True
+Massachusetts__Cape_Ann_Transportation_Authority_(CATA)__mdb_mdb-447,Cape Ann Transportation Authority,Massachusetts,10053,manual_override,100.0,10053,"Cape Ann Transportation Authority, dba: CATA",MA,False,True
+Massachusetts__Cape_Cod_Regional_Transportation_Authority_(Cape_Cod_RTA)__mdb_mdb-645,Cape Cod Regional Transit Authority,Massachusetts,10105,manual_override,100.0,10105,Cape Cod Regional Transit Authority,MA,False,True
+Massachusetts__Cuttyhunk_Ferry_Company__mdb_mdb-423,Cuttyhunk Ferry Co.,Massachusetts,10176,manual_override,100.0,10176,Plymouth & Brockton Street Railway Co.,MA,False,True
+Massachusetts__Franklin_Regional_Transit_Authority_(FRTA)__mdb_mdb-429,Franklin Regional Transit Authority,Massachusetts,10173,manual_override,100.0,10173,Franklin Regional Transit Authority,MA,False,True
+Massachusetts__Freedom_Cruise_Line__mdb_mdb-425,Freedom Cruise Line,Massachusetts,11239,manual_override,100.0,11239,"Hyannis Harbor Tours, Inc., dba: Hy-Line Cruises",MA,False,True
+Massachusetts__Green_Mountain_Community_Network_(GMCN)__mdb_mdb-539,Green Mountain Express,Massachusetts,80159,manual_override,100.0,80159,Mountain Express,CO,False,True
+Massachusetts__Hy-Line_Cruises__mdb_mdb-427,Hy-Line Cruises,Massachusetts,11239,manual_override,100.0,11239,"Hyannis Harbor Tours, Inc., dba: Hy-Line Cruises",MA,False,True
+Massachusetts__Lowell_Regional_Transit_Authority_(LRTA)__mdb_mdb-444,Lowell Regional Transit Authority,Massachusetts,10005,manual_override,100.0,10005,"Lowell Regional Transit Authority, dba: LRTA",MA,False,True
+Massachusetts__Martha's_Vineyard_Transit_Authority__mdb_mdb-420,Martha's Vineyard Transit Authority,Massachusetts,10145,manual_override,100.0,10145,Martha's Vineyard Transit Authority,MA,False,True
+Massachusetts__Massachusetts_Bay_Transportation_Authority_(MBTA)__mdb_mdb-437,Cape Cod Regional Transit Authority | MBTA,Massachusetts,10105,manual_override,100.0,10105,Cape Cod Regional Transit Authority,MA,False,True
+Massachusetts__Massport__mdb_mdb-441,Logan Express | Massport,Massachusetts,10181,manual_override,100.0,10181,"Town of Lexington, dba: Lexpress",MA,False,True
+Massachusetts__Merrimack_Valley_Regional_Transit_Authority_(MVRTA)__mdb_mdb-445,Merrimack Valley Transit,Massachusetts,10013,manual_override,100.0,10013,"Merrimack Valley Regional Transit Authority, dba: Merrimack Valley Transit",MA,False,True
+Massachusetts__MetroWest_Regional_Transit_Authority_(MWRTA)__mdb_mdb-439,MWRTA,Massachusetts,10118,manual_override,100.0,10118,MetroWest Regional Transit Authority,MA,False,True
+Massachusetts__Middlesex_3_TMA__mdb_mdb-442,Middlesex 3 TMA,Massachusetts,60126,manual_override,100.0,60126,Harris County Improvement District Number 3,TX,False,True
+Massachusetts__Montachusett_Regional_Transit_Authority_(MART)__mdb_mdb-433,Montachusett Regional Transit Authority (MART),Massachusetts,10061,manual_override,100.0,10061,Montachusett Regional Transit Authority,MA,False,True
+Massachusetts__Nantucket_Regional_Transit_Authority_(WAVE)__mdb_mdb-426,the WAVE - Nantucket Regional Transit Authority,Massachusetts,10162,manual_override,100.0,10162,Nantucket Regional Transit Authority,MA,False,True
+Massachusetts__Patriots_Party_Boats__mdb_mdb-424,Patriot Party Boats,Massachusetts,,none,0.0,,,,False,False
+Massachusetts__Plymouth_&_Brockton_Street_Railway_Co__mdb_mdb-556,Plymouth & Brockton Street Railway Co.,Massachusetts,10176,manual_override,100.0,10176,Plymouth & Brockton Street Railway Co.,MA,False,True
+Massachusetts__Rhode_Island_Public_Transit_Authority__mdb_mdb-624,Rhode Island Public Transit Authority,Massachusetts,11245,manual_override,100.0,11245,"Pioneer Valley Transit Authority Intercity Bus, dba: Pioneer Valley Transit Authority",MA,False,True
+Massachusetts__Southeastern_Regional_Transit_Authority_(SRTA)__mdb_mdb-421,Southeastern Regional Transit Authority,Massachusetts,10006,manual_override,100.0,10006,Southeastern Regional Transit Authority,MA,False,True
+Massachusetts__Vineyard_Fast_Ferry__mdb_mdb-419,Vineyard Fast Ferry,Massachusetts,10183,manual_override,100.0,10183,"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority, dba: The Steamship Authority",MA,False,True
+Michigan__Ann_Arbor_Area_Transportation_Authority_(TheRide)__mdb_mdb-415,AAATA,Michigan,50040,manual_override,100.0,50040,Ann Arbor Area Transportation Authority,MI,False,True
+Michigan__Bay_Area_Transportation_Authority__mdb_mdb-2254,Bay Area Transportation Authority,Michigan,50413,manual_override,100.0,50413,Bay Area Transportation Authority,MI,False,True
+Michigan__Bay_Metropolitan_Transit_Authority__mdb_ntd-50029,Bay Metro Transit,Michigan,50029,manual_override,100.0,50029,"Bay Metropolitan Transit Authority, dba: Bay Metro",MI,False,True
+Michigan__Blue_Water_Area_Transit__mdb_tld-7035,Blue Water Area Transit,Michigan,50148,manual_override,100.0,50148,"Blue Water Area Transportation Commission, dba: Blue Water Area Transit",MI,False,True
+Michigan__Capital_Area_Transportation_Authority_(CATA)__mdb_mdb-402,Capital Area Transportation Authority,Michigan,50036,manual_override,100.0,50036,Capital Area Transportation Authority,MI,False,True
+Michigan__Detroit_People_Mover__mdb_mdb-2281,Detroit Transportation Corporation,Michigan,50141,manual_override,100.0,50141,"Detroit Transportation Corporation, dba: Detroit People Mover",MI,False,True
+Michigan__Froggy_Transportation__mdb_mdb-2216,Froggy Transportation,Michigan,55560,manual_override,100.0,55560,"City of Grosse Pointe Farms, dba: Pointe Area Assisted Transportation Services",MI,False,True
+Michigan__Kalamazoo_Metro_Transit__mdb_tld-674,Kalamazoo,Michigan,50029,manual_override,100.0,50029,"Bay Metropolitan Transit Authority, dba: Bay Metro",MI,False,True
+Michigan__Lake_Erie_Transit__mdb_tld-6883,Lake Erie Transit,Michigan,50522,manual_override,100.0,50522,"Lake Erie Transportation Commission, dba: Lake Erie Transit",MI,False,True
+Michigan__Macatawa_Area_Express__mdb_tld-5873,Macatawa Area Express Transportation Authority,Michigan,50184,manual_override,100.0,50184,Macatawa Area Express Transportation Authority,MI,False,True
+Michigan__Mass_Transportation_Authority_Flint__mdb_mdb-2287,Mass Transportation Authority,Michigan,50459,manual_override,100.0,50459,Ludington Mass Transportation Authority,MI,False,True
+Michigan__Muskegon_Area_Transit_System__mdb_tld-4831,Muskegon Area Transit System,Michigan,50037,manual_override,100.0,50037,"County of Muskegon, dba: Muskegon Area Transit System",MI,False,True
+Michigan__Suburban_Mobility_Authority_for_Regional_Transit_(SMART)__mdb_mdb-414,SMART,Michigan,55637,manual_override,100.0,55637,SMART,MI,False,True
+Michigan__The_Rapid__mdb_mdb-400,The Rapid,Michigan,50495,manual_override,100.0,50495,Interurban Transit Authority,MI,False,True
+Michigan__University_of_Michigan_Transit_Services__mdb_mdb-2072,University of Michigan Transportation Services,Michigan,50158,manual_override,100.0,50158,University of Michigan Parking and Transportation Services,MI,False,True
+Minnesota__Brown_County_Heartland_Express__mdb_mdb-2037,Brown County Heartland Express,Minnesota,50384,manual_override,100.0,50384,"Brown County, dba: Brown County Heartland Express",MN,False,True
+Minnesota__Brown_County_Heartland_Express__mdb_mdb-2296,Brown County Heartland Express,Minnesota,50384,manual_override,100.0,50384,"Brown County, dba: Brown County Heartland Express",MN,False,True
+Minnesota__Central_Community_Transit__mdb_mdb-2301,Central Community Transit,Minnesota,55314,manual_override,100.0,55314,"Central Community Transit Joint Powers Board, dba: Central Community Transit",MN,False,True
+Minnesota__Community_Transit__mdb_tld-5761,Community Transit,Minnesota,55326,manual_override,100.0,55326,"United Community Action Partnership, Inc., dba: Community Transit",MN,False,True
+Minnesota__Duluth_Transit__mdb_mdb-301,Duluth Transit Authority,Minnesota,50025,manual_override,100.0,50025,"Duluth Transit Authority, dba: DTA",MN,False,True
+Minnesota__Hiawathaland_Transit__mdb_mdb-2859,Hiawathaland Transit,Minnesota,50510,manual_override,100.0,50510,"Three Rivers Community Action, Inc., dba: Hiawathaland Transit",MN,False,True
+Minnesota__Mankato_Transit_System__mdb_ntd-50205,,Minnesota,50205,manual_override,100.0,50205,"City of Mankato, dba: Mankato Transit System",MN,False,True
+Minnesota__Metro_Transit__mdb_mdb-205,Metro Transit | Metro Transit/Met Council | Met Council | Maple Grove | Plymouth | SouthWest Transit | Airport (MAC) | University of Minnesota,Minnesota,50518,manual_override,100.0,50518,SouthWest Transit,MN,False,True
+Minnesota__Minnesota_Valley_Transit_Authority_(MVTA)__mdb_mdb-206,MVTA,Minnesota,50519,manual_override,100.0,50519,Minnesota Valley Transit Authority,MN,False,True
+Minnesota__SMART__mdb_tld-5753,SMART,Minnesota,88294,manual_override,100.0,88294,"San Miguel Authority for Regional Transportation, dba: SMART",CO,False,True
+Minnesota__St._Cloud_Metropolitan_Transit_Commission__mdb_ntd-50028,Metro Bus,Minnesota,50028,manual_override,100.0,50028,"St. Cloud Metropolitan Transit Commission, dba: Metro Bus",MN,False,True
+Mississippi__City_of_Hattiesburg__mdb_ntd-40060,Hub City Transit,Mississippi,40060,manual_override,100.0,40060,"City of Hattiesburg, dba: Hub City Transit",MS,False,True
+Mississippi__City_of_Jackson_(JTRAN)__mdb_mdb-2652,City of Jackson (JTRAN),Mississippi,40015,manual_override,100.0,40015,"City of Jackson, MS",MS,False,True
+Mississippi__Gulf_Islands_National_Seashore__mdb_mdb-3210,National Park Service,Mississippi,99468,manual_override,100.0,99468,Jewish Family Service of San Diego,CA,False,True
+Mississippi__National_Park_Service__mdb_tld-6677,National Park Service,Mississippi,99468,manual_override,100.0,99468,Jewish Family Service of San Diego,CA,False,True
+Missouri__City_of_Jefferson__mdb_ntd-70043,JeffTran Fixedbus,Missouri,70043,manual_override,100.0,70043,"City of Jefferson, dba: JEFFTRAN",MO,False,True
+Missouri__Metro_St._Louis__mdb_mdb-2035,Metro St. Louis,Missouri,70006,manual_override,100.0,70006,"Bi-State Development Agency of the Missouri-Illinois Metropolitan District, dba: (St. Louis) Metro",MO,False,True
+Montana__Billings_Metropolitan_Transit__mdb_tld-5893,City of Billings MET Transit,Montana,80004,manual_override,100.0,80004,"City of Billings, dba: Billings Metropolitan Transit System",MT,False,True
+Montana__Mountain_Line__mdb_mdb-292,Missoula Urban Transportation District,Montana,80009,manual_override,100.0,80009,"Missoula Urban Transportation District, dba: Mountain Line",MT,False,True
+Montana__Park_County_Transit__mdb_ntd-88293,Park County Transit,Montana,88293,manual_override,100.0,88293,"Park County, dba: Windrider Transit",MT,False,True
+Montana__Streamline__mdb_mdb-295,Streamline,Montana,80235,manual_override,100.0,80235,"Human Resource Development Council District IX, Inc., dba: Galavan / Streamline",MT,False,True
+Montana__Sunny_Valley_Transit_(Demo)__mdb_mdb-3473,Sunny Valley Transit,Montana,80183,manual_override,100.0,80183,"Valley County, dba: Valley County Transit",MT,False,True
+Nebraska__North_Fork_Area_Transit__mdb_tld-4469,North Fork Area Transit,Nebraska,70156,manual_override,100.0,70156,"Community Concern, dba: North Fork Area Transit",NE,False,True
+Nebraska__Omaha_Metro__mdb_mdb-2261,Omaha Metro Transit,Nebraska,70002,manual_override,100.0,70002,"Transit Authority of Omaha, dba: Metro",NE,False,True
+Nebraska__Open_Plains_Transit__mdb_tld-6708,Open Plains Transit,Nebraska,77080,manual_override,100.0,77080,"Senior Services, Inc., dba: Open Plains Transit",NE,False,True
+Nebraska__StarTran__mdb_mdb-2269,StarTran,Nebraska,70001,manual_override,100.0,70001,"City of Lincoln, dba: StarTran",NE,False,True
+Nevada__Jump_Around_Carson__mdb_tld-688,Jump Around Carson,Nevada,90215,manual_override,100.0,90215,Carson Area Metropolitan Planning Organization,NV,False,True
+Nevada__Regional_Transportation_Commission_(RTC)__mdb_mdb-120,RTC RIDE,Nevada,90045,manual_override,100.0,90045,Regional Transportation Commission of Southern Nevada,NV,False,True
+Nevada__Regional_Transportation_Commission_of_Southern_Nevada_(RTC)__mdb_mdb-2351,Regional Transportation Commission of Southern Nevada,Nevada,90045,manual_override,100.0,90045,Regional Transportation Commission of Southern Nevada,NV,False,True
+Nevada__Sage_Stage__mdb_mdb-113,Sage Stage,Nevada,91008,manual_override,100.0,91008,"Modoc Transportation Agency, dba: Sage Stage",CA,False,True
+New_Hampshire__Advance_Transit__mdb_mdb-631,Advance Transit,New_Hampshire,11164,manual_override,100.0,11164,Easter Seals Special Transit Service,NH,False,True
+New_Hampshire__City_Express__mdb_ntd-10159,City Express,New_Hampshire,10133,manual_override,100.0,10133,"Boston Express Bus, Inc.",NH,False,True
+New_Hampshire__Cooperative_Alliance_For_Seacoast_Transportation__mdb_tld-4668,Cooperative Alliance for Seacoast Transportation (COAST),New_Hampshire,10086,manual_override,100.0,10086,Cooperative Alliance for Seacoast Transportation,NH,False,True
+New_Hampshire__Dartmouth_College__mdb_mdb-1958,Dartmouth Campus Connector,New_Hampshire,11244,manual_override,100.0,11244,"Dartmouth Transportation Company, Inc.",NH,False,True
+New_Hampshire__Manchester_Transit_Authority__mdb_mdb-3432,Manchester Transit Authority,New_Hampshire,10002,manual_override,100.0,10002,Manchester Transit Authority,NH,False,True
+New_Hampshire__Rural_Community_Transportation_(RCT)__mdb_mdb-448,Rural Community Transportation,New_Hampshire,11156,manual_override,100.0,11156,Southwestern Community Services Transportation,NH,False,True
+New_Hampshire__Tri-Valley_Transit__mdb_mdb-852,Tri-Valley Transit,New_Hampshire,11164,manual_override,100.0,11164,Easter Seals Special Transit Service,NH,False,True
+New_Jersey__Academy_Lines__mdb_ntd-20122,Academy Bus,New_Jersey,20924,manual_override,100.0,20924,"Academy Lines, LLC",NJ,False,True
+"New_Jersey__Coach_USA_Erie,_Orange_Westchester_Link,_ShortLine_Hudson,_Suburban_Transit,_Community_Coach,_Rockland_Coaches,_Newark_A__mdb_tld-5741",Waukesha County Transit | Orange Westchester Link | ShortLine Hudson | Suburban Transit | Community Coach | Rockland Coaches | Coach USA Erie | Newark Airport Express | Wisconsin Coach Lines | Van Galder (Coach USA),New_Jersey,22969,manual_override,100.0,22969,Hudson County,NJ,False,True
+New_Jersey__Cross_County_Connection__mdb_ntd-20208,Cross County Connection,New_Jersey,22969,manual_override,100.0,22969,Hudson County,NJ,False,True
+New_Jersey__Fullington_Trailways__mdb_tld-4379,Fullington Trailways,New_Jersey,30987,manual_override,100.0,30987,"Fullington Auto Bus Company, dba: Fullington Trailways",PA,False,True
+New_Jersey__Megabus__mdb_mdb-2321,Waukesha County Transit | Orange Westchester Link | ShortLine Hudson | Suburban Transit | Community Coach | Rockland Coaches | Coach USA Erie | Newark Airport Express | Wisconsin Coach Lines | Van Galder (Coach USA),New_Jersey,20982,manual_override,100.0,20982,"Hudson Transit Lines , dba: Shortline",NJ,False,True
+New_Jersey__New_Jersey_Transit_(NJ_Transit)__mdb_mdb-508,NJ TRANSIT BUS,New_Jersey,20080,manual_override,100.0,20080,New Jersey Transit Corporation,NJ,False,True
+New_Jersey__New_Jersey_Transit_(NJ_Transit)__mdb_mdb-509,NJ TRANSIT BUS | NJ TRANSIT RAIL,New_Jersey,20080,manual_override,100.0,20080,New Jersey Transit Corporation,NJ,False,True
+New_Jersey__NY_Waterway__mdb_mdb-3192,NY Waterway,New_Jersey,20190,manual_override,100.0,20190,"Port Imperial Ferry Corporation, dba: NY Waterway",NJ,False,True
+New_Jersey__Somerset_County__mdb_ntd-20209,Somerset County,New_Jersey,20209,manual_override,100.0,20209,"Somerset County, dba: Somerset County Transportation",NJ,False,True
+New_Jersey__Statue_of_Liberty_National_Monument__mdb_tld-6909,National Park Service,New_Jersey,22981,manual_override,100.0,22981,City of East Orange,NJ,False,True
+New_Jersey__Sussex_County_Skylands_Ride__mdb_ntd-20950,Sussex County Skylands Ride,New_Jersey,20950,manual_override,100.0,20950,"Sussex County, dba: Skylands Ride",NJ,False,True
+New_Mexico__A_Shiwi_Transit__mdb_ntd-66242,A:Shiwi Transit,New_Mexico,66242,manual_override,100.0,66242,"Zuni Pueblo, dba: A:Shiwi Transit",NM,False,True
+New_Mexico__ABQ_RIDE__mdb_mdb-166,ABQ RIDE,New_Mexico,60019,manual_override,100.0,60019,"City of Albuquerque, dba: ABQRIDE",NM,False,True
+New_Mexico__Atomic_City_Transit__mdb_mdb-1240,Atomic City Transit,New_Mexico,60215,manual_override,100.0,60215,"Incorporated County of Los Alamos, dba: Atomic City Transit",NM,False,True
+New_Mexico__Bandalier_National_Monument__mdb_tld-6902,National Park Service,New_Mexico,99468,manual_override,100.0,99468,Jewish Family Service of San Diego,CA,False,True
+New_Mexico__City_of_Hobbs__mdb_ntd-60190,Hobbs Express Public Transportation,New_Mexico,60190,manual_override,100.0,60190,"City of Hobbs, dba: Hobbs Express",NM,False,True
+New_Mexico__Navajo_Transit_System__mdb_mdb-2346,Navajo Transit System,New_Mexico,60620,manual_override,100.0,60620,"Pueblo of Laguna, dba: Pueblo of Laguna - Shaa'srk'a Transit",NM,False,True
+New_Mexico__NMDOT_Park_and_Ride__mdb_tld-5537,New Mexico DOT Park and Ride,New_Mexico,66339,manual_override,100.0,66339,"New Mexico Department of Transportation, dba: NMGo!",NM,False,True
+New_Mexico__North_Central_Regional_Transit_District__mdb_tld-1319,NCRTD,New_Mexico,60138,manual_override,100.0,60138,"North Central Regional Transit District, dba: North Central RTD",NM,False,True
+New_Mexico__Red_Apple_Transit__mdb_mdb-160,Red Apple Transit,New_Mexico,60100,manual_override,100.0,60100,"City of Farmington, dba: Red Apple Transit",NM,False,True
+New_Mexico__RoadRUNNER_Transit__mdb_mdb-2075,Roadrunner Transit (Las Cruces),New_Mexico,60049,manual_override,100.0,60049,"City of Las Cruces NM, dba: RoadRUNNER Transit",NM,False,True
+New_York__Access_Allegany__mdb_mdb-531,Access Allegany,New_York,20951,manual_override,100.0,20951,"Allegany County, dba: Access Allegany",NY,False,True
+"New_York__Adirondack_Trailways,_New_York_Trailways,_Pine_Hill_Trailways,_Burlington_Trailways__mdb_ntd-20177",Adirondack Trailways,New_York,22930,manual_override,100.0,22930,New York City Economic Development Corporation,NY,False,True
+New_York__Adirondack_Trailways__mdb_tld-5781,Adirondack Trailways,New_York,20969,manual_override,100.0,20969,"Adirondack Transit Lines, Inc, dba: Adirondack Trailways",NY,False,True
+New_York__Adirondack_Trailways_ADP__mdb_mdb-823,Adirondack Trailways,New_York,20969,manual_override,100.0,20969,"Adirondack Transit Lines, Inc, dba: Adirondack Trailways",NY,False,True
+New_York__Adirondack_Trailways_NYP__mdb_mdb-824,Adirondack Trailways,New_York,20969,manual_override,100.0,20969,"Adirondack Transit Lines, Inc, dba: Adirondack Trailways",NY,False,True
+New_York__Birnie_Bus__mdb_mdb-233,Birnie Bus,New_York,20988,manual_override,100.0,20988,"City of Port Jervis, dba: City of Port Jervis Dial-A-Bus",NY,False,True
+New_York__Broome_County_Transit_(B.C._Transit)__mdb_mdb-2079,Broome County Transit,New_York,20003,manual_override,100.0,20003,"Broome County, dba: BC Transit",NY,False,True
+New_York__Centro__mdb_mdb-534,Centro,New_York,20228,manual_override,100.0,20228,"Enterprise Holdings, LLC",NY,False,True
+New_York__Chautauqua_Area_Regional_Transit_System_(CARTS)__mdb_mdb-304,CARTS (If you do not get satisfactory results please call the CARTS office @ 800-388-6534 to see if we can accommodate your trip),New_York,20983,manual_override,100.0,20983,Regional Transit Service,NY,False,True
+New_York__Chemung_County_(C-TRAN)__mdb_ntd-20005,C TRAN,New_York,20005,manual_override,100.0,20005,"Chemung County, dba: C TRAN",NY,False,True
+New_York__Chenango_First_Transit__mdb_mdb-536,Chenango First Transit,New_York,21000,manual_override,100.0,21000,"Yates County, dba: Yates Transit Service",NY,False,True
+New_York__City_Of_Glen_Cove__mdb_tld-5787,City Of Glen Cove,New_York,22930,manual_override,100.0,22930,New York City Economic Development Corporation,NY,False,True
+New_York__City_of_Long_Beach_Transportation__mdb_mdb-916,City of Long Beach Transportation,New_York,20006,manual_override,100.0,20006,City of Long Beach,NY,False,True
+New_York__City_of_Mechanicville_Public_Transit__mdb_mdb-541,City of Mechanicville Public Transit,New_York,20213,manual_override,100.0,20213,"City of Mechanicville, dba: Public Transportation System",NY,False,True
+New_York__Clarkstown_MiniTrans__mdb_mdb-911,Clarkstown MiniTrans,New_York,20085,manual_override,100.0,20085,"Town of Clarkstown, dba: Mini Trans",NY,False,True
+New_York__Clinton_County_Public_Transit_(CCPT)__mdb_mdb-544,Clinton County Public Transit,New_York,20939,manual_override,100.0,20939,"Clinton County, dba: Clinton County Public Transit",NY,False,True
+New_York__Columbia_County_Public_Transportation__mdb_mdb-3116,Columbia County Public Transportation,New_York,20999,manual_override,100.0,20999,"Columbia County, dba: Columbia County Public Transportation",NY,False,True
+New_York__Connect_Niagara__mdb_tld-5791,Connect Niagara,New_York,20957,manual_override,100.0,20957,"County of Niagara, dba: Connect Niagara",NY,False,True
+New_York__Corning_Erwin_Area_Transit_System_(CEATS)__mdb_mdb-302,CEATS,New_York,20941,manual_override,100.0,20941,"City of Corning, dba: Corning Erwin Area Transit System",NY,False,True
+New_York__Downtown_Alliance__mdb_mdb-519,Downtown Alliance,New_York,70107,manual_override,100.0,70107,"City of Alliance, dba: Alliance Public Transit",NE,False,True
+New_York__Dutchess_County__mdb_mdb-457,Dutchess County Public Transit,New_York,20010,manual_override,100.0,20010,"Dutchess County, dba: Dutchess County Public Transit",NY,False,True
+New_York__Endless_Mountains_Transportation_Authority__mdb_tld-7021,BeST Transit,New_York,21000,manual_override,100.0,21000,"Yates County, dba: Yates Transit Service",NY,False,True
+New_York__Fullington_Trailways__mdb_tld-5783,Fullington Trailways,New_York,20978,manual_override,100.0,20978,"Pine Hill-Kingston Bus Corp., dba: Pine Hill Trailways",NY,False,True
+New_York__Gloversville_Transit_System__mdb_mdb-2650,Gloversville Transit Services,New_York,20981,manual_override,100.0,20981,"City of Gloversville, dba: Gloversville Transit System",NY,False,True
+New_York__Greene_County_Transit__mdb_mdb-613,Greene County Transit,New_York,20931,manual_override,100.0,20931,"Greene County, dba: Greene County Transit",NY,False,True
+New_York__Hornell_Area_Transit__mdb_mdb-532,Hornell Area Transit,New_York,20953,manual_override,100.0,20953,"City of Hornell, dba: Hornell Area Transit",NY,False,True
+New_York__Huntington_Area_Rapid_Transit_(HART)__mdb_mdb-905,HART,New_York,20071,manual_override,100.0,20071,"Town of Huntington, dba: Huntington Area Rapid Transit",NY,False,True
+New_York__Jefferson_County_Public_Transit_(JCPT)__mdb_mdb-3392,Jefferson County Public Transit,New_York,20991,manual_override,100.0,20991,"St Lawrence County, dba: St Lawrence County Public Transit",NY,False,True
+New_York__Lake_Champlain_Ferries__mdb_mdb-547,Lake Champlain Ferries,New_York,99292,manual_override,100.0,99292,"Blue Lake Rancheria, dba: Blue Lake Rancheria Transit System",CA,False,True
+New_York__Leprechaun_Lines__mdb_mdb-910,Leprechaun Lines,New_York,20179,manual_override,100.0,20179,"Leprechaun Lines, Inc.",NY,False,True
+New_York__Lewis_County_Public_Transportation__mdb_mdb-566,Lewis County Public Transportation,New_York,20925,manual_override,100.0,20925,"Lewis County, dba: Lewis County Public Transportation",NY,False,True
+New_York__Lower_Hudson_Valley_Transit__mdb_mdb-915,LHTL,New_York,20991,manual_override,100.0,20991,"St Lawrence County, dba: St Lawrence County Public Transit",NY,False,True
+New_York__Madison_County_Transit__mdb_mdb-573,Madison County Transit,New_York,20940,manual_override,100.0,20940,"Madison County, dba: Madison Transit System",NY,False,True
+New_York__Mercy_College__mdb_tld-4465,Mercy College,New_York,88140,manual_override,100.0,88140,Sitting Bull College,ND,False,True
+New_York__Metropolitan_Transit_Authority_(MTA)__mdb_mdb-507,Long Island Rail Road,New_York,20188,manual_override,100.0,20188,MTA Bus Company,NY,False,True
+New_York__Metropolitan_Transit_Authority_(MTA)__mdb_mdb-510,MTA Bus Company,New_York,20188,manual_override,100.0,20188,MTA Bus Company,NY,False,True
+New_York__Metropolitan_Transit_Authority_(MTA)__mdb_mdb-511,MTA New York City Transit,New_York,20188,manual_override,100.0,20188,MTA Bus Company,NY,False,True
+New_York__Metropolitan_Transit_Authority_(MTA)__mdb_mdb-512,MTA New York City Transit,New_York,20188,manual_override,100.0,20188,MTA Bus Company,NY,False,True
+New_York__Metropolitan_Transit_Authority_(MTA)__mdb_mdb-513,MTA New York City Transit,New_York,20188,manual_override,100.0,20188,MTA Bus Company,NY,False,True
+New_York__Metropolitan_Transit_Authority_(MTA)__mdb_mdb-514,MTA New York City Transit,New_York,20188,manual_override,100.0,20188,MTA Bus Company,NY,False,True
+New_York__Metropolitan_Transit_Authority_(MTA)__mdb_mdb-516,MTA New York City Transit,New_York,20188,manual_override,100.0,20188,MTA Bus Company,NY,False,True
+New_York__Metropolitan_Transit_Authority_(MTA)__mdb_mdb-520,MTA New York City Transit,New_York,20188,manual_override,100.0,20188,MTA Bus Company,NY,False,True
+New_York__Metropolitan_Transit_Authority_(MTA)__mdb_mdb-528,MTA New York City Transit,New_York,20188,manual_override,100.0,20188,MTA Bus Company,NY,False,True
+New_York__MTA_Metro-North_Railroad__mdb_tld-5788,Metro-North Railroad,New_York,20078,manual_override,100.0,20078,"Metro-North Commuter Railroad Company, dba: MTA Metro-North Railroad",NY,False,True
+New_York__Nassau_Inter-County_Express_(NICE_Bus)__mdb_mdb-521,Nassau Inter-County Express,New_York,20206,manual_override,100.0,20206,"County of Nassau, dba: Nassau Inter County Express",NY,False,True
+New_York__Niagara_Frontier_Transportation_Authority__mdb_tld-401,NFTA,New_York,20004,manual_override,100.0,20004,"Niagara Frontier Transportation Authority, dba: NFTA - Metro Bus & Rail",NY,False,True
+New_York__Niagara_Frontier_Transportation_Authority__mdb_tld-6748,NFTA - Metro,New_York,20004,manual_override,100.0,20004,"Niagara Frontier Transportation Authority, dba: NFTA - Metro Bus & Rail",NY,False,True
+New_York__North_Country_Express_Transit__mdb_mdb-546,North Country Express Transit,New_York,20991,manual_override,100.0,20991,"St Lawrence County, dba: St Lawrence County Public Transit",NY,False,True
+New_York__NYC_Ferry__mdb_mdb-515,NYC Ferry,New_York,90225,manual_override,100.0,90225,"San Francisco Bay Area Water Emergency Transportation Authority, dba: San Francisco Bay Ferry",CA,False,True
+New_York__Olean_Area_Transit_System__mdb_mdb-586,Olean Area Transit System,New_York,20975,manual_override,100.0,20975,"City of Olean, dba: Olean Area Transit System",NY,False,True
+New_York__Oneonta_Public_Transit__mdb_tld-6777,Oneonta Public Transit,New_York,20960,manual_override,100.0,20960,"City of Oneonta, dba: Oneonta Public Transit",NY,False,True
+New_York__Otsego_Express_Public_Transportation__mdb_mdb-589,Otsego Express Public Transportation,New_York,21000,manual_override,100.0,21000,"Yates County, dba: Yates Transit Service",NY,False,True
+New_York__PART_Putnam_Area_Rapid_Transit__mdb_mdb-928,PART Putnam Area Rapid Transit,New_York,20096,manual_override,100.0,20096,"Putnam County, dba: Putnam Area Rapid Transit",NY,False,True
+"New_York__Propark_Mobility,_Columbia_County_Public_Transportation__mdb_tld-6745",Propark Mobility | Columbia County Public Transportation,New_York,20999,manual_override,100.0,20999,"Columbia County, dba: Columbia County Public Transportation",NY,False,True
+New_York__Rensselaer_County_(Yankee_Trails)__mdb_mdb-804,Yankee Trails,New_York,20968,manual_override,100.0,20968,County of Rensselaer,NY,False,True
+New_York__Rochester-Genesee_Regional_Transportation_Authority_(RGRTA)__mdb_mdb-533,Regional Transit Service (RTS),New_York,20983,manual_override,100.0,20983,Regional Transit Service,NY,False,True
+New_York__Rochester-Genesee_Regional_Transportation_Authority__mdb_tld-1200,RTS Seneca,New_York,22929,manual_override,100.0,22929,Seneca Nation of Indians,NY,False,True
+New_York__Rochester-Genesee_Regional_Transportation_Authority__mdb_tld-1201,RTS Wayne,New_York,20991,manual_override,100.0,20991,"St Lawrence County, dba: St Lawrence County Public Transit",NY,False,True
+New_York__Rochester-Genesee_Regional_Transportation_Authority__mdb_tld-7040,RTS Genesee,New_York,20991,manual_override,100.0,20991,"St Lawrence County, dba: St Lawrence County Public Transit",NY,False,True
+New_York__Rochester-Genesee_Regional_Transportation_Authority__mdb_tld-7041,RTS Ontario,New_York,20991,manual_override,100.0,20991,"St Lawrence County, dba: St Lawrence County Public Transit",NY,False,True
+New_York__Rochester-Genesee_Regional_Transportation_Authority__mdb_tld-7042,RTS Orleans,New_York,20991,manual_override,100.0,20991,"St Lawrence County, dba: St Lawrence County Public Transit",NY,False,True
+New_York__Rochester-Genesee_Regional_Transportation_Authority__mdb_tld-7043,RTS Wyoming,New_York,20991,manual_override,100.0,20991,"St Lawrence County, dba: St Lawrence County Public Transit",NY,False,True
+New_York__Rochester_Transit_Service__mdb_mdb-3114,RTS Livingston,New_York,20999,manual_override,100.0,20999,"Columbia County, dba: Columbia County Public Transportation",NY,False,True
+New_York__Roosevelt_Island_Operating_Corporation_Tramway__mdb_tld-3364,Roosevelt Island Tram,New_York,20099,manual_override,100.0,20099,"Staten Island Rapid Transit Operating Authority, dba: MTA Staten Island Railway",NY,False,True
+New_York__Schoharie_County_Transit__mdb_tld-5877,Schoharie County Public Transit,New_York,20926,manual_override,100.0,20926,"Schoharie County, dba: Schoharie County Public Transportation",NY,False,True
+New_York__SeaStreak_Ferries__mdb_ntd-20226,Seastreak,New_York,20226,manual_override,100.0,20226,"SeaStreak, LLC",NJ,False,True
+New_York__Seneca_Transit_System__mdb_ntd-22929,Seneca Transit System,New_York,21000,manual_override,100.0,21000,"Yates County, dba: Yates Transit Service",NY,False,True
+New_York__St_Lawrence_County_Public_Transit__mdb_mdb-2611,St. Lawrence County Public Transit,New_York,20991,manual_override,100.0,20991,"St Lawrence County, dba: St Lawrence County Public Transit",NY,False,True
+New_York__Staten_Island_Ferry__mdb_mdb-518,New York City Department of Transportation,New_York,20082,manual_override,100.0,20082,New York City Department of Transportation,NY,False,True
+New_York__Steuben_County_Transit__mdb_mdb-851,Steuben County Transit,New_York,21000,manual_override,100.0,21000,"Yates County, dba: Yates Transit Service",NY,False,True
+New_York__Suffolk_County_Transit__mdb_mdb-3115,Suffolk County Transit - West | Suffolk County Transit - East | Suffolk County Transit  - Central,New_York,20072,manual_override,100.0,20072,"Suffolk County, dba: Suffolk County Transit",NY,False,True
+New_York__Sullivan_County_Transit__mdb_mdb-927,Sullivan County Transit | Move Sullivan,New_York,20937,manual_override,100.0,20937,"Sullivan County, dba: Move Sullivan",NY,False,True
+New_York__Tompkins_Consolidated_Area_Transit_Inc__mdb_mdb-535,Tompkins Consolidated Area Transit Inc,New_York,20145,manual_override,100.0,20145,Tompkins Consolidated Area Transit,NY,False,True
+New_York__Transport_of_Rockland__mdb_tld-3368,Transport of Rockland (TOR),New_York,20988,manual_override,100.0,20988,"City of Port Jervis, dba: City of Port Jervis Dial-A-Bus",NY,False,True
+New_York__Ulster_County_Area_Transit__mdb_mdb-526,Ulster County Area Transit,New_York,20178,manual_override,100.0,20178,"Ulster County, dba: Ulster County Area Transit",NY,False,True
+New_York__Watertown_Citibus__mdb_mdb-2881,City of Watertown (CitiBus),New_York,20215,manual_override,100.0,20215,"City of Watertown NY, dba: CitiBus",NY,False,True
+New_York__Watertown_Citibus__mdb_mdb-871,Watertown Citibus,New_York,20215,manual_override,100.0,20215,"City of Watertown NY, dba: CitiBus",NY,False,True
+North_Carolina__Asheville_Rides_Transit__mdb_mdb-903,Asheville Rides Transit,North_Carolina,40005,manual_override,100.0,40005,"City of Asheville, dba: ART (Asheville Rides Transit)",NC,False,True
+North_Carolina__Cape_Lookout_National_Seashore__mdb_mdb-3205,National Park Service,North_Carolina,40209,manual_override,100.0,40209,"Hoke County, dba: Hoke Area Transit Service",NC,False,True
+North_Carolina__Capital_Area_Transit_(GoRaleigh)__mdb_mdb-2074,GoRaleigh,North_Carolina,40007,manual_override,100.0,40007,"City of Raleigh, dba: GoRaleigh",NC,False,True
+North_Carolina__Chapel_Hill_Transit__mdb_tld-89,Chapel Hill Transit,North_Carolina,40051,manual_override,100.0,40051,"Town of Chapel Hill, dba: Chapel Hill Transit",NC,False,True
+North_Carolina__Charlotte_Area_Transit_System_(CATS)__mdb_mdb-2265,CATS,North_Carolina,44977,manual_override,100.0,44977,McDowell Transit,NC,False,True
+North_Carolina__City_of_Jacksonville__mdb_tld-6735,City of Jacksonville,North_Carolina,40166,manual_override,100.0,40166,"City of Jacksonville, dba: Jacksonville Transit",NC,False,True
+North_Carolina__Concord_Kannapolis_Area_Transit_(Rider_Transit)__mdb_mdb-2244,Concord Kannapolis Area Transit,North_Carolina,40167,manual_override,100.0,40167,"City of Concord, dba: Concord Kannapolis Area Transit (Rider)",NC,False,True
+North_Carolina__Davidson_County_Transportation_Services__mdb_ntd-40131,DAVIDSON COUNTY TRANSPORTATION SERVICES,North_Carolina,40131,manual_override,100.0,40131,"Davidson County, dba: Davidson County Transportation",NC,False,True
+North_Carolina__GoCary__mdb_mdb-2277,GoCary,North_Carolina,40143,manual_override,100.0,40143,"Town of Cary, dba: GoCary",NC,False,True
+North_Carolina__GoDurham__mdb_tld-98,GoDurham,North_Carolina,40087,manual_override,100.0,40087,"City of Durham, dba: GoDurham",NC,False,True
+North_Carolina__GoTriangle__mdb_mdb-3183,GoTriangle,North_Carolina,41131,manual_override,100.0,41131,Choanoke Public Transportation Authority,NC,False,True
+North_Carolina__Link_Transit__mdb_mdb-1971,LINK TRANSIT,North_Carolina,40252,manual_override,100.0,40252,"City Of Burlington, dba: Link Transit",NC,False,True
+North_Carolina__North_Carolina_State_University_(NCSU)__mdb_mdb-2245,NC State University,North_Carolina,40147,manual_override,100.0,40147,North Carolina State University,NC,False,True
+North_Carolina__Orange_County_Public_Transportation__mdb_tld-7885,Orange County Public Transportation,North_Carolina,40231,manual_override,100.0,40231,"Orange County, dba: Orange County Public Transit",NC,False,True
+North_Carolina__Piedmont_Authority_for_Regional_Transportation_(PART)__mdb_mdb-373,Piedmont Authority for Regional Transportation,North_Carolina,40173,manual_override,100.0,40173,Piedmont Authority for Regional Transportation,NC,False,True
+North_Carolina__Research_Triangle_Regional_Public_Transportation_Authority__mdb_tld-202,GoTriangle,North_Carolina,40108,manual_override,100.0,40108,"Research Triangle Regional Public Transportation Authority, dba: GoTriangle",NC,False,True
+North_Carolina__Tar_River_Transit__mdb_mdb-472,Tar River Transit,North_Carolina,40096,manual_override,100.0,40096,"City of Rocky Mount, dba: Tar River Transit",NC,False,True
+North_Carolina__Wave_Transit__mdb_mdb-1110,Wave Transit,North_Carolina,40006,manual_override,100.0,40006,"Cape Fear Public Transportation Authority, dba: Wave Transit",NC,False,True
+North_Carolina__Winston_Salem_Transit_Authority_(WSTA)__mdb_mdb-3479,Winston Salem Transit,North_Carolina,40012,manual_override,100.0,40012,"City of Winston Salem, dba: Winston-Salem Transit Authority",NC,False,True
+North_Dakota__Bis-Man_Transit__mdb_tld-6095,Bis-Man Transit,North_Dakota,80019,manual_override,100.0,80019,"Bis-Man Transit Board, dba: Bis-Man Transit",ND,False,True
+North_Dakota__Cities_Area_Transit__mdb_mdb-2199,Cities Area Transit,North_Dakota,88128,manual_override,100.0,88128,"Spirit Lake Tribe, dba: Spirit Lake Tribal Transit",ND,False,True
+North_Dakota__City_of_Fargo__mdb_ntd-80003,MATBUS,North_Dakota,80003,manual_override,100.0,80003,"City of Fargo, dba: Metropolitan Area Transit",ND,False,True
+Ohio__Akron_Metro_Regional_Transit_Authority_(METRO)__mdb_mdb-2071,METRO RTA,Ohio,50012,manual_override,100.0,50012,"Southwest Ohio Regional Transit Authority, dba: Metro / Access",OH,False,True
+Ohio__Allen_County_Regional_Transit_Authority__mdb_mdb-210,Allen County Regional Transit Authority,Ohio,50093,manual_override,100.0,50093,Lima Allen County Regional Transit Authority,OH,False,True
+Ohio__Central_Ohio_Transit_Authority_(COTA)__mdb_mdb-404,Central Ohio Transit Authority,Ohio,50016,manual_override,100.0,50016,Central Ohio Transit Authority,OH,False,True
+Ohio__Cincinnati_Metro__mdb_mdb-307,METRO,Ohio,50012,manual_override,100.0,50012,"Southwest Ohio Regional Transit Authority, dba: Metro / Access",OH,False,True
+Ohio__Greater_Cleveland_Regional_Transit_Authority__mdb_mdb-406,Greater Cleveland Regional Transit Authority,Ohio,50015,manual_override,100.0,50015,The Greater Cleveland Regional Transit Authority,OH,False,True
+Ohio__Greater_Dayton_Regional_Transit_Authority_(Greater_Dayton_RTA)__mdb_mdb-403,Greater Dayton RTA,Ohio,50017,manual_override,100.0,50017,Greater Dayton Regional Transit Authority,OH,False,True
+Ohio__Laketran__mdb_mdb-410,Laketran,Ohio,50117,manual_override,100.0,50117,Laketran,OH,False,True
+Ohio__Licking_County_Transit__mdb_ntd-50163,Licking County Transit,Ohio,50163,manual_override,100.0,50163,"Licking County, Ohio, dba: Licking County Transit",OH,False,True
+Ohio__Lorain_County_Transit__mdb_tld-7039,Lorain County Transit,Ohio,50095,manual_override,100.0,50095,"Lorain County, dba: Lorain County Transit",OH,False,True
+Ohio__Portage_Area_Regional_Transportation_Authority_(PARTA)__mdb_mdb-2256,Portage Area Regional Transit Authority (PARTA),Ohio,50021,manual_override,100.0,50021,Portage Area Regional Transportation Authority,OH,False,True
+Ohio__Sandusky_Transit_System__mdb_tld-1213_1,Sandusky Transit System,Ohio,50164,manual_override,100.0,50164,"City of Sandusky, dba: Sandusky Transit System",OH,False,True
+Ohio__Stark_Area_Regional_Transit_Authority_(SARTA)__mdb_mdb-2001,Stark Area Regional Transit Authority,Ohio,50011,manual_override,100.0,50011,Stark Area Regional Transit Authority,OH,False,True
+Ohio__Toledo_Area_Regional_Transit_Authority__mdb_tld-1716_1,Toledo Area Regional Transit Authority,Ohio,50022,manual_override,100.0,50022,Toledo Area Regional Transit Authority,OH,False,True
+Ohio__Western_Reserve_Transit_Authority__mdb_tld-1717,Western Reserve Transit Authority,Ohio,50024,manual_override,100.0,50024,Western Reserve Transit Authority,OH,False,True
+Oklahoma__Campus_Area_Rapid_Transit_(CART)__mdb_mdb-182,Campus Area Rapid Transit (CART),Oklahoma,66194,manual_override,100.0,66194,"Cheyenne & Arapaho Tribes, dba: Cheyenne and Arapaho Tribal Transit",OK,False,True
+Oklahoma__Citylink_Edmond__mdb_tld-7841,Citylink Edmond,Oklahoma,60118,manual_override,100.0,60118,"City of Edmond, dba: Citylink",OK,False,True
+Oklahoma__Embark__mdb_mdb-2062,Campus Area Rapid Transit (CART) | Citylink Edmond | EMBARK | EMBARK Norman | Oklahoma River Cruises,Oklahoma,66341,manual_override,100.0,66341,"City of Norman, dba: EMBARK Norman",OK,False,True
+Oklahoma__Metropolitan_Tulsa_Transit_Authority__mdb_tld-235,MetroLink Tulsa,Oklahoma,60018,manual_override,100.0,60018,"Metropolitan Tulsa Transit Authority, dba: Tulsa Transit, MetroLink Tulsa",OK,False,True
+Oklahoma__Oklahoma_State_University_-Stillwater_Community_Transit__mdb_ntd-60160,Oklahoma State University,Oklahoma,60160,manual_override,100.0,60160,OSU-Stillwater Community Transit,OK,False,True
+Oklahoma__OSU-Stillwater_Community_Transit__mdb_tld-7941,Oklahoma State University,Oklahoma,60160,manual_override,100.0,60160,OSU-Stillwater Community Transit,OK,False,True
+Oregon__Astoria_Riverfront_Trolley__mdb_mdb-1254,Astoria Riverfront Trolley,Oregon,70057,manual_override,100.0,70057,Loop Trolley Transportation Development District,MO,False,True
+Oregon__Basin_Transit_Service_(BTS)__mdb_mdb-125,Basin Transit Service,Oregon,00339,manual_override,100.0,00339,"Basin Transit Service, dba: Basin Transit Service Transportation District",OR,False,True
+Oregon__Benton_Area_Transportation__mdb_mdb-126,Benton Area Transit,Oregon,00065,manual_override,100.0,00065,"Benton County, dba: Benton Area Transit",OR,False,True
+Oregon__Benton_Area_Transportation__mdb_mdb-3109,Benton Area Transit,Oregon,00065,manual_override,100.0,00065,"Benton County, dba: Benton Area Transit",OR,False,True
+Oregon__Buena_Vista_Ferry__mdb_mdb-834,Buena Vista Ferry,Oregon,91014,manual_override,100.0,91014,"City of Rio Vista, dba: Rio Vista Delta Breeze",CA,False,True
+Oregon__Burns_Paiute_Tribal_Transit__mdb_mdb-2621,Burns Paiute Tribal Transit,Oregon,00421,manual_override,100.0,00421,"Burns Paiute Tribe, dba: Burns Paiute Tribal Transit",OR,False,True
+Oregon__C-TRAN__mdb_mdb-258,C-TRAN,Oregon,00459,manual_override,100.0,00459,Umpqua Public Transportation District,OR,False,True
+Oregon__Canby_Area_Transit_(CAT)__mdb_mdb-252,Canby Area Transit,Oregon,00421,manual_override,100.0,00421,"Burns Paiute Tribe, dba: Burns Paiute Tribal Transit",OR,False,True
+Oregon__Canby_Ferry__mdb_mdb-605,Canby Ferry,Oregon,90225,manual_override,100.0,90225,"San Francisco Bay Area Water Emergency Transportation Authority, dba: San Francisco Bay Ferry",CA,False,True
+Oregon__Caravan_Airport_Transportation__mdb_mdb-127,Caravan Airport Transportation,Oregon,00375,manual_override,100.0,00375,"Columbia County, dba: Columbia County Rider Transportation",OR,False,True
+Oregon__Cascades_East_Transit__mdb_tld-170,Cascades East Transit (CET),Oregon,00057,manual_override,100.0,00057,"Central Oregon Intergovernmental Council, dba: Cascades East Transit",OR,False,True
+Oregon__Central_Oregon_Breeze__mdb_mdb-139,Central Oregon Breeze,Oregon,00326,manual_override,100.0,00326,"C.A.C Transportation, Inc, dba: Central Oregon Breeze",OR,False,True
+Oregon__City_of_Corvallis__mdb_mdb-2283,Corvallis Transit System,Oregon,00047,manual_override,100.0,00047,"City of Corvallis, dba: Corvallis Transit System",OR,False,True
+Oregon__City_of_Milton-Freewater_Public_Transportation__mdb_mdb-2189,Kayak Public Transit,Oregon,00119,manual_override,100.0,00119,"Confederated Tribes of the Umatilla Indian Reservation, dba: Kayak Public Transit",OR,False,True
+Oregon__ClackCo_Connects_(Clackamas_County)__mdb_mdb-2740,Clackamas County,Oregon,00363,manual_override,100.0,00363,"Clackamas County, dba: Mt Hood Express and #ClackCo Shuttles",OR,False,True
+Oregon__ClackCo_Connects_(Clackamas_County)__mdb_mdb-2741,Clackamas County,Oregon,00363,manual_override,100.0,00363,"Clackamas County, dba: Mt Hood Express and #ClackCo Shuttles",OR,False,True
+Oregon__ClackCo_Connects_(Clackamas_County)__mdb_mdb-312,Clackamas County,Oregon,00363,manual_override,100.0,00363,"Clackamas County, dba: Mt Hood Express and #ClackCo Shuttles",OR,False,True
+Oregon__Columbia_Area_Transit_(CAT)__mdb_mdb-260,Columbia Area Transit,Oregon,00319,manual_override,100.0,00319,"Hood River County Transportation District, dba: Columbia Area Transit",OR,False,True
+Oregon__Columbia_County_Rider__mdb_mdb-3037,Columbia County Rider,Oregon,00375,manual_override,100.0,00375,"Columbia County, dba: Columbia County Rider Transportation",OR,False,True
+Oregon__Columbia_County_Rider__mdb_tld-4210,Columbia County Rider,Oregon,00375,manual_override,100.0,00375,"Columbia County, dba: Columbia County Rider Transportation",OR,False,True
+Oregon__Coos_County_Area_Transit_(CCAT)__mdb_mdb-21,City of Bandon Trolley | Coos County Area Transportation District,Oregon,00307,manual_override,100.0,00307,Coos County Area Transit,OR,False,True
+Oregon__Curry_Public_Transit__mdb_mdb-22,Curry Public Transit,Oregon,00308,manual_override,100.0,00308,"Curry County Public Transit Service District, dba: Curry Public Transit Inc",OR,False,True
+Oregon__Diamond_Express__mdb_mdb-130,Diamond Express,Oregon,00377,manual_override,100.0,00377,"City of Lebanon, dba: Lebanon Interneighborhood Express",OR,False,True
+Oregon__Harney_County__mdb_mdb-931,Harney Hub Transit,Oregon,00374,manual_override,100.0,00374,"Harney County, dba: Harney Hub Transit",OR,False,True
+Oregon__Josephine_County_Transit_(JCT)__mdb_mdb-121,Josephine Community Transit,Oregon,00059,manual_override,100.0,00059,"Josephine County, dba: Josephine Community Transit",OR,False,True
+Oregon__Let'er_Bus__mdb_mdb-590,Let'er Bus,Oregon,00359,manual_override,100.0,00359,"City of Pendleton, dba: Let'Er Bus",OR,False,True
+Oregon__Lincoln_County_Transit_(LCT)__mdb_mdb-23,Lincoln County Transit,Oregon,00310,manual_override,100.0,00310,"Lincoln County Transportation Service District, dba: Lincoln County Transit",OR,False,True
+Oregon__Link_Lane__mdb_mdb-932,Link Lane,Oregon,00464,manual_override,100.0,00464,"Lane Council of Governments, dba: Link Lane",OR,False,True
+Oregon__Linn_Shuttle__mdb_mdb-137,Linn Shuttle,Oregon,00061,manual_override,100.0,00061,"City of Albany, dba: Albany Transit System, Linn-Benton Loop",OR,False,True
+"Oregon__LINX_Transit,_Linn-Benton_Loop,_Albany_Transit_System__mdb_mdb-135",LINX Transit | Linn-Benton Loop | Albany Transit System,Oregon,00061,manual_override,100.0,00061,"City of Albany, dba: Albany Transit System, Linn-Benton Loop",OR,False,True
+Oregon__Malheur_Council_on_Aging_&_Community_Services__mdb_mdb-141,Malheur Council on Aging & Community Services,Oregon,00323,manual_override,100.0,00323,Malheur Council on Aging and Community Services,OR,False,True
+Oregon__Morrow_County_Public_Transit__mdb_mdb-2418,Morrow County Public Transit,Oregon,00308,manual_override,100.0,00308,"Curry County Public Transit Service District, dba: Curry Public Transit Inc",OR,False,True
+Oregon__Oregon_Express_Shuttle__mdb_mdb-132,Groome Transportation,Oregon,00R02,manual_override,100.0,00R02,Oregon Department of Transportation,OR,False,True
+Oregon__Pacific_Crest_Bus_Lines__mdb_mdb-133,Pacific Crest Bus Lines,Oregon,00362,manual_override,100.0,00362,"TAC Transportation, dba: Pacific Crest Bus Lines/ HighDesert POINT",OR,False,True
+Oregon__People_Mover__mdb_mdb-112,People Mover,Oregon,00313,manual_override,100.0,00313,"Grant County Transportation District, dba: The People Mover",OR,False,True
+Oregon__Philomath_Connection__mdb_mdb-2205,Philomath Connection,Oregon,00343,manual_override,100.0,00343,"Community Connection of Northeast Oregon, dba: NEOTransit",OR,False,True
+Oregon__Quail_Trail_Public_Transit__mdb_mdb-1327,Quail Trail Public Transit,Oregon,00421,manual_override,100.0,00421,"Burns Paiute Tribe, dba: Burns Paiute Tribal Transit",OR,False,True
+Oregon__Rhody_Express__mdb_mdb-24,Rhody Express,Oregon,00377,manual_override,100.0,00377,"City of Lebanon, dba: Lebanon Interneighborhood Express",OR,False,True
+Oregon__Ride_Connection__mdb_mdb-253,Ride Connection,Oregon,00376,manual_override,100.0,00376,"Ride Connection, Inc.",OR,False,True
+Oregon__Rogue_Valley_Transportation_District_(RVTD)__mdb_mdb-3219,Rogue Valley Transportation District,Oregon,00034,manual_override,100.0,00034,Rogue Valley Transportation District,OR,False,True
+Oregon__Sandy_Area_Metro_(SAM)__mdb_mdb-261,Mt. Hood Express | Sandy Area Metro,Oregon,00363,manual_override,100.0,00363,"Clackamas County, dba: Mt Hood Express and #ClackCo Shuttles",OR,False,True
+Oregon__Sandy_Area_Metro_(SAM)__mdb_mdb-2739,City of Sandy,Oregon,00389,manual_override,100.0,00389,City of Sandy,OR,False,True
+Oregon__South_Clackamas_Transportation_District__mdb_mdb-883,South Clackamas Transportation District,Oregon,00301,manual_override,100.0,00301,South Clackamas Transportation District,OR,False,True
+Oregon__South_Metro_Area_Regional_Transit_(SMART)__mdb_mdb-2706,SMART,Oregon,00046,manual_override,100.0,00046,"City of Wilsonville, dba: South Metro Area Regional Transit",OR,False,True
+"Oregon__Sunset_Empire_Transportation_District_(SETD),_Tillamook_County_Transportation_District,_Columbia_County_Rider__mdb_mdb-246",Tillamook County Transportation District,Oregon,00331,manual_override,100.0,00331,Sunset Empire Transportation District,OR,False,True
+Oregon__Sunset_Empire_Transportation_District__mdb_tld-4211,Sunset Empire Transportation District,Oregon,00331,manual_override,100.0,00331,Sunset Empire Transportation District,OR,False,True
+Oregon__Swan_Island_Evening_Shuttle__mdb_mdb-255,Multnomah County Transit,Oregon,00421,manual_override,100.0,00421,"Burns Paiute Tribe, dba: Burns Paiute Tribal Transit",OR,False,True
+"Oregon__TriMet,_Portland_Streetcar__mdb_mdb-247",Portland Streetcar | Portland Aerial Tram | TriMet,Oregon,00058,manual_override,100.0,00058,"City of Portland, dba: Portland Streetcar",OR,False,True
+Oregon__Wahkiakum_Ferry__mdb_mdb-2193,Wahkiakum Ferry,Oregon,90225,manual_override,100.0,90225,"San Francisco Bay Area Water Emergency Transportation Authority, dba: San Francisco Bay Ferry",CA,False,True
+"Oregon__Wallowa_Community_Connection_(WCC),_Northeast_Oregon_Public_Transit__mdb_mdb-289",Northeast Oregon Public Transit,Oregon,00R02,manual_override,100.0,00R02,Oregon Department of Transportation,OR,False,True
+Oregon__Washington_Park_Shuttle__mdb_mdb-254,Washington Park,Oregon,60168,manual_override,100.0,60168,Washington Parish Government,LA,False,True
+Oregon__Wheatland_Ferry__mdb_mdb-833,Wheatland Ferry,Oregon,90225,manual_override,100.0,90225,"San Francisco Bay Area Water Emergency Transportation Authority, dba: San Francisco Bay Ferry",CA,False,True
+Oregon__Woodburn_Transit_Service_(WTS)__mdb_mdb-251,Woodburn Transit,Oregon,00360,manual_override,100.0,00360,"City of Woodburn, dba: Woodburn Transit System",OR,False,True
+Oregon__Yamhill_County_Transit_Area__mdb_mdb-250,Yamhill County Transit Area,Oregon,00321,manual_override,100.0,00321,"Yamhill County, dba: Yamhill County Transit",OR,False,True
+Pennsylvania__Altoona_Metro_Transit__mdb_tld-4669,Amtran,Pennsylvania,30011,manual_override,100.0,30011,"Altoona Metro Transit, dba: AMTRAN",PA,False,True
+Pennsylvania__Area_Transit_Authority__mdb_tld-4551,Area Transportation Authority,Pennsylvania,31041,manual_override,100.0,31041,"County of Butler, dba: Butler Area Rural Transit",PA,False,True
+Pennsylvania__Beaver_County_Transit_Authority__mdb_mdb-2262,BCTA,Pennsylvania,30023,manual_override,100.0,30023,Beaver County Transit Authority,PA,False,True
+Pennsylvania__Berks_Area_Regional_Transportation_Authority_(BARTA)__mdb_mdb-2064,BARTA,Pennsylvania,31039,manual_override,100.0,31039,"Huntingdon-Bedford-Fulton Area Agency on Aging, dba: CART Senior Transportation",PA,False,True
+Pennsylvania__Borough_of_Mt._Carmel__mdb_ntd-30116,Lower Anthracite Transit Systems,Pennsylvania,30116,manual_override,100.0,30116,"Borough of Mt. Carmel, dba: Lower Anthracite Transportation System",PA,False,True
+Pennsylvania__Butler_Transit_Authority__mdb_tld-4659,Butler Transit Authority,Pennsylvania,31041,manual_override,100.0,31041,"County of Butler, dba: Butler Area Rural Transit",PA,False,True
+Pennsylvania__Cambria_County_Transit_Authority__mdb_tld-4671,CamTran,Pennsylvania,30012,manual_override,100.0,30012,"Cambria County Transit Authority, dba: CamTran",PA,False,True
+Pennsylvania__Capital_Area_Transit__mdb_tld-4298,Capital Area Transit,Pennsylvania,30014,manual_override,100.0,30014,"Cumberland Dauphin-Harrisburg Transit Authority, dba: Capital Area Transit",PA,False,True
+Pennsylvania__Centre_Area_Transportation_Authority_(CATABUS)__mdb_ntd-30054,CATA,Pennsylvania,30054,manual_override,100.0,30054,Centre Area Transportation Authority,PA,False,True
+Pennsylvania__Centre_County_Transit_Authority__mdb_tld-4771,CATA,Pennsylvania,31042,manual_override,100.0,31042,Centre County,PA,False,True
+Pennsylvania__County_of_Lackawanna_Transit_System__mdb_tld-4553,COLTS,Pennsylvania,30025,manual_override,100.0,30025,County of Lackawanna Transit System,PA,False,True
+Pennsylvania__Crawford_Area_Transportation_Authority__mdb_tld-4674,Meadville,Pennsylvania,30185,manual_override,100.0,30185,Crawford Area Transportation Authority,PA,False,True
+Pennsylvania__Fayette_Area_Coordinated_Transportation__mdb_tld-7027,Fayette Area Coordinated Transportation,Pennsylvania,30087,manual_override,100.0,30087,"County of Fayette, dba: Fayette Area Coordinated Transportation",PA,False,True
+Pennsylvania__Freedom_Transit__mdb_tld-4134,Freedom Transit,Pennsylvania,30111,manual_override,100.0,30111,"Washington County Transportation Authority, dba: Freedom Transit",PA,False,True
+Pennsylvania__Hazleton_Public_Transit__mdb_tld-4665,Hazleton Public Transit,Pennsylvania,30093,manual_override,100.0,30093,"City of Hazleton, dba: Hazleton Public Transit",PA,False,True
+Pennsylvania__Indiana_County_Transit_Authority__mdb_tld-4661,Indiana County Transit Authority,Pennsylvania,30177,manual_override,100.0,30177,"Indiana County Transit Authority, dba: IndiGO",PA,False,True
+Pennsylvania__Lebanon_Transit__mdb_tld-5531,Lebanon,Pennsylvania,30095,manual_override,100.0,30095,"County of Lebanon Transit Authority, dba: Lebanon Transit",PA,False,True
+Pennsylvania__Lehigh_and_Northampton_Transportation_Authority_(LANTA)__mdb_ntd-30010,LANTA,Pennsylvania,30010,manual_override,100.0,30010,Lehigh and Northampton Transportation Authority,PA,False,True
+Pennsylvania__Lower_Anthracite_Transit_System__mdb_tld-7023,Lower Anthracite Transit Systems,Pennsylvania,31044,manual_override,100.0,31044,"Somerset County, dba: Somerset County Transportation System",PA,False,True
+Pennsylvania__Luzerne_County_Transportation_Authority__mdb_tld-4555,Luzerne County Transportation Authority,Pennsylvania,30015,manual_override,100.0,30015,Luzerne County Transportation Authority,PA,False,True
+Pennsylvania__Mid_Mon_Valley_Transit_Authority__mdb_tld-5503,Mid Mon Valley Transit,Pennsylvania,30061,manual_override,100.0,30061,Mid Mon Valley Transit Authority,PA,False,True
+Pennsylvania__Monroe_County_Transportation_Authority_(MCTA)__mdb_mdb-3460,Monroe County Transit Authority,Pennsylvania,30137,manual_override,100.0,30137,"Monroe County Transportation Authority, dba: Pocono Pony",PA,False,True
+Pennsylvania__New_Castle_Area_Transit_Authority__mdb_tld-7030,New Castle Area Transit Authority,Pennsylvania,30151,manual_override,100.0,30151,New Castle Area Transit Authority,PA,False,True
+Pennsylvania__PATCO_Speedline__mdb_mdb-3035,Port Authority Transit Corporation,Pennsylvania,31041,manual_override,100.0,31041,"County of Butler, dba: Butler Area Rural Transit",PA,False,True
+Pennsylvania__PHLASH__mdb_mdb-2877,SEPTA | PHLASH,Pennsylvania,30019,manual_override,100.0,30019,Southeastern Pennsylvania Transportation Authority,PA,False,True
+Pennsylvania__Port_Authority_of_Allegheny_County__mdb_mdb-409,Pittsburgh Regional Transit,Pennsylvania,30022,manual_override,100.0,30022,Pittsburgh Regional Transit,PA,False,True
+Pennsylvania__Pottstown_Area_Rapid_Transit__mdb_tld-7025,Pottstown Area Rapid Transit,Pennsylvania,30077,manual_override,100.0,30077,"Borough of Pottstown, dba: Pottstown Area Rapid Transit",PA,False,True
+Pennsylvania__Red_Rose_Transit_Authority_(RRTA)__mdb_mdb-2000,Red Rose Transit Authority,Pennsylvania,31041,manual_override,100.0,31041,"County of Butler, dba: Butler Area Rural Transit",PA,False,True
+Pennsylvania__River_Valley_Transit__mdb_tld-4548,River Valley Transit,Pennsylvania,30207,manual_override,100.0,30207,"RIVER VALLEY TRANSIT AUTHORITY, dba: River Valley Transit",PA,False,True
+Pennsylvania__Schuylkill_Transportation_System__mdb_tld-4688,Schuylkill Transportation System,Pennsylvania,30127,manual_override,100.0,30127,Schuylkill Transportation System,PA,False,True
+Pennsylvania__Shenango_Valley_Shuttle_Service__mdb_tld-4663,Shenango Valley Shuttle Service,Pennsylvania,30055,manual_override,100.0,30055,"Mercer County Regional Council of Governments, dba: Shenango Valley Shuttle Service /MCCT",PA,False,True
+Pennsylvania__Trans-Bridge_Lines__mdb_ntd-20169,Trans-Bridge Lines,Pennsylvania,20169,manual_override,100.0,20169,"Trans-Bridge Lines, Inc.",PA,False,True
+Pennsylvania__Transit_Authority_of_Warren_County__mdb_ntd-30124,Transit Authority of Warren County,Pennsylvania,30124,manual_override,100.0,30124,"Warren County Transit Authority, dba: Transit Authority of Warren County",PA,False,True
+Pennsylvania__Transportation_Management_Association_of_Chester_County_(TMACC)__mdb_mdb-3130,TMACC,Pennsylvania,31043,manual_override,100.0,31043,"Chester County, dba: Chesco Connect",PA,False,True
+Pennsylvania__Upper_Merion_Rambler__mdb_mdb-3036,Greater Valley Forge TMA,Pennsylvania,30207,manual_override,100.0,30207,"RIVER VALLEY TRANSIT AUTHORITY, dba: River Valley Transit",PA,False,True
+Pennsylvania__Westmoreland_County_Transit_Authority__mdb_tld-6785,Westmoreland Transit,Pennsylvania,30044,manual_override,100.0,30044,Westmoreland County Transit Authority,PA,False,True
+Puerto_Rico__Municipality_of_Bayamon__mdb_ntd-40137,Municipio de Bayamon,Puerto_Rico,40137,manual_override,100.0,40137,Municipality of Bayamon,PR,False,True
+South_Carolina__Charleston_Area_Regional_Transportation_Authority_(CARTA)__mdb_mdb-352,Charleston Area Regional Transportation Authority,South_Carolina,40110,manual_override,100.0,40110,Charleston Area Regional Transportation Authority,SC,False,True
+South_Carolina__Fort_Sumter_and_Fort_Moultrie_National_Historical_Park__mdb_tld-6906,National Park Service,South_Carolina,44907,manual_override,100.0,44907,"Catawba Indian Nation, dba: Catawba Transit Service",SC,False,True
+South_Carolina__Greenlink__mdb_tld-490,Greenlink,South_Carolina,40053,manual_override,100.0,40053,"Greenville Transit Authority, dba: Greenlink",SC,False,True
+South_Carolina__My_Ride_Rock_Hill__mdb_tld-6741,City of Rock Hill,South_Carolina,40270,manual_override,100.0,40270,"City of Rock Hill, dba: My Ride",SC,False,True
+South_Carolina__The_Comet__mdb_mdb-2209,The COMET,South_Carolina,40141,manual_override,100.0,40141,"Central Midlands Regional Transportation Authority, dba: The COMET",SC,False,True
+South_Carolina__TriCounty_Link__mdb_ntd-40206,TriCounty Link,South_Carolina,40206,manual_override,100.0,40206,"Berkeley Charleston Dorchester RTMA, dba: TriCounty Link",SC,False,True
+Tennessee__Bristol_Virginia_Transit__mdb_mdb-238,Bristol Virginia Transit,Tennessee,40954,manual_override,100.0,40954,"South Central Tennessee Development District, dba: South Central Area Transit Service",TN,False,True
+Tennessee__Chattanooga_Area_Regional_Transportation_Authority_(CARTA)__mdb_mdb-3474,CARTA,Tennessee,40001,manual_override,100.0,40001,Chattanooga Area Regional Transportation Authority,TN,False,True
+Tennessee__City_of_Bristol_Tennessee__mdb_ntd-40055,Bristol Tennessee Transit,Tennessee,40055,manual_override,100.0,40055,"City of Bristol Tennessee, dba: Bristol Tennessee Transit System",TN,False,True
+Tennessee__City_of_Gatlinburg_Trolley__mdb_tld-6775,City of Gatlinburg,Tennessee,41102,manual_override,100.0,41102,City of Gatlinburg,TN,False,True
+Tennessee__City_of_Kingsport__mdb_ntd-40080,Kingsport Area Transit Service,Tennessee,40080,manual_override,100.0,40080,"City of Kingsport, dba: Kingsport Area Transit Service",TN,False,True
+Tennessee__City_of_Pigeon_Forge__mdb_ntd-41136,Pigeon Forge Mass Transit,Tennessee,41136,manual_override,100.0,41136,City of Pigeon Forge,TN,False,True
+Tennessee__Cleveland_Urban_Area_Transit_System__mdb_tld-7827,Cleveland Urban Area Transit System (CUATS),Tennessee,40170,manual_override,100.0,40170,"Southeast Tennessee Human Resource Agency, dba: Cleveland Urban Area Transit System Division",TN,False,True
+Tennessee__Franklin_Transit_Authority__mdb_mdb-361,Franklin Transit,Tennessee,40162,manual_override,100.0,40162,"Franklin Transit Authority, dba: Franklin Transit",TN,False,True
+Tennessee__Jackson_Transit_Authority__mdb_mdb-2313,Jackson Transit Authority,Tennessee,40057,manual_override,100.0,40057,Jackson Transit Authority,TN,False,True
+Tennessee__Johnson_City__mdb_ntd-40054,JCT,Tennessee,40054,manual_override,100.0,40054,"City of Johnson City, dba: Johnson City Transit System",TN,False,True
+Tennessee__Knoxville_Area_Transit_(KAT)__mdb_mdb-1121,KAT KNOXVILLE,Tennessee,40002,manual_override,100.0,40002,"City of Knoxville, dba: Knoxville Area Transit",TN,False,True
+Tennessee__Nashville_MTA_WeGo_Public_Transit__mdb_mdb-360,WeGo Public Transit,Tennessee,40159,manual_override,100.0,40159,"Regional Transportation Authority, dba: WeGo Public Transit",TN,False,True
+Texas__Brownsville_Metro__mdb_tld-7927,Brownsville Metro,Texas,60014,manual_override,100.0,60014,"City of Brownsville, dba: Brownsville Metro",TX,False,True
+Texas__Capital_Metro__mdb_mdb-150,Capital Metro,Texas,60048,manual_override,100.0,60048,"Capital Metropolitan Transportation Authority, dba: Capital Metro",TX,False,True
+Texas__Citibus__mdb_mdb-569,Citibus,Texas,60010,manual_override,100.0,60010,"City of Lubbock, dba: Citibus",TX,False,True
+Texas__City_of_Longview__mdb_ntd-60081,Longview Transit,Texas,60081,manual_override,100.0,60081,"City of Longview, dba: City of Longview Transit",TX,False,True
+Texas__Dallas_Area_Rapid_Transit_(DART)__mdb_mdb-152,DALLAS AREA RAPID TRANSIT,Texas,60056,manual_override,100.0,60056,Dallas Area Rapid Transit,TX,False,True
+Texas__El_Metro_Transit__mdb_tld-7038,"Laredo Transit Management Inc.,-El Metro",Texas,60048,manual_override,100.0,60048,"Capital Metropolitan Transportation Authority, dba: Capital Metro",TX,False,True
+Texas__El_Paso_Transportation_Authority__mdb_mdb-3419,El Paso Transportation Authority,Texas,60179,manual_override,100.0,60179,"El Paso County, dba: El Paso Transportation Authority",TX,False,True
+Texas__EZ_Rider__mdb_mdb-2634,EZ Rider,Texas,60097,manual_override,100.0,60097,"Midland-Odessa Urban Transit District, dba: EZ-Rider",TX,False,True
+"Texas__Fort_Bend_County,_Texas__mdb_ntd-60103",Fort Bend Transit,Texas,60103,manual_override,100.0,60103,"Fort Bend County, Texas, dba: Fort Bend Transit",TX,False,True
+Texas__Galveston_Island_Transit__mdb_mdb-2861,Island Transit,Texas,60015,manual_override,100.0,60015,"City of Galveston, dba: Galveston Island Transit",TX,False,True
+Texas__McKinney_Avenue_Transit_Authority__mdb_ntd-60133,McKinney Avenue Transit Authority (M-Line),Texas,60133,manual_override,100.0,60133,McKinney Avenue Transit Authority,TX,False,True
+Texas__METRO_Houston__mdb_mdb-2060,Metropolitan Transit Authority of Harris County,Texas,60108,manual_override,100.0,60108,"Harris County, dba: Harris County Transit",TX,False,True
+Texas__Metro_McAllen__mdb_ntd-60099,Metro McAllen,Texas,60099,manual_override,100.0,60099,"City of McAllen, dba: Metro McAllen",TX,False,True
+Texas__Midland-Odessa_Urban_Transit_District__mdb_ntd-60097,EZ Rider,Texas,60097,manual_override,100.0,60097,"Midland-Odessa Urban Transit District, dba: EZ-Rider",TX,False,True
+Texas__STAR_Transit__mdb_mdb-153,STAR Transit,Texas,60114,manual_override,100.0,60114,STAR Transit,TX,False,True
+Texas__Texarkana_Urban_Transit_District_(T-Line_Bus)__mdb_ntd-60093,T-Line,Texas,60093,manual_override,100.0,60093,"Texarkana Urban Transit District, dba: T-Line",TX,False,True
+Texas__VIA_Metropolitan_Transit__mdb_tld-217,VIA Metropolitan Transit,Texas,60011,manual_override,100.0,60011,"VIA Metropolitan Transit, dba: VIA",TX,False,True
+Utah__Bryce_Canyon_National_Park_Shuttle__mdb_tld-6675,National Park Service,Utah,88233,manual_override,100.0,88233,Uintah Healthcare Special Service District,UT,False,True
+Utah__Cache_Valley_Transit_District__mdb_ntd-80028,CVTD Cache Valley Transit District,Utah,80028,manual_override,100.0,80028,"Cache Valley Transit District, dba: Connect Transit",UT,False,True
+Utah__High_Valley_Transit__mdb_tld-7037,High Valley Transit,Utah,88239,manual_override,100.0,88239,High Valley Transit District,UT,False,True
+Utah__SunTran_Utah__mdb_mdb-111,SunTran Utah,Utah,80026,manual_override,100.0,80026,"City of St. George, dba: SunTran",UT,False,True
+Utah__Utah_Transit_Authority_(UTA)__mdb_mdb-170,Utah Transit Authority,Utah,80001,manual_override,100.0,80001,Utah Transit Authority,UT,False,True
+Utah__Ute_Tribe_Public_Transit__mdb_ntd-88200,Ute Tribe Public Transit,Utah,88200,manual_override,100.0,88200,"Ute Tribe, dba: Ute Tribe Transit",UT,False,True
+Utah__Zion_National_Park__mdb_tld-6682,National Park Service,Utah,88233,manual_override,100.0,88233,Uintah Healthcare Special Service District,UT,False,True
+Vermont__Amtrak_Vermonter__mdb_mdb-2297,Megabus | Amtrak Ethan Allen | Amtrak Vermonter,Vermont,55463,manual_override,100.0,55463,"Allen County Council on Aging, Inc.",OH,False,True
+Vermont__Chittenden_County_Transportation_Authority_(CCTA)__mdb_mdb-629,Special Services Transportation Agency | Green Mountain Transit,Vermont,10066,manual_override,100.0,10066,Green Mountain Transit Authority,VT,False,True
+Vermont__Marble_Valley_Regional_Transit_District_(MVRTD)__mdb_mdb-2831,The Bus (Marble Valley Regional Transit District),Vermont,10154,manual_override,100.0,10154,Marble Valley Regional Transit District,VT,False,True
+Vermont__Marble_Valley_Regional_Transit_District_(MVRTD)__mdb_mdb-430,The Bus (Marble Valley Regional Transit District),Vermont,10154,manual_override,100.0,10154,Marble Valley Regional Transit District,VT,False,True
+Vermont__Rockingham_MOOver__mdb_mdb-2194,Rockingham MOOver | Wilmington MOOver,Vermont,40929,manual_override,100.0,40929,Rockingham County Council on Aging,NC,False,True
+Vermont__Rural_Community_Transportation_(RCT)__mdb_mdb-2882,Rural Community Transportation,Vermont,10148,manual_override,100.0,10148,Rural Community Transportation,VT,False,True
+Vermont__Vermont_Translines__mdb_mdb-450,Vermont Translines,Vermont,11158,manual_override,100.0,11158,"Premier Coach Co., Inc.			, dba: Vermont Translines",VT,False,True
+Vermont__VTrans__mdb_mdb-2884,Rockingham MOOver | Wilmington MOOver,Vermont,10143,manual_override,100.0,10143,Tri-Valley Transit Inc,VT,False,True
+Virginia__Alexandria_Transit_Company_(DASH)__mdb_mdb-482,DASH,Virginia,30071,manual_override,100.0,30071,"City of Alexandria, dba: DASH",VA,False,True
+Virginia__Altavista_Community_Transit_System__mdb_mdb-882,Altavista Community Transit System,Virginia,30157,manual_override,100.0,30157,"Town of Altavista, dba: Altavista Community Transit System",VA,False,True
+Virginia__Arlington_Transit__mdb_mdb-485,Arlington Transit ART,Virginia,30080,manual_override,100.0,30080,"Arlington County, Virginia, dba: Arlington Transit",VA,False,True
+Virginia__Bay_Transit__mdb_mdb-224,Bay Transit,Virginia,30172,manual_override,100.0,30172,"Bay Aging, dba: Bay Transit",VA,False,True
+Virginia__Bay_Transit__mdb_mdb-2439,Bay Transit,Virginia,30172,manual_override,100.0,30172,"Bay Aging, dba: Bay Transit",VA,False,True
+Virginia__Blackstone_Area_Bus_Service__mdb_mdb-235,Blackstone Area Bus Service,Virginia,30184,manual_override,100.0,30184,"Town of Blackstone, dba: Blackstone Area Bus Service",VA,False,True
+Virginia__Charlottesville_Area_Transit_(CAT)__mdb_mdb-3493,Charlottesville Area Transit,Virginia,30036,manual_override,100.0,30036,"City of Charlottesville, dba: Charlottesville Area Transit",VA,False,True
+Virginia__Danville_Transit__mdb_mdb-2440,Danville Transit,Virginia,30069,manual_override,100.0,30069,"City of Danville, dba: Danville Transit",VA,False,True
+Virginia__Danville_Transit__mdb_tld-4145,Danville Transit,Virginia,30069,manual_override,100.0,30069,"City of Danville, dba: Danville Transit",VA,False,True
+Virginia__Fairfax_CUE_Bus_(CUE)__mdb_mdb-2885,CUE Bus - City of Fairfax,Virginia,30058,manual_override,100.0,30058,"City of Fairfax, dba: CUE Bus",VA,False,True
+Virginia__Farmville_Area_Bus__mdb_mdb-461,Farmville Area Bus,Virginia,30165,manual_override,100.0,30165,"Town of Farmville, dba: Farmville Area Bus",VA,False,True
+Virginia__Four_County_Transit__mdb_mdb-2308,Four County Transit,Virginia,30174,manual_override,100.0,30174,"Appalachian Agency for Senior Citizens, dba: Four County Transit",VA,False,True
+Virginia__Four_County_Transit__mdb_mdb-2448,Four County Transit,Virginia,30174,manual_override,100.0,30174,"Appalachian Agency for Senior Citizens, dba: Four County Transit",VA,False,True
+Virginia__Graham_Transit__mdb_mdb-611,Graham Transit,Virginia,30164,manual_override,100.0,30164,"Town of Bluefield, dba: Graham Transit",VA,False,True
+Virginia__Greater_Lynchburg_Transit_Co__mdb_mdb-381,Greater Lynchburg Transit Co.,Virginia,30008,manual_override,100.0,30008,Greater Lynchburg Transit Company,VA,False,True
+Virginia__Greensville_Emporia_Transit__mdb_mdb-463,Greensville Emporia Transit,Virginia,31025,manual_override,100.0,31025,"County of Greensville, dba: Greensville Emporia Transit",VA,False,True
+Virginia__Hampton_Roads_Transit_(HRT)__mdb_mdb-473,Hampton Roads Transit (HRT),Virginia,30083,manual_override,100.0,30083,"Transportation District Commission of Hampton Roads, dba: Hampton Roads Transit",VA,False,True
+Virginia__Jaunt__mdb_mdb-3492,Jaunt,Virginia,30045,manual_override,100.0,30045,"JAUNT, Inc.",VA,False,True
+Virginia__Loudoun_County_Transit__mdb_mdb-1053,LCT,Virginia,30081,manual_override,100.0,30081,"Loudoun County, dba: Loudoun County Transit",VA,False,True
+Virginia__Mountain_Lynx_Transit__mdb_mdb-334,Mountain Lynx Transit,Virginia,30123,manual_override,100.0,30123,"District Three Governmental Cooperative, dba: Mountain Lynx Transit",VA,False,True
+Virginia__Petersburg_Area_Transit__mdb_mdb-2441,Petersburg Area Transit,Virginia,30009,manual_override,100.0,30009,"City of Petersburg, dba: Petersburg Area Transit",VA,False,True
+Virginia__Petersburg_Area_Transit__mdb_mdb-591,Petersburg Area Transit,Virginia,30009,manual_override,100.0,30009,"City of Petersburg, dba: Petersburg Area Transit",VA,False,True
+Virginia__Pony_Express__mdb_mdb-828,Pony Express,Virginia,30073,manual_override,100.0,30073,Virginia Railway Express,VA,False,True
+Virginia__Potomac_and_Rappahannock_Transportation_Commission_(PRTC)_Omniride__mdb_mdb-1156,OMNIRIDE,Virginia,30070,manual_override,100.0,30070,"Potomac and Rappahannock Transportation Commission, dba: OmniRide",VA,False,True
+Virginia__Pulaski_Area_Transit_(PAT)__mdb_mdb-2198,Pulaski Area Transit,Virginia,30115,manual_override,100.0,30115,"New River Valley Senior Services, Inc., dba: Pulaski Area Transit",VA,False,True
+Virginia__RADAR__mdb_mdb-2443,RADAR,Virginia,30178,manual_override,100.0,30178,"Unified Human Services Transportation Systems, Inc, dba: RADAR",VA,False,True
+Virginia__RADAR__mdb_mdb-832,RADAR,Virginia,30178,manual_override,100.0,30178,"Unified Human Services Transportation Systems, Inc, dba: RADAR",VA,False,True
+Virginia__Radford_Transit__mdb_mdb-2415,Radford Transit,Virginia,30200,manual_override,100.0,30200,"City of Radford, dba: Radford Transit",VA,False,True
+Virginia__STAR_Transit__mdb_mdb-2444,STAR Transit,Virginia,30114,manual_override,100.0,30114,"Accomack-Northhampton Transportation District Comm, dba: STAR Transit",VA,False,True
+Virginia__STAR_Transit__mdb_mdb-819,STAR Transit,Virginia,30114,manual_override,100.0,30114,"Accomack-Northhampton Transportation District Comm, dba: STAR Transit",VA,False,True
+Virginia__Valley_Metro__mdb_mdb-2274,Valley Metro Roanoke,Virginia,30007,manual_override,100.0,30007,"Greater Roanoke Transit Company, dba: Valley Metro",VA,False,True
+Virginia__Virginia_Regional_Transit__mdb_mdb-2445,Virginia Regional Transit,Virginia,30118,manual_override,100.0,30118,Virginia Regional Transit,VA,False,True
+Virginia__Virginia_Regional_Transit__mdb_mdb-621,Virginia Regional Transit,Virginia,30118,manual_override,100.0,30118,Virginia Regional Transit,VA,False,True
+Virginia__Williamsburg_Area_Transit_Authority__mdb_mdb-2649,Williamsburg Area Transit Authority,Virginia,30076,manual_override,100.0,30076,Williamsburg Area Transit Authority,VA,False,True
+Virginia__WinTran__mdb_mdb-608,WinTran,Virginia,30099,manual_override,100.0,30099,"City of Winchester, dba: WinTran",VA,False,True
+Washington__Ben_Franklin_Transit__mdb_mdb-2122,BFT,Washington,00018,manual_override,100.0,00018,Ben Franklin Transit,WA,False,True
+Washington__City_of_Ellensburg_Public_Transit_(Central_Transit)__mdb_mdb-2456,Ellensburg Central Transit,Washington,00405,manual_override,100.0,00405,"Okanogan County Transit Authority, dba: TranGO",WA,False,True
+Washington__City_of_Pullman__mdb_ntd-294,Pullman Transit,Washington,00294,manual_override,100.0,00294,"City of Pullman, dba: Pullman Transit",WA,False,True
+Washington__Clallam_Transit_System__mdb_mdb-279,Clallam Transit System,Washington,00303,manual_override,100.0,00303,Clallam Transit System,WA,False,True
+Washington__Colville_Confederated_Tribes_Transit__mdb_mdb-2302,Colville Confederated Tribes Transit,Washington,00004,manual_override,100.0,00004,Confederated Tribes of the Colville Indian Reservation,WA,False,True
+Washington__Community_Transit_(CT)__mdb_mdb-287,Community Transit | Sound Transit,Washington,00029,manual_override,100.0,00029,"Snohomish County Public Transportation Benefit Area Corporation, dba: Community Transit",WA,False,True
+Washington__Elwha_Transit__mdb_mdb-2307,Elwha Transit,Washington,00405,manual_override,100.0,00405,"Okanogan County Transit Authority, dba: TranGO",WA,False,True
+Washington__Everett_Transit__mdb_mdb-3038,Everett Transit,Washington,00005,manual_override,100.0,00005,"City of Everett, dba: Everett Transit",WA,False,True
+Washington__Grant_Transit_Authority__mdb_mdb-2309,Grant Transit Authority,Washington,00309,manual_override,100.0,00309,"Grant County Transportation Authority, dba: Grant Transit Authority",WA,False,True
+Washington__Grays_Harbor_Transit__mdb_mdb-263,Grays Harbor Transit,Washington,00314,manual_override,100.0,00314,Grays Harbor Transit,WA,False,True
+Washington__Guemes_Island_Ferry__mdb_mdb-2310,Guemes Island Ferry,Washington,00103,manual_override,100.0,00103,"Squaxin Island Tribe, dba: Squaxin Island Transit",WA,False,True
+Washington__Intercity_Transit__mdb_mdb-266,Intercity Transit,Washington,00019,manual_override,100.0,00019,Intercity Transit,WA,False,True
+Washington__Island_Transit__mdb_mdb-280,Island Transit,Washington,00298,manual_override,100.0,00298,Island Transit,WA,False,True
+Washington__Jefferson_Transit_Authority__mdb_mdb-838,Jefferson Transit Authority,Washington,00316,manual_override,100.0,00316,Jefferson Transit,WA,False,True
+Washington__King_County_Metro__mdb_mdb-1330,Metro Transit | City of Seattle | Sound Transit | Solid Ground EZ Loop,Washington,00023,manual_override,100.0,00023,"City of Seattle, dba: Seattle Center Monorail",WA,False,True
+Washington__Lady_of_the_Lake__mdb_mdb-2318,Lady of the Lake,Washington,00R03,manual_override,100.0,00R03,Washington State Department of Transportation,WA,False,True
+Washington__Lummi_Transit__mdb_mdb-2320,Lummi Transit,Washington,00095,manual_override,100.0,00095,"Lummi Nation, dba: Lummi Transit",WA,False,True
+Washington__Makah_Public_Transit__mdb_mdb-2196,Makah Public Transit,Washington,00405,manual_override,100.0,00405,"Okanogan County Transit Authority, dba: TranGO",WA,False,True
+Washington__Mason_Transit_Authority__mdb_mdb-264,Mason Transit Authority,Washington,00315,manual_override,100.0,00315,"Mason County Transportation Authority, dba: Mason Transit Authority",WA,False,True
+"Washington__Metro_Transit,_Intercity_Transit,_City_of_Seattle,_Community_Transit,_Pierce_Transit,_Sound_Transit,_Washington_State_Fe__mdb_mdb-1080",Metro Transit | Intercity Transit | Kitsap Transit | City of Seattle | Community Transit | Pierce Transit | Sound Transit | Amtrak | Solid Ground EZ Loop | Washington State Ferries | Seattle Center Monorail | Everett Transit,Washington,00035,manual_override,100.0,00035,Washington State Ferries,WA,False,True
+Washington__Mount_Adams_Transportation_Service__mdb_mdb-580,Mount Adams Transportation Service,Washington,00299,manual_override,100.0,00299,"Klickitat County Senior Services, dba: Mount Adams Transportation Service",WA,False,True
+Washington__Muckleshoot_Tribal_Transit__mdb_mdb-2326,Muckleshoot Tribal Transit,Washington,00333,manual_override,100.0,00333,"Council on Aging & Human Services, dba: COAST Public Transportation",WA,False,True
+Washington__Pacific_Transit__mdb_mdb-3112,Pacific Transit,Washington,00322,manual_override,100.0,00322,Pacific Transit,WA,False,True
+Washington__Pahto_Public_Passage__mdb_mdb-2331,Pahto Public Passage,Washington,00111,manual_override,100.0,00111,"Confederated Tribes and Bands of The Yakama Nation, dba: Pahto Public Passage",WA,False,True
+Washington__People_for_People_(Community_Connector)__mdb_mdb-271,People for People,Washington,00297,manual_override,100.0,00297,People for People Yakima,WA,False,True
+Washington__Pierce_County_Ferries__mdb_tld-2289,Pierce County Ferries,Washington,00371,manual_override,100.0,00371,"Wahkiakum County, dba: Wahkiakum on the Move",WA,False,True
+Washington__Pierce_Transit__mdb_mdb-265,Pierce Transit | Sound Transit,Washington,00003,manual_override,100.0,00003,"Pierce County Transportation Benefit Area Authority, dba: Pierce Transit",WA,False,True
+Washington__RiverCities_Transit_(RCT)__mdb_mdb-259,RiverCities Transit,Washington,00016,manual_override,100.0,00016,"City of Longview, dba: RiverCities Transit",WA,False,True
+Washington__Rural_Resources_Community_Action__mdb_tld-5751,Rural Resources Community Action,Washington,00286,manual_override,100.0,00286,Rural Resources Community Action,WA,False,True
+Washington__ruralTRANSIT__mdb_mdb-822,ruralTRANSIT,Washington,00285,manual_override,100.0,00285,"Thurston Regional Planning Council, dba: ruralTRANSIT",WA,False,True
+Washington__Seattle_Center_Monorail__mdb_tld-2290,Seattle Center Monorail,Washington,00023,manual_override,100.0,00023,"City of Seattle, dba: Seattle Center Monorail",WA,False,True
+Washington__Skagit_Transit__mdb_tld-5895,Skagit Transit,Washington,00044,manual_override,100.0,00044,Skagit Transit,WA,False,True
+Washington__Skamania_County_Transit__mdb_mdb-262,Skamania County Transit,Washington,00371,manual_override,100.0,00371,"Wahkiakum County, dba: Wahkiakum on the Move",WA,False,True
+Washington__Snoqualmie_Valley_Transportation__mdb_mdb-816,Snoqualmie Valley Transportation,Washington,00317,manual_override,100.0,00317,"Mt Si Senior Center, dba: Snoqualmie Valley Transportation",WA,False,True
+Washington__Snow_Goose_Transit__mdb_tld-5754,Snow Goose Transit,Washington,00405,manual_override,100.0,00405,"Okanogan County Transit Authority, dba: TranGO",WA,False,True
+Washington__Solid_Ground__mdb_tld-5755,Solid Ground,Washington,88265,manual_override,100.0,88265,Common Ground Outdoor Adventures,UT,False,True
+"Washington__Sound_Transit,_Metro_Transit,_City_of_Seattle_-_King_County_Metro__mdb_mdb-267",Metro Transit | City of Seattle | Sound Transit | Solid Ground EZ Loop,Washington,00023,manual_override,100.0,00023,"City of Seattle, dba: Seattle Center Monorail",WA,False,True
+Washington__Sound_Transit__mdb_mdb-268,Sound Transit,Washington,00040,manual_override,100.0,00040,"Central Puget Sound Regional Transit Authority, dba: Sound Transit",WA,False,True
+Washington__Special_Mobility_Services__mdb_tld-5756,Special Mobility Services,Washington,00366,manual_override,100.0,00366,White Pass Community Services Coalition,WA,False,True
+Washington__Spokane_Transit_Authority_(STA)__mdb_mdb-290,Spokane Transit Authority,Washington,00002,manual_override,100.0,00002,Spokane Transit Authority,WA,False,True
+Washington__Squaxin_Island_Transit__mdb_mdb-2197,Squaxin Island Transit,Washington,00298,manual_override,100.0,00298,Island Transit,WA,False,True
+Washington__The_Moccasin_Express__mdb_mdb-2325,The Moccasin Express,Washington,00207,manual_override,100.0,00207,"Spokane Tribe of Indians, dba: The Moccasin Express",WA,False,True
+Washington__Twin_Transit__mdb_tld-5579,Lewis County Transit,Washington,00364,manual_override,100.0,00364,Lewis County Transit,WA,False,True
+Washington__Union_Gap__mdb_mdb-277,Union Gap Transit,Washington,00405,manual_override,100.0,00405,"Okanogan County Transit Authority, dba: TranGO",WA,False,True
+Washington__Valley_Transit__mdb_tld-820,Valley Transit,Washington,00064,manual_override,100.0,00064,Valley Transit,WA,False,True
+Washington__Wahkiakum_on_the_Move__mdb_mdb-249,Wahkiakum on the Move,Washington,00371,manual_override,100.0,00371,"Wahkiakum County, dba: Wahkiakum on the Move",WA,False,True
+Washington__Washington_State_Department_of_Transportation_(WSDOT_Apple_Line)__mdb_mdb-245,Apple Line | Gold Line | Grape Line | Dungeness Line | Wheat Line,Washington,00R03,manual_override,100.0,00R03,Washington State Department of Transportation,WA,False,True
+Washington__Washington_State_Ferries__mdb_mdb-1331,Washington State Ferries,Washington,00035,manual_override,100.0,00035,Washington State Ferries,WA,False,True
+Washington__Washington_State_Ferries__mdb_mdb-283,Washington State Ferries,Washington,00035,manual_override,100.0,00035,Washington State Ferries,WA,False,True
+Washington__Whatcom_Transportation_Authority__mdb_mdb-284,Whatcom Transportation Authority,Washington,00021,manual_override,100.0,00021,Whatcom Transportation Authority,WA,False,True
+Washington__Yakima_Transit__mdb_mdb-276,Yakima Transit,Washington,00006,manual_override,100.0,00006,"City of Yakima, dba: Yakima Transit",WA,False,True
+West_Virginia__Country_Roads_Transit__mdb_ntd-30122,Country Roads Transit,West_Virginia,30122,manual_override,100.0,30122,"Randolph County Senior Center, dba: Country Roads Transit",WV,False,True
+West_Virginia__Eastern_Panhandle_Transit_Authority__mdb_tld-4459,Eastern Panhandle Transit Authority,West_Virginia,30090,manual_override,100.0,30090,Eastern Panhandle Transit Authority,WV,False,True
+West_Virginia__Harpers_Ferry_National_Historical_Park__mdb_tld-6678,National Park Service,West_Virginia,31015,manual_override,100.0,31015,Family Service Upper Ohio Valley,WV,False,True
+West_Virginia__Kanawha_Valley_Regional_Transportation_Authority__mdb_tld-5769,Kanawha Valley Regional Transportation Authority,West_Virginia,30001,manual_override,100.0,30001,Kanawha Valley Regional Transportation Authority,WV,False,True
+West_Virginia__Mountain_Line_Transit_Authority__mdb_mdb-407,Mountain Line Transit Authority,West_Virginia,30140,manual_override,100.0,30140,Mountain Transit Authority,WV,False,True
+West_Virginia__New_River_Transit_Authority__mdb_tld-6713,City of Beckley (New River Transit),West_Virginia,30199,manual_override,100.0,30199,"New River Transit Authority, dba: New River Transit",WV,False,True
+Wisconsin__Beloit_Transit_System__mdb_tld-77,Beloit Transit,Wisconsin,50109,manual_override,100.0,50109,"City of Beloit, dba: Beloit Transit System",WI,False,True
+Wisconsin__Central_Transportation__mdb_tld-4757,Central Transportation,Wisconsin,55416,manual_override,100.0,55416,"Opportunity of North Central Wisconsin, Inc.",WI,False,True
+Wisconsin__Fond_du_Lac_Area_Transit__mdb_tld-7929,Fond du Lac,Wisconsin,55379,manual_override,100.0,55379,"ARC of Fond du Lac, Inc.",WI,False,True
+Wisconsin__GO_Transit__mdb_mdb-397,GO Transit (City of Oshkosh),Wisconsin,50009,manual_override,100.0,50009,"City of Oshkosh, Wisconsin, dba: GO Transit",WI,False,True
+Wisconsin__Janesville_Transit_System__mdb_mdb-393,Janesville Transit System,Wisconsin,50108,manual_override,100.0,50108,"City of Janesville, dba: Janesville Transit System",WI,False,True
+Wisconsin__Metro_Ride__mdb_mdb-830,Metro Ride,Wisconsin,50091,manual_override,100.0,50091,"City of Wausau, Wisconsin, dba: Metro Ride",WI,False,True
+Wisconsin__Metro_Transit_-_City_of_Madison__mdb_mdb-394,Metro Transit-City of Madison,Wisconsin,50005,manual_override,100.0,50005,City of Madison,WI,False,True
+Wisconsin__Ryde_Racine__mdb_mdb-2246,Ryde Racine,Wisconsin,50006,manual_override,100.0,50006,"City of Racine, Wisconsin, dba: RYDE Racine",WI,False,True
+Wisconsin__Shoreline_Metro__mdb_mdb-399,Shoreline Metro,Wisconsin,50088,manual_override,100.0,50088,"City of Sheboygan, dba: Shoreline Metro",WI,False,True
+Wisconsin__Valley_Transit_(WI)__mdb_mdb-2069,Valley Transit,Wisconsin,55366,manual_override,100.0,55366,"Southwestern WI Community Action Program, Inc., dba: Southwestern WI Community Action Program",WI,False,True
+Wyoming__Southern_Teton_Area_Rapid_Transit_(START_Bus)__mdb_ntd-80188,START Bus,Wyoming,80188,manual_override,100.0,80188,"Southern Teton Area Rapid Transit, dba: START Bus",WY,False,True
+Wyoming__Wind_River_Transportation_Authority__mdb_ntd-80121,Wind River Transportation Authority,Wyoming,80121,manual_override,100.0,80121,"Fremont County Association of Governments, dba: Wind River Transportation Authority",WY,False,True

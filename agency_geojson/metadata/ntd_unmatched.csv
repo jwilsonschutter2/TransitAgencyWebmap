@@ -1,0 +1,4 @@
+﻿feed_id,gtfs_agency_names,state_hint,accepted_ntd_id,method,score,suggested_ntd_id,suggested_agency,suggested_state,ambiguous,accepted
+California__Corona_Cruiser__mdb_mdb-104,Corona Cruiser,California,,none,0.0,,,,False,False
+California__Lawndale_Beat__mdb_mdb-36,Lawndale Beat,California,,none,0.0,,,,False,False
+Massachusetts__Patriots_Party_Boats__mdb_mdb-424,Patriot Party Boats,Massachusetts,,none,0.0,,,,False,False
